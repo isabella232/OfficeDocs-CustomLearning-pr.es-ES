@@ -1,0 +1,34 @@
+# <a name="get-started"></a>Introducción
+
+Permite tomar algunas decisiones acerca de cómo utilizar las soluciones de aprendizaje personalizado antes de empezar.  A continuación presentamos sus consideraciones claves:
+
+1. **¿Ya tiene un portal de aprendizaje de su compañía?  ¿Es atender las necesidades de su compañía al tener una interfaz moderna, accesible?**
+
+- **Sí** Si la respuesta a estas preguntas es afirmativa, a continuación, [instalar el elemento Web](installwebpart.md) dentro de esa experiencia existente del sitio es nuestro curso recomendada de acción.
+- **NO** Si no responde a alguna de estas preguntas, es recomendable [instalar el sitio de aprendizaje personalizado completo](installsitepackage.md) paquete.  Esto le preparará con un sitio de comunicación de SharePoint Online moderno que su puede expandir para alojar otra información que es importante para los usuarios finales.  Personalizar el sitio no tendrá un impacto capacidad del elemento Web para obtener actualizaciones de contenido. 
+
+2. **¿Son un administrador de Office 365?**
+
+- **Sí**: tiene los derechos adecuados para la instalación.
+- **NO**: póngase en contacto con el Administrador de Office 365 para obtener ayuda o instale el elemento Web en una colección de sitios es propietario
+
+3. **¿Tiene un departamento de aprendizaje formal en su organización?**
+
+- **Sí**: asegúrese de contratar a ellos y que sepan cómo pueden utilizar estas soluciones para entregar contenido de aprendizaje adicionales y personalizada.
+- **NO**: Use nuestro [kit de adopción de autoservicio](driveadoption.md) para que los usuarios finales el sitio está disponible para ayudarles a tener en cuenta.
+
+4. **¿Tiene una comunidad de usuarios en su organización?  Esto sería un grupo formal o informal de los usuarios que desean saber más acerca de la tecnología, a veces denominada que usuarios avanzados o sólo los interesados obtener más información.**
+
+- **Sí**: puede usar la experiencia de sitio de aprendizaje personalizado para proporcionar vínculos a los foros de la Comunidad de usuario nuevo o existente.
+- **NO**: considere la posibilidad de iniciar un grupo de usuarios internos para que pueden compartir su éxito y obtenga información sobre cada uno de otras personas.  Si no dispone de tiempo para fomentar a un grupo de usuarios internos y a los empleados pueden unirse a la [Comunidad de los pesos pesados Microosft Office 365](https://aka.ms/O365Champions) para formación mensual, la pertenencia de la Comunidad en línea y el acceso rápido a recursos y herramientas para Office 365.
+
+5.  **¿Será responsable de preguntas de soporte técnico o de mantenimiento de sitio?**
+
+- **Sí**: se recomienda usar las funciones de Office 365 para realizar personalizada de soporte técnico del sitio sea más fácil de aprendizaje.  Algunas ideas, según su tamaño de suscripción y de organización de servicio son:
+    1. Las organizaciones de gran tamaño pueden aprovisionar una comunidad pública de Yammer para obtener comentarios en el sitio
+    2. Hasta 2500 personas pueden unir a una Team Microsoft para formular preguntas y compartir conversación
+    3. Un proceso de soporte técnico formal puede ser compatibles con formularios, flujo y listas de SharePoint en línea o a través de la otra parte 3ª de las herramientas que es posible que ya tiene para soporte de TI de su compañía. 
+- **NO**: se analiza la instalación de los sitios o webpart con su personal de TI que proporcionan compatibilidad con SharePoint Online.  
+
+> [!NOTE]
+> Este proyecto de código abierto se admite a través de nuestra [lista de problemas en línea](https://github.com/MicrosoftDocs/OfficeDocs-CustomLearning-pr/issues) en depósito. Estas soluciones no están cubiertas por cualquier contrato de soporte técnico de Microsoft existente.  Para obtener que más información visite nuestra página de [comentarios y soporte técnico](feedback.md) .
