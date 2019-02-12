@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>Instalar paquete de sitio de aprendizaje personalizados
+---
+author: karuanag
+ms.author: karuanag
+title: Aprovisionar la experiencia del sitio
+ms.date: 02/10/2019
+description: Aprovisionar el aprendizaje personalizado para el sitio de Office 365
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951204"
+---
+# <a name="provision-the-custom-learning-site"></a>Aprovisionar personalizados sitio de aprendizaje
 
-## <a name="prerequisite-for-installation"></a>Requisito previo para la instalación
-
-- Para instalar el paquete de sitio de aprendizaje personalizado para el inquilino debe disponer de permisos administrativos de Office 365.  Si no tiene estos permisos puede trabajar con el Administrador de Office 365 o instale el elemento Web por sí solo para una colección de sitios individuales.
-- Es posible que desee considere la posibilidad de instalar el paquete en una ubicación de prueba para familiarizarse con el contenido.  Si adopta este enfoque necesita volver a instalar el paquete en el inquilino de producción y vuelva a crear las personalizaciones que realizó durante las pruebas. 
-- Actualizaciones del contenido de aprendizaje de webpart no tendrá efecto las personalizaciones de página.
-- Sólo se admite SharePoint Online. El elemento web no es compatible para la instalación en cualquier versión de SharePoint local.
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>Agregue el sitio de aprendizaje personalizado a su inquilino 
-
-**1. agregar instrucciones del paquete**
-
+1. Vaya a http://provisioning.sharepointpnp.com y planificación del inicio de sesión con sus credenciales para el destino de inquilinos en uso para la instalación. ![pnphome.png](media/pnphome.png)
+1. Comprobar el consentimiento en nombre de la organización y seleccione Aceptar.
+1. Seleccione aprendizaje personalizado para Office 365 desde la Galería de soluciones. 
+1. Seleccione Agregar a su inquilino 
+1. Ajustar selecciones predeterminadas en la página de aprovisionamiento como provisión necesaria y seleccione cuando esté listo para instalar CLO365 en su entorno de inquilinos.  
+1. El proceso de aprovisionamiento tardará hasta 15 minutos. Se le notificará a través de correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio está listo para el acceso. 
+1. Una vez iniciado sesión en CLO365 en el inquilino, favorito del sitio y copie la dirección url para futuras referencias.  
 
 
 ## <a name="next-steps"></a>Pasos siguientes

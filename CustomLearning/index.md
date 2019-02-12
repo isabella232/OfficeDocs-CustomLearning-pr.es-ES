@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Información general de aprendizaje personalizado para la solución de código abierto de Office 365
 ms.date: 02/10/2019
 description: Obtenga información sobre cómo puede acelerar el aprendizaje personalizado para Office 365 de uso y la adopción de Office 365 en su organización. Nuestras soluciones incluyen un elemento web de SharePoint Online personalizado y un sitio de recursos de aprendizaje de comunicaciones SharePoint Online moderno que se aprovisiona con facilidad a su inquilino de Office 365.
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886113"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951234"
 ---
 # <a name="custom-learning-for-office-365"></a>Personalizado de aprendizaje de Office 365
 
@@ -35,9 +35,9 @@ Seleccione, instalar y configurar este paquete de sitio de comunicación SharePo
 
 ![Personalizado de aprendizaje para el elemento Web de Office 365](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 sencillos pasos
+## <a name="3-easy-steps"></a>3 pasos sencillos
 
-Permite a [empezar a](getstarted.md) crear un soluciones de aprendizaje simple con Microsoft actualizado contenido.
+Permite a [empezar a](prereqs.md) crear un soluciones de aprendizaje simple con Microsoft actualizado contenido.
 
 1. Seleccione a la derecha de la solución para usted
 2. Personalizar su & de instalación completa su contenido
