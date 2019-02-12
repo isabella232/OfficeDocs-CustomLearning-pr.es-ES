@@ -1,20 +1,29 @@
-# <a name="install-the-custom-learning-site-package"></a><span data-ttu-id="5a278-101">Instalar paquete de sitio de aprendizaje personalizados</span><span class="sxs-lookup"><span data-stu-id="5a278-101">Install the Custom Learning Site Package</span></span>
+---
+author: karuanag
+ms.author: karuanag
+title: Aprovisionar la experiencia del sitio
+ms.date: 02/10/2019
+description: Aprovisionar el aprendizaje personalizado para el sitio de Office 365
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951204"
+---
+# <a name="provision-the-custom-learning-site"></a><span data-ttu-id="d4741-103">Aprovisionar personalizados sitio de aprendizaje</span><span class="sxs-lookup"><span data-stu-id="d4741-103">Provision the Custom Learning Site</span></span>
 
-## <a name="prerequisite-for-installation"></a><span data-ttu-id="5a278-102">Requisito previo para la instalación</span><span class="sxs-lookup"><span data-stu-id="5a278-102">Prerequisite for installation</span></span>
-
-- <span data-ttu-id="5a278-p101">Para instalar el paquete de sitio de aprendizaje personalizado para el inquilino debe disponer de permisos administrativos de Office 365.  Si no tiene estos permisos puede trabajar con el Administrador de Office 365 o instale el elemento Web por sí solo para una colección de sitios individuales.</span><span class="sxs-lookup"><span data-stu-id="5a278-p101">To install the Custom Learning site package for your tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart alone for an individual site collection.</span></span>
-- <span data-ttu-id="5a278-p102">Es posible que desee considere la posibilidad de instalar el paquete en una ubicación de prueba para familiarizarse con el contenido.  Si adopta este enfoque necesita volver a instalar el paquete en el inquilino de producción y vuelva a crear las personalizaciones que realizó durante las pruebas.</span><span class="sxs-lookup"><span data-stu-id="5a278-p102">You may want to consider installing the package in a testing location to get familiar with the content.  If you take this approach you will need to reinstall the package in your production tenant and recreate any customizations that you completed during testing.</span></span> 
-- <span data-ttu-id="5a278-107">Actualizaciones del contenido de aprendizaje de webpart no tendrá efecto las personalizaciones de página.</span><span class="sxs-lookup"><span data-stu-id="5a278-107">Updates to the webpart training content will not effect your page customizations.</span></span>
-- <span data-ttu-id="5a278-p103">Sólo se admite SharePoint Online. El elemento web no es compatible para la instalación en cualquier versión de SharePoint local.</span><span class="sxs-lookup"><span data-stu-id="5a278-p103">We support SharePoint Online only. The web part is not support for installation on any version of SharePoint on premises.</span></span>
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a><span data-ttu-id="5a278-110">Agregue el sitio de aprendizaje personalizado a su inquilino</span><span class="sxs-lookup"><span data-stu-id="5a278-110">Add the Custom Learning site to your tenant</span></span> 
-
-<span data-ttu-id="5a278-111">**1. agregar instrucciones del paquete**</span><span class="sxs-lookup"><span data-stu-id="5a278-111">**1. Add package instructions here**</span></span>
+1. <span data-ttu-id="d4741-p101">Vaya a http://provisioning.sharepointpnp.com y planificación del inicio de sesión con sus credenciales para el destino de inquilinos en uso para la instalación. ![pnphome.png](media/pnphome.png)</span><span class="sxs-lookup"><span data-stu-id="d4741-p101">Go to http://provisioning.sharepointpnp.com and sign in using your credentials for the targeted tenant you plan on using for the installation. ![pnphome.png](media/pnphome.png)</span></span>
+1. <span data-ttu-id="d4741-106">Comprobar el consentimiento en nombre de la organización y seleccione Aceptar.</span><span class="sxs-lookup"><span data-stu-id="d4741-106">Check off Consent on behalf of your organization and select Accept.</span></span>
+1. <span data-ttu-id="d4741-107">Seleccione aprendizaje personalizado para Office 365 desde la Galería de soluciones.</span><span class="sxs-lookup"><span data-stu-id="d4741-107">Select Custom Learning for Office 365 from the solution gallery.</span></span> 
+1. <span data-ttu-id="d4741-108">Seleccione Agregar a su inquilino</span><span class="sxs-lookup"><span data-stu-id="d4741-108">Select Add to your Tenant</span></span> 
+1. <span data-ttu-id="d4741-109">Ajustar selecciones predeterminadas en la página de aprovisionamiento como provisión necesaria y seleccione cuando esté listo para instalar CLO365 en su entorno de inquilinos.</span><span class="sxs-lookup"><span data-stu-id="d4741-109">Adjust default selections on the provisioning page as required and select Provision when ready to install CLO365 into your tenant environment.</span></span>  
+1. <span data-ttu-id="d4741-p102">El proceso de aprovisionamiento tardará hasta 15 minutos. Se le notificará a través de correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio está listo para el acceso.</span><span class="sxs-lookup"><span data-stu-id="d4741-p102">The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.</span></span> 
+1. <span data-ttu-id="d4741-112">Una vez iniciado sesión en CLO365 en el inquilino, favorito del sitio y copie la dirección url para futuras referencias.</span><span class="sxs-lookup"><span data-stu-id="d4741-112">Once logged on to CLO365 in your tenant, favorite the site and copy the url for future reference.</span></span>  
 
 
-
-## <a name="next-steps"></a><span data-ttu-id="5a278-112">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="5a278-112">Next Steps</span></span>
-- <span data-ttu-id="5a278-113">Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.</span><span class="sxs-lookup"><span data-stu-id="5a278-113">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
-- <span data-ttu-id="5a278-114">[Personalizar](customization.md) la experiencia de aprendizaje para la organización.</span><span class="sxs-lookup"><span data-stu-id="5a278-114">[Customize](customization.md) the training experience for your organization.</span></span>
-- <span data-ttu-id="5a278-115">[Impulsar la adopción](driveadoption.md) de la solución de formación.</span><span class="sxs-lookup"><span data-stu-id="5a278-115">[Drive adoption](driveadoption.md) of your training solution.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="d4741-113">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="d4741-113">Next Steps</span></span>
+- <span data-ttu-id="d4741-114">Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.</span><span class="sxs-lookup"><span data-stu-id="d4741-114">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
+- <span data-ttu-id="d4741-115">[Personalizar](customization.md) la experiencia de aprendizaje para la organización.</span><span class="sxs-lookup"><span data-stu-id="d4741-115">[Customize](customization.md) the training experience for your organization.</span></span>
+- <span data-ttu-id="d4741-116">[Impulsar la adopción](driveadoption.md) de la solución de formación.</span><span class="sxs-lookup"><span data-stu-id="d4741-116">[Drive adoption](driveadoption.md) of your training solution.</span></span>
 
