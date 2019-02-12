@@ -1,10 +1,14 @@
 # <a name="feedback-and-support"></a>Comentarios y soporte técnico
 
+## <a name="get-support"></a>Obtención de soporte técnico
+
+Si tiene problemas con la plantilla de sitio de código abierto o webpart que ofrece el aprendizaje personalizado experiencia por favor, inserte el problema en nuestra lista de problemas de depósito.  Puede encontrar esta lista en https://aka.ms/CustomLearningHelp como es estándar con las soluciones de código abierto la Comunidad evalúa estos problemas para la resolución.  Solicitudes de características se transfieren en nuestra instancia de voz de usuario que se indican a continuación.  Errores de código se escalan a los administradores de la Comunidad y servicio de evaluación de errores y la resolución.  
+
 ## <a name="provide-us-feedback"></a>Nos proporcionen comentarios
 
 Nuestra solución es sólo un éxito si se están habilitando los resultados de su negocio!  Ayúdenos a mejorar por darnos comentarios regulares a través de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Revisamos con regularidad todos los comentarios y preguntas.
 
-Tenga en cuenta que durante la prueba existente de fase 2 Beta sólo las compañías podrán proporcionar comentarios.  En la disponibilidad general en T4 de 2018 se abrirá el foro hasta que todos los usuarios. Configure una cuenta de usuario en UserVoice para que puedan ver y votar en ideas existentes en nuestro foro o crear otras nuevas.  
+## <a name="usage-questions"></a>Preguntas sobre el uso
 
-También puede proporcionar comentarios por participar en el programa de [Office 365 Campeones](https://aka.ms/O365Champions) y participar en los foros de [adopción tiende a] en la comunidad técnica de Microsoft en https://aka.ms/DriveAdoption. 
+Para preguntas sobre los procedimientos recomendados con el portal de aprendizaje y su contenido participe en los foros de [Adopción tiende a](https://aka.ms/DriveAdoption) en la comunidad técnica de Microsoft en https://aka.ms/DriveAdoption. 
 
