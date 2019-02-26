@@ -1,29 +1,48 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Aprovisionar la experiencia del sitio
+title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
-description: Aprovisionar el aprendizaje personalizado para el sitio de Office 365
-ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
+ms.openlocfilehash: e87fdcbc5bbe9b23937403d8c49a7446b7159dff
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951204"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989671"
 ---
-# <a name="provision-the-custom-learning-site"></a><span data-ttu-id="d4741-103">Aprovisionar personalizados sitio de aprendizaje</span><span class="sxs-lookup"><span data-stu-id="d4741-103">Provision the Custom Learning Site</span></span>
+# <a name="provision-the-custom-learning-site"></a><span data-ttu-id="3fbaf-103">Aprovisionar el sitio de aprendizaje personalizado</span><span class="sxs-lookup"><span data-stu-id="3fbaf-103">Provision the Custom Learning Site</span></span>
 
-1. <span data-ttu-id="d4741-p101">Vaya a http://provisioning.sharepointpnp.com y planificación del inicio de sesión con sus credenciales para el destino de inquilinos en uso para la instalación. ![pnphome.png](media/pnphome.png)</span><span class="sxs-lookup"><span data-stu-id="d4741-p101">Go to http://provisioning.sharepointpnp.com and sign in using your credentials for the targeted tenant you plan on using for the installation. ![pnphome.png](media/pnphome.png)</span></span>
-1. <span data-ttu-id="d4741-106">Comprobar el consentimiento en nombre de la organización y seleccione Aceptar.</span><span class="sxs-lookup"><span data-stu-id="d4741-106">Check off Consent on behalf of your organization and select Accept.</span></span>
-1. <span data-ttu-id="d4741-107">Seleccione aprendizaje personalizado para Office 365 desde la Galería de soluciones.</span><span class="sxs-lookup"><span data-stu-id="d4741-107">Select Custom Learning for Office 365 from the solution gallery.</span></span> 
-1. <span data-ttu-id="d4741-108">Seleccione Agregar a su inquilino</span><span class="sxs-lookup"><span data-stu-id="d4741-108">Select Add to your Tenant</span></span> 
-1. <span data-ttu-id="d4741-109">Ajustar selecciones predeterminadas en la página de aprovisionamiento como provisión necesaria y seleccione cuando esté listo para instalar CLO365 en su entorno de inquilinos.</span><span class="sxs-lookup"><span data-stu-id="d4741-109">Adjust default selections on the provisioning page as required and select Provision when ready to install CLO365 into your tenant environment.</span></span>  
-1. <span data-ttu-id="d4741-p102">El proceso de aprovisionamiento tardará hasta 15 minutos. Se le notificará a través de correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio está listo para el acceso.</span><span class="sxs-lookup"><span data-stu-id="d4741-p102">The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.</span></span> 
-1. <span data-ttu-id="d4741-112">Una vez iniciado sesión en CLO365 en el inquilino, favorito del sitio y copie la dirección url para futuras referencias.</span><span class="sxs-lookup"><span data-stu-id="d4741-112">Once logged on to CLO365 in your tenant, favorite the site and copy the url for future reference.</span></span>  
+1. <span data-ttu-id="3fbaf-p101">Vaya a http://provisioning.sharepointpnp.com e **inicie sesión** desde la esquina superior derecha de la Página principal.  Inicie sesión con las credenciales del inquilino de destino donde tiene previsto instalar la plantilla de sitio.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-p101">Go to http://provisioning.sharepointpnp.com and **sign in** from the upper right hand corner of the home page.  Sign in with the  credentials for the targeted tenant where you plan to install the site template.</span></span>
 
+![pnphome. png](media/inst_signin.png)
 
-## <a name="next-steps"></a><span data-ttu-id="d4741-113">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="d4741-113">Next Steps</span></span>
-- <span data-ttu-id="d4741-114">Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.</span><span class="sxs-lookup"><span data-stu-id="d4741-114">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
-- <span data-ttu-id="d4741-115">[Personalizar](customization.md) la experiencia de aprendizaje para la organización.</span><span class="sxs-lookup"><span data-stu-id="d4741-115">[Customize](customization.md) the training experience for your organization.</span></span>
-- <span data-ttu-id="d4741-116">[Impulsar la adopción](driveadoption.md) de la solución de formación.</span><span class="sxs-lookup"><span data-stu-id="d4741-116">[Drive adoption](driveadoption.md) of your training solution.</span></span>
+2. <span data-ttu-id="3fbaf-107">Borre el **consentimiento en nombre de su organización** y seleccione **Aceptar**.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-107">Clear the **Consent on behalf of your organization** and select **Accept**.</span></span>
 
+![a](media/inst_perms.png)
+
+3. <span data-ttu-id="3fbaf-109">Seleccione **aprendizaje personalizado para Office 365** en la galería de soluciones.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-109">Select **Custom Learning for Office 365** from the solution gallery.</span></span>
+
+![a](media/inst_select.png)
+
+4. <span data-ttu-id="3fbaf-111">En la Página principal de la solución, seleccione **Agregar al espacio empresarial** .</span><span class="sxs-lookup"><span data-stu-id="3fbaf-111">From the solution home page select **Add to your Tenant**</span></span>
+
+![inst_select. png](media/inst_add.png)
+
+5. <span data-ttu-id="3fbaf-p102">Complete los campos en la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico donde desea obtener las notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino para el que se va a aprovisionar el sitio.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-p102">Complete the fields on the provisioning information page as appropriate for your installation. At a minimum enter the email address where you wish to get notifications about the provisioning process and the destination URL for your site to be provisioned to.</span></span>  
+
+> [!NOTE]
+> <span data-ttu-id="3fbaf-115">Haga que la dirección URL de destino del sitio sea descriptiva para los empleados, como "/sites/MyTraining" o "/teams/LearnOffice365".</span><span class="sxs-lookup"><span data-stu-id="3fbaf-115">Make the destination URL for your site something friendly to your employees such as "/sites/MyTraining" or "/teams/LearnOffice365".</span></span>
+
+![inst_options. png](media/inst_options.png)
+
+6. <span data-ttu-id="3fbaf-p103">Seleccione **provisión** cuando esté listo para instalar CLO365 en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-p103">Select **Provision** when ready to install CLO365 into your tenant environment.  The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.</span></span>
+
+7. <span data-ttu-id="3fbaf-120">Cuando se haya notificado que el aprovisionamiento se ha completado, vaya a la dirección URL de destino que ha especificado en la página aprovisionamiento.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-120">When you have been notified that provisioning is complete browse to the destination URL you entered in the Provisioning page.</span></span>
+
+8. <span data-ttu-id="3fbaf-121">Favoritee el sitio en la esquina superior derecha y marque la dirección URL para futuras referencias.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-121">Favorite the site in the upper right hand corner and bookmark the URL for future reference.</span></span>  
+
+### <a name="next-steps"></a><span data-ttu-id="3fbaf-122">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="3fbaf-122">Next Steps</span></span>
+- <span data-ttu-id="3fbaf-123">Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-123">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
+- <span data-ttu-id="3fbaf-124">[Personalice](customization.md) la experiencia de aprendizaje para su organización.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-124">[Customize](customization.md) the training experience for your organization.</span></span>
+- <span data-ttu-id="3fbaf-125">[Impulsar la adopción](driveadoption.md) de la solución de formación.</span><span class="sxs-lookup"><span data-stu-id="3fbaf-125">[Drive adoption](driveadoption.md) of your training solution.</span></span>
