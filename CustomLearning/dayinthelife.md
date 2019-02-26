@@ -1,9 +1,16 @@
-# <a name="day-in-the-life-with-microsoft-365"></a>Día en la vida con Microsoft 365
+# <a name="day-in-the-life-with-office-365"></a>Día de la vida con Office 365
 
-Usar servicios de nube de Microsoft 365 para mejorar su trabajo en equipo en cualquier dispositivo.  Nos gustaría mostrar cómo simplificar la creación de contenido y de comunicación, su colaboración como vaya a través de la jornada. 
+Use los servicios en la nube de Office 365 para mejorar el trabajo en equipo en cualquier dispositivo.  Realice los pasos necesarios para simplificar la colaboración, la comunicación y la creación de contenido a medida que avanza por el día.  
 
-(m365day.png)
+![Día en la vida visual](media/m365day.png)
 
-Durante las horas de la mañana café en el viaje diario de la reunión en la oficina colaborar con el grupo conectar en toda la compañía
+Siga estos escenarios comunes para obtener más información sobre cómo mejorar la productividad con Office 365.
 
+- [Durante la mañana](ditl_coffee.md)
+- [En el Automute](ditl_commute.md)
+- [Reunión en la oficina](ditl_meeting.md)
+- [Colaborar con su equipo](ditl_collab.md)
+- [Conexión a través de la compañía](ditl_connect.md)
 
+> [!TIP]
+> Si no tiene algunos de los productos que se muestran en nuestros ejemplos en su experiencia de Office 365 hable con su administrador que puede ayudarle a obtener acceso a nuestros servicios. 

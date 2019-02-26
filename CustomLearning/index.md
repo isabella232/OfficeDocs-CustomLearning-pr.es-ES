@@ -1,44 +1,39 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Información general de aprendizaje personalizado para la solución de código abierto de Office 365
+title: Información general sobre el aprendizaje personalizado para Office 365 solución de código abierto
 ms.date: 02/10/2019
-description: Obtenga información sobre cómo puede acelerar el aprendizaje personalizado para Office 365 de uso y la adopción de Office 365 en su organización. Nuestras soluciones incluyen un elemento web de SharePoint Online personalizado y un sitio de recursos de aprendizaje de comunicaciones SharePoint Online moderno que se aprovisiona con facilidad a su inquilino de Office 365.
-ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951234"
+description: Obtenga información sobre cómo el aprendizaje personalizado de Office 365 puede acelerar el uso y la adopción de Office 365 en su organización. Nuestras soluciones incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en el inquilino de Office 365.
 ---
-# <a name="custom-learning-for-office-365"></a>Personalizado de aprendizaje de Office 365
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Autoservicio, soluciones de formación personalizables de Microsoft
+# <a name="custom-learning-for-office-365"></a>Aprendizaje personalizado para Office 365
 
-Personalizada de aprendizaje para Office 365 es un conjunto de recursos de aprendizaje y adopción de herramientas de código abierto diseñado para aumentar el uso de Office 365 en su organización. Se crean en colaboración con los grupos de Microsoft Teams e ingeniería de productos de SharePoint y el equipo de asistencia moderno y experiencia, se pueden instalar estas soluciones simple de usar y personalizar en el inquilino de SharePoint Online. 
+## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Soluciones de aprendizaje personalizables y de autoservicio de Microsoft
 
-Estas soluciones brindan a los usuarios finales todo el contenido de aprendizaje que Microsoft le ofrece y mantiene dicho contenido actualizado a petición.  El sitio se puede integrar fácilmente con la instalación de Microsoft Teams o de otros sitios de SharePoint Online existentes de la compañía.
+Aprendizaje personalizado para Office 365 es un conjunto de herramientas de código abierto de aprendizaje y adopción diseñadas para aumentar el uso de Office 365 en su organización. Creadas en asociación con Microsoft Teams y los grupos de ingeniería de productos de SharePoint y el equipo de asistencia y experiencia modernos, estas soluciones fáciles de usar pueden instalarse y personalizarse en el espacio empresarial de SharePoint Online. 
 
-Nuestro contenido de aprendizaje personalizado actualmente se limita a partir de contenido para productos de Office 365.  Si desea ver más contenido incluido, háganos [sugerencias y comentarios](feedback.md) en nuestro foro en línea.  
+Estas soluciones aportan a sus usuarios finales todo el contenido de aprendizaje que Microsoft tiene para ofrecer y mantener el contenido actualizado a petición.  El sitio puede integrarse fácilmente con la instalación de Microsoft Teams u otros sitios de SharePoint online existentes en su empresa.
+
+Nuestro contenido de aprendizaje personalizado se encuentra actualmente en el ámbito inicial para los productos de Office 365 y Windows 10.  Si le gustaría ver más contenido incluido, envíenos [sugerencias y comentarios](feedback.md) en nuestro foro en línea.  
 
 ## <a name="custom-learning-open-source-components"></a>Componentes de código abierto de aprendizaje personalizado
 
-Personalizado de aprendizaje para Office 365 proporciona dos opciones: 
+Aprendizaje personalizado para Office 365 proporciona dos opciones: 
 
-**Opción 1**: [paquete de sitio en línea de SharePoint de aprendizaje personalizados](installsitepackage.md)
+**Opción 1**: [el paquete del sitio de aprendizaje personalizado de SharePoint Online](installsitepackage.md)
 
-Seleccione, instalar y configurar este paquete de sitio de comunicación SharePoint Online para crear un portal de aprendizaje para su empresa. Anteriormente conocido como Kit de herramientas para el trabajo en equipo, se puede personalizar este portal de aprendizaje para agregar contenido de ayuda, soporte técnico y la Comunidad de su organización. También puede quitar cualquier contenido relacionado con servicios que no se admite dentro de la organización. Personalizados de aprendizaje paquete de sitio también incluye el elemento web personalizado de aprendizaje que proporciona una fuente actualizada de contenido de aprendizaje de Office 365 para su organización. 
+Seleccione, instale y configure este paquete de sitio de comunicación de SharePoint Online para crear un portal de aprendizaje para su empresa. Anteriormente conocido como kit de herramientas para el trabajo en equipo, este portal de aprendizaje se puede personalizar para agregar la ayuda, soporte técnico y contenido de la comunidad de la organización. También puede quitar cualquier contenido relacionado con los servicios no admitidos en la organización. El paquete del sitio de aprendizaje personalizado también incluye el elemento Web de aprendizaje personalizado que proporciona un avance actualizado del contenido de aprendizaje de Office 365 a su organización. 
 
-![Personalizado de aprendizaje de la experiencia del sitio de Office 365](media/clo365homepage.png)
+![Aprendizaje personalizado para la experiencia del sitio de Office 365](media/clo365homepage.png)
 
-**Opción 2**: opción de elemento web [El aprendizaje personalizado para el elemento web de Office 365](installwebpart.md) el aprendizaje de personalizada está diseñada para las organizaciones que desean integrar recursos de aprendizaje de Office 365 en un sitio de comunicación de SharePoint Online existente. El elemento web de aprendizaje personalizado se puede instalar en cualquier página de SharePoint Online y proporciona una fuente actualizada de la serie completa de contenido de aprendizaje de Office 365 del sitio de Microsoft Support.Office.com. Recursos de aprendizaje de contenido que se envían a través del elemento web se organizan en las listas de reproducción consumir. Los administradores también pueden usar el elemento web para crear listas de reproducción de capacitación personalizado, combinación de contenido de YouTube, contenido hospedado localmente como. Archivos PDF y contenido de aprendizaje de Office 365, para proporcionar experiencias de formación adaptada a las necesidades específicas de la organización.
+**Opción 2**: [el elemento Web de aprendizaje personalizado para Office 365](installwebpart.md) la opción del elemento Web de aprendizaje personalizado está diseñada para las organizaciones que desean integrar el aprendizaje de Office 365 en un sitio de comunicación existente de SharePoint Online. El elemento Web de aprendizaje personalizado se puede instalar en cualquier página de SharePoint Online y proporciona una fuente actualizada de todo el conjunto de contenido de aprendizaje de Office 365 desde el sitio de Support.Office.com de Microsoft. El contenido de aprendizaje entregado a través del elemento Web está organizado en listas de reproducción fáciles de usar. Los administradores también pueden usar el elemento Web para crear listas de reproducción de formación personalizadas, lo que combina contenido de YouTube, contenido hospedado localmente como. Documentos PDF y contenido de aprendizaje de Office 365 para proporcionar experiencias de aprendizaje adaptadas a las necesidades únicas de la organización.
 
-![Personalizado de aprendizaje para el elemento Web de Office 365](media/clo365customplaylist.png)
+![Elemento Web de aprendizaje personalizado para Office 365](media/clo365customplaylist.png)
 
 ## <a name="3-easy-steps"></a>3 pasos sencillos
 
-Permite a [empezar a](prereqs.md) crear un soluciones de aprendizaje simple con Microsoft actualizado contenido.
+Permite [empezar](prereqs.md) a crear soluciones sencillas de aprendizaje con contenido actualizado de Microsoft.
 
-1. Seleccione a la derecha de la solución para usted
-2. Personalizar su & de instalación completa su contenido
-3. Compartir el sitio con los usuarios con nuestras [Herramientas de adopción](driveadoption.md)
+1. Seleccione la solución adecuada para usted
+2. Completar la instalación & personalizar el contenido
+3. Compartir el sitio con los usuarios mediante nuestras [herramientas de adopción](driveadoption.md)

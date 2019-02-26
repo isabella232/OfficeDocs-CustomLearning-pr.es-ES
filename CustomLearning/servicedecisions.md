@@ -1,46 +1,46 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Requisitos previos y las decisiones
+title: Requisitos previos y decisiones
 ms.date: 02/10/2019
-description: Las decisiones y la información de requisito previos para la instalación de aprendizaje personalizado y el programa de instalación
-ms.openlocfilehash: 99ab08d8b18be00c3a29878ff462f9109cc9ed29
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Decisiones e información sobre los requisitos previos para la instalación y configuración de aprendizaje personalizado
+ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952653"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989711"
 ---
-## <a name="service-decisions"></a>Decisiones de servicio
+## <a name="service-decisions"></a>Decisiones del servicio
 
-Una vez que se cumplen los requisitos previos y antes de la instalación debe tomar las siguientes decisiones sobre la implementación de CLO365:
+Una vez que se cumplan los requisitos previos y antes de la instalación, debe tomar las siguientes decisiones sobre la implementación de CLO365:
 
-1. **¿Ya tiene un portal de aprendizaje de su compañía con una moderna interfaz?**
+1. **¿Ya tiene un portal de aprendizaje en su empresa con una interfaz moderna?**
 
-- **Sí** Si la respuesta a estas preguntas es afirmativa, a continuación, [instalar el elemento Web](installwebpart.md) dentro de esa experiencia existente del sitio es nuestro curso recomendada de acción.
-- **NO** Si la respuesta no es recomendable [instalar el sitio de aprendizaje personalizado completo](installsitepackage.md) paquete.  Esto le preparará con un sitio de comunicación de SharePoint Online moderno que su puede expandir para alojar otra información que es importante para los usuarios finales.  Personalizar el sitio no tendrá un impacto capacidad del elemento Web para obtener actualizaciones de contenido. 
+- **Sí** Si su respuesta a estas preguntas es afirmativa, [instalar el elemento Web](installwebpart.md) dentro de la experiencia de sitio existente es nuestro procedimiento recomendado.
+- **No** Si responde, le sugerimos [que instale el paquete del sitio de aprendizaje personalizado completo](installsitepackage.md) .  Esto le preparará con un sitio de comunicación de SharePoint Online moderno que puede expandir para hospedar otra información que sea importante para los usuarios finales.  La personalización del sitio no afectará a la capacidad del elemento Web para obtener actualizaciones de contenido. 
 
-2. **¿Son un administrador de Office 365?**
+2. **¿Es un administrador de Office 365?**
 
-- **Sí**: tiene los derechos adecuados para la instalación.
-- **NO**: póngase en contacto con el Administrador de Office 365 para obtener ayuda o instale el elemento Web en una colección de sitios es propietario
+- **Sí**: tiene los derechos adecuados para cualquier instalación.
+- **No**: póngase en contacto con el administrador de Office 365 para obtener ayuda o instale el elemento Web en una colección de sitios que le pertenezca
 
-3. **¿Tiene un departamento de aprendizaje formal en su organización?**
+3. **¿Tiene un departamento de formación formal en su organización?**
 
-- **Sí**: asegúrese de contratar a ellos y que sepan cómo pueden utilizar estas soluciones para entregar contenido de aprendizaje adicionales y personalizada.
-- **NO**: Use nuestro [kit de adopción de autoservicio](driveadoption.md) para que los usuarios finales el sitio está disponible para ayudarles a tener en cuenta.
+- **Sí**: Asegúrese de activarlos y hacerle saber cómo pueden usar estas soluciones para proporcionar contenido de aprendizaje personalizado adicional.
+- **No**: Use nuestro [Kit de adopción de servicios automáticos](driveadoption.md) para que los usuarios finales sepan que el sitio está disponible para ayudarlos.
 
-4. **¿Tiene una comunidad de usuarios en su organización?  Esto sería un grupo formal o informal de los usuarios que desean saber más acerca de la tecnología, a veces denominada que usuarios avanzados o sólo los interesados obtener más información.**
+4. **¿Tiene una comunidad de usuarios en la organización?  Esto sería un grupo formal o informal de usuarios que desean saber más sobre tecnología, a veces denominados usuarios avanzados o solo aquellos interesados en obtener más información.**
 
-- **Sí**: puede usar la experiencia de sitio de aprendizaje personalizado para proporcionar vínculos a los foros de la Comunidad de usuario nuevo o existente.
-- **NO**: considere la posibilidad de iniciar un grupo de usuarios internos para que pueden compartir su éxito y obtenga información sobre cada uno de otras personas.  Si no dispone de tiempo para fomentar a un grupo de usuarios internos y a los empleados pueden unirse a la [Comunidad de los pesos pesados Microosft Office 365](https://aka.ms/O365Champions) para formación mensual, la pertenencia de la Comunidad en línea y el acceso rápido a recursos y herramientas para Office 365.
+- **Sí**: puede usar la experiencia del sitio de aprendizaje personalizada para proporcionar vínculos a los foros de la comunidad de usuarios nuevos o existentes.
+- **No**: considere la posibilidad de iniciar un grupo de usuarios interno para que los usuarios puedan compartir su éxito y aprender entre sí.  Si no tiene tiempo para cultivar a un grupo de usuarios internos, usted y sus empleados pueden unirse a la [comunidad de Microosft Office 365 Champion](https://aka.ms/O365Champions) para obtener formación mensual, pertenencia a la comunidad en línea y acceso anticipado a herramientas y recursos para Office 365.
 
-5.  **¿Será responsable de preguntas de soporte técnico o de mantenimiento de sitio?**
+5.  **¿Será responsable de las preguntas de mantenimiento o soporte técnico del sitio?**
 
-- **Sí**: se recomienda usar las funciones de Office 365 para realizar personalizada de soporte técnico del sitio sea más fácil de aprendizaje.  Algunas ideas, según su tamaño de suscripción y de organización de servicio son:
-    1. Las organizaciones de gran tamaño pueden aprovisionar una comunidad pública de Yammer para obtener comentarios en el sitio
-    2. Hasta 2500 personas pueden unir a una Team Microsoft para formular preguntas y compartir conversación
-    3. Un proceso de soporte técnico formal puede ser compatibles con formularios, flujo y listas de SharePoint en línea o a través de la otra parte 3ª de las herramientas que es posible que ya tiene para soporte de TI de su compañía. 
-- **NO**: se analiza la instalación de los sitios o webpart con su personal de TI que proporcionan compatibilidad con SharePoint Online.  
+- **Sí**: se recomienda usar las capacidades de Office 365 para facilitar la compatibilidad con el sitio de aprendizaje personalizado.  Algunas ideas, según la suscripción del servicio y el tamaño de la organización, son:
+    1. Las organizaciones grandes pueden aprovisionar una comunidad pública de Yammer para obtener comentarios sobre el sitio
+    2. Hasta 2500 personas pueden unirse a un equipo de Microsoft para hacer preguntas y compartir conversaciones
+    3. Un proceso formal de vales de soporte técnico se puede Suppored con formularios, flujos y listas de SharePoint Online o mediante otras herramientas de terceros que ya puede tener para la compatibilidad con ti en su empresa. 
+- **No**: explique la instalación del sitio o WebPart con el personal de ti que proporciona soporte técnico de SharePoint Online.  
 
-## <a name="next-steps---siteinstallsitepackagemd-or-webpartinstallwebpartmd-installation"></a>Pasos - instalación de [sitio](installsitepackage.md) o [elemento Web](installwebpart.md)
+### <a name="next-steps---site-provisioninginstallsitepackagemd-or-webpartinstallwebpartmd-installation-steps"></a>Pasos siguientes: [aprovisionamiento de sitios](installsitepackage.md) o pasos [](installwebpart.md) para la instalación de WebPart
