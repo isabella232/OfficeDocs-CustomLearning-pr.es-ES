@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
+ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
 ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523054"
+ms.locfileid: "30523614"
 ---
-# <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado 
+# <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado
 
 Con el servicio de aprovisionamiento de SharePoint Online, un administrador de inquilinos de Office 365 puede iniciar el proceso de aprovisionamiento con unos pocos clics sencillos. El servicio de aprovisionamiento es la forma recomendada para aprovisionar aprendizaje personalizado. Es rápido y sencillo, y tarda solo unos minutos en iniciar el proceso. Sin embargo, antes de empezar con el servicio de aprovisionamiento, asegúrese de que cumple con los requisitos previos para el aprovisionamiento.
 
@@ -47,27 +47,24 @@ Para configurar correctamente el aprendizaje personalizado con el servicio de ap
 
 ![inst_options. png](media/inst_options.png)
 
-6. Seleccione **provisión** cuando esté listo para instalar aprendizaje personalizado en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso. 
+6. Seleccione **provisión** cuando esté listo para instalar aprendizaje personalizado en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso.
 
 > [!IMPORTANT]
 > El administrador de inquilinos que aprovisiona el sitio de aprendizaje personalizado debe ir al sitio y, a continuación, abrir CustomLearningAdmin. aspx para inicializar las propiedades de administración de aprendizaje personalizadas. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Validar el aprovisionamiento correcto e inicializar la lista de CustomConfig
+## <a name="validate-provisioning-success"></a>Validar el éxito del aprovisionamiento
 
-Cuando el aprovisionamiento haya finalizado, el administrador de inquilinos que aprovisionó el sitio recibirá un correo electrónico del servicio de aprovisionamiento de PnP. El correo electrónico contiene un vínculo al sitio. En este momento, el administrador de inquilinos debe ir al sitio mediante el vínculo proporcionado en el correo electrónico y configurar el sitio para el primer uso:
-
-1. Vaya a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista **CustomConfig** que configura el aprendizaje personalizado para el primer uso. Debería ver una página similar a la siguiente:
-
-![CG-adminapppage. png](media/cg-adminapppage.png)
+Cuando el aprovisionamiento haya finalizado, el administrador de inquilinos recibirá un correo electrónico del servicio de aprovisionamiento de PnP. El administrador puede copiar el vínculo en el sitio proporcionado en el correo electrónico y, a continuación, seguir las instrucciones para ir al sitio. Como alternativa, el administrador de inquilinos puede navegar a <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin. aspx. Esto inicializa el elemento de lista CustomConfig que configura el aprendizaje personalizado para su primer uso. La persona que abre la página por primera vez debe ser un administrador de inquilinos, un administrador de la colección de sitios o el propietario del sitio. Debería ver una página similar a la siguiente: 
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
-Como administrador de inquilinos, es poco probable que sea la persona que va a personalizar el sitio, por lo que necesitará asignar algunos propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y remarcar el sitio. También tienen la posibilidad de ocultar y mostrar contenido entregado a través del elemento Web de aprendizaje personalizado. Además, tendrán la capacidad de crear listas de reproducción personalizadas y asignarlas a subcategorías personalizadas.  
+Como administrador de inquilinos, es poco probable que sea la persona que va a personalizar el sitio, por lo que necesitará asignar propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y remarcar el sitio. También tienen la posibilidad de ocultar y mostrar contenido entregado a través del elemento Web de aprendizaje personalizado. También tendrán la capacidad de crear una lista de reproducción personalizada y asignarlas a subcategorías personalizadas.  
 
 1. En el menú **configuración** de SharePoint, haga clic en **permisos del sitio**.
 2. Haga clic en **Configuración avanzada de permisos**.
 3. Haga clic en **aprendizaje personalizado para los propietarios de Office 365**.
-4. Haga clic en **nuevo** > **Agregar usuarios a este grupo**y, a continuación, agregue las personas que desea que sean propietarios. 
-5. Agregue un vínculo para [explorar el sitio](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
+4. Haga clic en **nuevo** > **Agregar usuarios a este grupo**, agregue a los usuarios que desea que sean propietarios y, a continuación, haga clic en **compartir**.
+
+8. Haga clic en la **siguiente** opción en la esquina superior derecha de la página para seguir el sitio.  
 
 ### <a name="next-steps"></a>Pasos siguientes
-- Explore el [contenido predeterminado](custom_exploresite.md) proporcionado en el sitio y el elemento Web.
+- Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.

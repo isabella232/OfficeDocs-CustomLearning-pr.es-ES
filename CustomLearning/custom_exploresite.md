@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Explorar el sitio y el contenido predeterminado
 ms.date: 02/10/2019
 description: Explorar el sitio de aprendizaje personalizado y el contenido predeterminado
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518197"
+ms.locfileid: "30523044"
 ---
 # <a name="explore-the-custom-learning-site"></a>Explorar el sitio de aprendizaje personalizado
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518197"
 
 1.  Abra el explorador Web y vaya a office.com o a la ubicación de inicio de sesión de su organización. 
 2.  Inicie sesión con su nombre de usuario y contraseña.
-3.  Navegue a la ubicación del sitio con la dirección URL proporcionada por el administrador del espacio empresarial o seleccione SharePoint en la página de inicio de Office 365. 
+3.  Navegue a la ubicación del sitio con la dirección URL proporcionada por el administrador del espacio empresarial o seleccione SharePoint en la página de inicio de Office 365 y, a continuación, seleccione el sitio. 
 
 ![CG-Introducing. png](media/cg-introducing.png)
 

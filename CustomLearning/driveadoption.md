@@ -1,39 +1,34 @@
 ---
-título: ''
-ms.openlocfilehash: 9334a7aa5221f9c3321fe7c33038f1e096b1503e
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886103"
+title: n.º que conduce la adopción del portal de aprendizaje personalizado Descripción: # pasos para impulsar la adopción del autor del portal de aprendizaje personalizado: {github-ID} # karuanag ms. Author: {MS-alias} # karuanag ms. Date: {@date} # 02/09/20 19 ms. topic: Introducción # procedimientos
 ---
-# <a name="drive-adoption-of-your-learning-portal"></a>Estimular la adopción de su Portal de aprendizaje
 
-La adopción de sus experiencias de aprendizaje personalizado con estos sencillos pasos y las herramientas de la unidad. 
+# <a name="drive-adoption-of-your-learning-portal"></a>Impulsar la adopción de su portal de aprendizaje
 
-Somos conscientes de que las soluciones de formación sólo son tan buenas como el uso de que estos usuarios reciben en la organización.  Por este motivo hemos creado estos sencillos pasos y las plantillas que le ayudarán a mejorar el conocimiento y la adopción de nuestras herramientas. Empiece con estos pasos después de configurar la plantilla de sitio en el entorno de SharePoint Online.
+Impulsar la adopción de experiencias de aprendizaje personalizadas con estos sencillos pasos y herramientas. 
 
-Descargue nuestro [kit de inicio](/embeds/custom_learning_launch_kit.zip) para imprimir y registrar nuestro prospectos y pósters.  Editar y enviar nuestro correo electrónico de lanzamiento a sus empleados para dar 3 estos sencillos pasos para empezar a trabajar con el portal.  
+Somos conscientes de que las soluciones de aprendizaje son tan buenas como el uso que reciben en su organización.  Por eso hemos creado estos sencillos pasos y plantillas para ayudarle a impulsar la detección y la adopción de nuestras herramientas. Empiece con estos pasos después de configurar la plantilla de sitio en el entorno de SharePoint Online.
+
+Descargue nuestro kit de lanzamiento para imprimir y publicar nuestros prospectos y pósteres.  Edite y envíe nuestro correo electrónico de lanzamiento a sus empleados para darles tres pasos sencillos para empezar a trabajar con el portal.  
 
 > [!NOTE]
-> Debe editar el lanzamiento de correo electrónico para incluir la dirección web correcta (URL) para su instalación particular del portal de aprendizaje personalizado.
+> Tendrá que editar el correo electrónico de inicio para incluir la dirección web (URL) adecuada para su instalación particular del portal de aprendizaje personalizado.
 
-Los siguientes procedimientos recomendados que le ayudarán a aumentar el uso del sitio en la organización.  
+Los siguientes procedimientos recomendados pueden ayudarle a aumentar el uso del sitio en la organización.  
 
-## <a name="connect-learning-to-other-business-outcomes"></a>Aprendizaje de conectarse a otros los resultados empresariales
+## <a name="connect-learning-to-other-business-outcomes"></a>Conectar el aprendizaje a otros resultados empresariales
 
-Tendrá los mejores resultados cuando se incorpora el lanzamiento de la experiencia del aprendizaje personalizado en cualquier otra implementación del servicio o proyectos de actualización.  Esto le proporcionará a sus empleados un motivo claro para visitar el sitio.  Es posible que ejemplos de implementación de Microsoft Teams o una actualización de SharePoint Online.  Puede incluir frases como:
+Obtendrá los mejores resultados cuando el inicio de la experiencia de aprendizaje personalizada se incorpore en cualquier otro proyecto de implementación o actualización de servicios.  Esto le proporcionará a sus empleados una razón clara para visitar el sitio.  Los ejemplos pueden ser una actualización de SharePoint Online o la implementación de Microsoft Teams.  Puede incluir frases como:
 
-"Para conocer más sugerencias rápidas <Insert service name here> visite el portal de aprendizaje personalizado para Office 365." 
+"Para obtener más sugerencias rápidas sobre <Insert service name here> cómo visitar nuestro portal de aprendizaje personalizado para Office 365. 
 
-## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Alinear el sitio de formación para las inversiones en su empleado de aprendizaje 
+## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Alinear el sitio de formación con las inversiones en el aprendizaje de los empleados 
 
-Trabajar con su equipo de recursos humanos para alinear el lanzamiento de su portal de aprendizaje con cualquier otras iniciativas de formación de empleados que se están implementando en su compañía. 
+Trabaje con su equipo de recursos humanos para alinear el lanzamiento de su portal de aprendizaje con otras iniciativas de formación de empleados que se implementen en su empresa. 
 
-## <a name="join-the-driving-adoption-community"></a>Únase a la Comunidad de adopción tiende a
+## <a name="join-the-driving-adoption-community"></a>Únase a la comunidad de adopción de conducción
 
-Compartir su experiencia con el portal de aprendizaje en nuestra comunidad que impulsa la adopción en línea.  Encuéntrenos en https://aka.ms/DriveAdoption.
+Comparta su experiencia con el portal de aprendizaje de nuestra comunidad de adopción de la conducción en línea.  Nos encontramos en https://aka.ms/DriveAdoption.
 
 ## <a name="give-us-feedback"></a>Envíenos sus comentarios
 
-¿Tiene las solicitudes de nuevas características o contenido en el portal de aprendizaje personalizado?  Visite nuestro UserVoice en línea donde puede votar sugerencias existentes o agregar los suyos propios.  Busque nuestra instancia de UserVoice en https://aka.ms/AdoptionTools.
+¿Tiene solicitudes de nuevas características o contenido en el portal de aprendizaje personalizado?  Visite nuestro UserVoice en línea donde puede votar por las sugerencias existentes o agregar las suyas propias.  Busque nuestra instancia de UserVoice https://aka.ms/AdoptionToolsen.

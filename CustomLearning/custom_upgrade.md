@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Actualización de aprendizaje personalizada
 ms.date: 02/10/2019
 description: Aprendizaje personalizado de la configuración manual del elemento Web de Office 365
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411900"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523079"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Actualización manual de aprendizaje personalizado
 
@@ -102,12 +102,11 @@ Con las mejoras del nuevo elemento Web, se ha cambiado la forma en que se vincul
 Para asegurarse de que las listas de reproducción funcionan correctamente, se deben volver a crear todas las listas de reproducción que se hayan creado con la versión anterior del elemento Web. Antes de eliminar las listas de reproducción, cree una lista de las listas de reproducción personalizadas y los activos asociados para poder volver a crearlas fácilmente con el nuevo elemento Web de aprendizaje personalizado. Haga una copia de una lista de reproducción y, a continuación, elimínela. Puede usar el campo JSONData para realizar una copia del contenido de una lista de reproducción antes de eliminarlo. Esto hará que sea más fácil crear más adelante.
 
 
-• En el sitio de aprendizaje personalizado, haga clic en configuración > contenido del sitio. • Seleccione una lista de reproducción, seleccione los puntos suspensivos, seleccione Editar y, a continuación, copie el contenido del campo JSONData y guárdelo en el Bloc de notas o en un documento independiente para consultarlo más adelante. Seleccione Cancelar.
-• Seleccione la lista de reproducción, seleccione los puntos suspensivos y, después, seleccione eliminar.
-• Ya está listo para volver a crear la lista de reproducción con el nuevo elemento Web.
-Para obtener instrucciones sobre cómo usar el nuevo elemento Web de aprendizaje personalizado de Office https://docs.microsoft.com/en-us/office365/customlearning/custom_overview365, consulte.
-
-## <a name="step-8---chan"></a>Paso 8: Chan
+1. En el sitio de aprendizaje personalizado, haga clic en **configuración** > del**contenido del sitio**. 
+2. Seleccione una lista de reproducción, seleccione los puntos suspensivos, seleccione **Editar**y, a continuación, copie el contenido del campo **JSONData** y guárdelo en el Bloc de notas o en un documento independiente para consultarlo más adelante. Seleccione **Cancelar**.
+3. Seleccione la lista de reproducción, seleccione los puntos suspensivos y, a continuación, seleccione **eliminar**.
+4. Ya está listo para volver a crear la lista de reproducción con el nuevo elemento Web.
+Para obtener instrucciones sobre cómo usar el elemento Web de aprendizaje personalizado para Office 365, vea [customize the Learning Experience (custom_overview. MD).
 
 ### <a name="next-steps"></a>Pasos siguientes
 - [Personalice](custom_overview.md) la experiencia de aprendizaje para su organización.
