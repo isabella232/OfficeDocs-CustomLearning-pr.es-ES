@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523054"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543760"
 ---
 # <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado 
 
@@ -17,7 +17,7 @@ Con el servicio de aprovisionamiento de SharePoint Online, un administrador de i
 
 ## <a name="prerequisites"></a>Requisitos previos
  
-Para configurar correctamente el aprendizaje personalizado con el servicio de aprovisionamiento de [SharePoint Online](https://provisioning.sharepointpnp.com)provisioning, la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos: 
+Para configurar correctamente el aprendizaje personalizado con el servicio de aprovisionamiento, la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos: 
  
 - La persona que aprovisiona el aprendizaje personalizado debe ser un administrador de inquilinos del inquilino en el que se aprovisionará el aprendizaje personalizado.  
 - Un catálogo de aplicaciones del espacio empresarial debe estar disponible en la opción de aplicaciones del centro de administración de SharePoint. Si su organización no tiene un catálogo de aplicaciones del espacio empresarial de SharePoint, consulte la [documentación de SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) para crear uno.  
@@ -33,11 +33,11 @@ Para configurar correctamente el aprendizaje personalizado con el servicio de ap
 
 ![a](media/inst_perms.png)
 
-3. Seleccione **aprendizaje personalizado para Office 365** en la galería de soluciones.
+3. Desplácese hacia abajo en la página, seleccione la pestaña **soluciones** y, después, seleccione **aprendizaje personalizado para Office 365**. 
 
 ![a](media/inst_select.png)
 
-4. En la Página principal de la solución, seleccione **Agregar al espacio empresarial** .
+4. Seleccione **Agregar al espacio empresarial**
 
 ![inst_select. png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ Para configurar correctamente el aprendizaje personalizado con el servicio de ap
 6. Seleccione **provisión** cuando esté listo para instalar aprendizaje personalizado en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso. 
 
 > [!IMPORTANT]
-> El administrador de inquilinos que aprovisiona el sitio de aprendizaje personalizado debe ir al sitio y, a continuación, abrir CustomLearningAdmin. aspx para inicializar las propiedades de administración de aprendizaje personalizadas. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
+> El administrador de inquilinos que aprovisiona el sitio de aprendizaje personalizado debe ir al sitio y, a continuación, abrir **CustomLearningAdmin. aspx** para inicializar las propiedades de administración de aprendizaje personalizadas. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Validar el aprovisionamiento correcto e inicializar la lista de CustomConfig
 
