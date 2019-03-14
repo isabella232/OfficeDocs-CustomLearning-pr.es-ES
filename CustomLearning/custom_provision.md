@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543760"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577866"
 ---
 # <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado 
 
@@ -56,7 +56,7 @@ Para configurar correctamente el aprendizaje personalizado con el servicio de ap
 
 Cuando el aprovisionamiento haya finalizado, el administrador de inquilinos que aprovisionó el sitio recibirá un correo electrónico del servicio de aprovisionamiento de PnP. El correo electrónico contiene un vínculo al sitio. En este momento, el administrador de inquilinos debe ir al sitio mediante el vínculo proporcionado en el correo electrónico y configurar el sitio para el primer uso:
 
-1. Vaya a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista **CustomConfig** que configura el aprendizaje personalizado para el primer uso. Debería ver una página similar a la siguiente:
+- Vaya a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista **CustomConfig** que configura el aprendizaje personalizado para el primer uso. Debería ver una página similar a la siguiente:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ Como administrador de inquilinos, es poco probable que sea la persona que va a p
 2. Haga clic en **Configuración avanzada de permisos**.
 3. Haga clic en **aprendizaje personalizado para los propietarios de Office 365**.
 4. Haga clic en **nuevo** > **Agregar usuarios a este grupo**y, a continuación, agregue las personas que desea que sean propietarios. 
-5. Agregue un vínculo para [explorar el sitio](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
+5. Agregue un vínculo para [explorar el sitio](custom_exploresite.md) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
 
 ### <a name="next-steps"></a>Pasos siguientes
 - Explore el [contenido predeterminado](custom_exploresite.md) proporcionado en el sitio y el elemento Web.
