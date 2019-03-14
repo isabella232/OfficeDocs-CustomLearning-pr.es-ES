@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Requisitos previos y decisiones
 ms.date: 02/10/2019
 description: Decisiones e información sobre los requisitos previos para la instalación y configuración de aprendizaje personalizado
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989711"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408846"
 ---
 ## <a name="service-decisions"></a>Decisiones del servicio
 
-Una vez que se cumplan los requisitos previos y antes de la instalación, debe tomar las siguientes decisiones sobre la implementación de CLO365:
+Una vez que haya asegurado que se han cumplido los requisitos previos para el aprendizaje personalizado, deberá tomar las siguientes decisiones sobre la implementación del aprendizaje personalizado:
 
 1. **¿Ya tiene un portal de aprendizaje en su empresa con una interfaz moderna?**
 
