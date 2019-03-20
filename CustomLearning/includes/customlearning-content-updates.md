@@ -17,29 +17,22 @@
 | 3/5/2019 | [Requisitos previos para la instalación](/Office365/CustomLearning/prereqs) | Fecha de modificación |
 | 3/5/2019 | [Requisitos previos y decisiones](/Office365/CustomLearning/servicedecisions) | Fecha de modificación |
 | 3/5/2019 | [Explorar el sitio y el contenido predeterminado](/Office365/CustomLearning/sitecontent) | Fecha de modificación |
-| 3/5/2019 | [Introducción a las páginas de aplicación de SharePoint](/Office365/CustomLearning/custom_apppages) | modificado  |
+| 3/5/2019 | [Introducción a las páginas de aplicación de SharePoint](/Office365/CustomLearning/custom_apppages) | Fecha de modificación |
 
 
-## <a name="week-of-february-04-2019"></a>Semana del 4 de febrero de 2019
+## <a name="week-of-march-11-2019"></a>Semana del 11 de marzo de 2019
 
 
-| Publicado en |Título del tema | Cambio |
+| Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 2/4/2019 | [N.º de día en la vida con Office 365-madrugada Coffee](/Office365/CustomLearning/ditl_coffee) | Fecha de modificación |
-| 2/4/2019 | [N.º de día en la vida con Office 365: colaborar con compañeros](/Office365/CustomLearning/ditl_collab) | agregado |
-| 2/4/2019 | [N.º de día en la vida con Office 365: en el viaje](/Office365/CustomLearning/ditl_commute) | agregado |
-| 2/4/2019 | [N.º de día en la vida con Office 365: conexión a través de la compañía](/Office365/CustomLearning/ditl_connect) | agregado |
-| 2/4/2019 | [N.º de día en la vida con Office 365-reunión en la oficina](/Office365/CustomLearning/ditl_meeting) | agregado |
-| 2/4/2019 | [# Vínculos útiles para administradores con aprendizaje personalizado para Office 365](/Office365/CustomLearning/embeds/for_admins) | agregado |
-| 2/4/2019 | [Información general sobre aprendizaje personalizado para Office 365 por Microsoft](/Office365/CustomLearning/index) | Fecha de modificación |
-| 2/4/2019 | [# Champion Best Practices Program: especialista en adopción de servicios](/Office365/CustomLearning/champ_education) | agregado |
-| 2/4/2019 | [# Champion Best Practices Program: recopilar comentarios](/Office365/CustomLearning/champ_feedback) | agregado |
-| 2/4/2019 | [# Champion Best Practices Program: buscar campeones](/Office365/CustomLearning/champ_findthem) | agregado |
-| 2/4/2019 | [Recomendaciones de los programas de # Champion](/Office365/CustomLearning/champ_getstarted) | agregado |
-| 2/4/2019 | [# Champion Best Practices Program: Guía para la adopción de usuarios finales de Microsoft 365](/Office365/CustomLearning/champ_o365guide) | agregado |
-| 2/4/2019 | [# Champion procedimientos recomendados del programa: Únase al programa de Office 365 Champions](/Office365/CustomLearning/champ_o365program) | agregado |
-| 2/4/2019 | [Procedimientos recomendados para el programa de # Champion: instrucciones para el mundo real](/Office365/CustomLearning/champ_realworldguides) | agregado |
-| 2/4/2019 | [Recomendaciones de los programas de # Champion](/Office365/CustomLearning/champ_whyadopt) | agregado |
+| 3/11/2019 | [Configuración independiente del elemento Web](/Office365/CustomLearning/custom_manualsetup) | Fecha de modificación |
+| 3/11/2019 | [Aprovisionar el sitio de aprendizaje personalizado](/Office365/CustomLearning/custom_provision) | Fecha de modificación |
+| 3/11/2019 | [Actualización de aprendizaje personalizada](/Office365/CustomLearning/custom_upgrade) | Fecha de modificación |
+| 3/11/2019 | [Preguntas más frecuentes sobre las soluciones de aprendizaje personalizado para Office 365](/Office365/CustomLearning/faq) | Fecha de modificación |
+| 3/12/2019 | [Información general sobre el aprendizaje personalizado para Office 365 solución de código abierto](/Office365/CustomLearning/index) | Fecha de modificación |
+| 3/13/2019 | [# Conducir la adopción del portal de aprendizaje personalizado](/Office365/CustomLearning/driveadoption) | Fecha de modificación |
+| 3/13/2019 | [Aprovisionar el sitio de aprendizaje personalizado](/Office365/CustomLearning/custom_provision) | Fecha de modificación |
+| 3/13/2019 | [Configuración independiente del elemento Web](/Office365/CustomLearning/custom_manualsetup) | Fecha de modificación |
 
 
 ## <a name="week-of-february-11-2019"></a>Semana del 11 de febrero de 2019
