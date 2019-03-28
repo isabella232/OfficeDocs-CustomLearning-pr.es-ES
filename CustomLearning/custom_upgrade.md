@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Actualización de aprendizaje personalizada
 ms.date: 02/10/2019
 description: Aprendizaje personalizado de la configuración manual del elemento Web de Office 365
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543780"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936400"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Actualización manual de aprendizaje personalizado
 
@@ -80,7 +80,7 @@ Aprendizaje personalizado para Office 365 ha incorporado una amplia variedad de 
 1.  En el sitio de aprendizaje personalizado, haga clic en **configuración**y, a continuación, haga clic en ***Agregar una página**.
 2.  Haga clic **+** en el icono de la página para agregar un elemento Web y, a continuación, seleccione el elemento Web **de aprendizaje personalizado para Office 365** . La página debería tener ahora un aspecto similar al del siguiente gráfico:
 
-[CG-adminapppage. png](media/cg-adminapppage.png)
+![CG-adminapppage. png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>Reemplazar el elemento web antiguo con el nuevo elemento Web
 Antes de reemplazar el elemento Web de aprendizaje personalizado o realizar cambios en el sitio, le recomendamos que lea la documentación [personalizar la experiencia de aprendizaje](custom_overview.md) , ya que explica cómo usar el nuevo elemento Web. 
