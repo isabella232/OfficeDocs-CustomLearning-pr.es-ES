@@ -5,11 +5,11 @@ title: Opciones de configuración de aprendizaje personalizadas
 ms.date: 02/11/2019
 description: Opción de instalación para la configuración de aprendizaje personalizada
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523014"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056043"
 ---
 # <a name="custom-learning-setup-options"></a>Opciones de configuración de aprendizaje personalizadas
 Aprendizaje personalizado para Office 365 proporciona la flexibilidad necesaria para configurar la solución de un par de formas diferentes. En las secciones siguientes se describen las opciones disponibles.

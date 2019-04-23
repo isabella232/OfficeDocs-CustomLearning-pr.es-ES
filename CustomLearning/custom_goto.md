@@ -5,11 +5,11 @@ title: Vaya al sitio de aprendizaje personalizado para Office 365
 ms.date: 02/18/2019
 description: Ir al sitio de aprendizaje personalizado
 ms.openlocfilehash: 3964d77ea207000b2fab0320e5bf2237f6e49e2a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103765"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056186"
 ---
 # <a name="go-to-the-custom-learning-site"></a>Ir al sitio de aprendizaje personalizado
 

@@ -1,29 +1,29 @@
 ---
-título: ''
+Título: procedimientos recomendados para el programa
 ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733955"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055360"
 ---
-# <a name="finding-your-champions"></a>Buscar los Campeones 
+# <a name="finding-your-champions"></a>Buscar a los expertos 
 
-Es probable que ya sabe que son de sus Campeones, incluso si actualmente no tiene un programa formal.  Estas son las personas que:
+Es probable que ya sepa quiénes son sus expertos, incluso si actualmente no tiene un programa formal.  Se trata de personas que:
 
-A menudo, se puede apreciar ayudando a los demás con la tecnología existente a disfrutar de enseñanza y el aprendizaje acerca de la nueva tecnología puede ser vocal acerca de las limitaciones de las soluciones actuales están interesados en probar nuevas herramientas, incluso antes de que otros los compañeros de trabajo
+A menudo se ven ayudando a otros usuarios con tecnología existente que disFrutan de la enseñanza y el aprendizaje de nuevas tecnologías que pueden ser vocales de las limitaciones de las soluciones actuales que están encantadas de probar nuevas cosas, incluso antes de los compañeros de trabajo.
 
 > [!NOTE]
-> Campeones son diferentes de las personas que disfrutan de las pruebas de nuevo software para la tecnología por sí sola. Campeones destacan en **otros usuarios** , independientemente del contexto. 
+> Los expertos son diferentes de las personas que disfrutan de probar software nuevo para la tecnología por sí sola. Los campeones prosperan en **ayudar a otras personas** independientemente del contexto. 
 
-## <a name="start-small-and-grow"></a>Comience con poco y crecer
+## <a name="start-small-and-grow"></a>Empezar con minúsculas y crecer
 
-Si su organización no tiene un programa de campeones actual o le gustaría intensifique el uno enviarle una invitación para un pequeño grupo de personas conocidas que se ajusten al perfil anterior.  Recopilar, a continuación, juntos para describir los objetivos del programa nuevo y obtener sus comentarios. True Campeones gustaría que participar y se sienten como si fueran una parte de la creación de algo.  
+Si su organización no tiene un programa de experto actual o le gustaría que reinvigorate a la persona que le ha enviado una invitación a un grupo reducido de personas conocidas que se ajustan al perfil anterior.  Reúnase para discutir los objetivos del nuevo programa y obtener sus comentarios. Verdaderos campeones quieren que su voz se escuche y se sienta como si formara parte de la creación de algo.  
 
-## <a name="provide-structure"></a>Proporcionar una estructura
+## <a name="provide-structure"></a>Proporcionar estructura
 
-Programas de campeones correctas tengan un coordinador y una programación regular para reunirse y debatir problemas actuales.  Las reuniones mensuales mínimo son una parte importante de la creación de una cultura positiva de la Comunidad y fomento de crecimiento.  
+Los programas de campeón satisfactorios tienen una guía líder y una programación regular para cumplir y analizar los problemas actuales.  Las reuniones mensuales, como mínimo, son una parte importante de la creación de una cultura positiva en la comunidad y el fomento del crecimiento.  
 
-También puede usar Microsoft Teams para crear un concentrador para el programa de su trabajo en equipo Campeones.  Un ejemplo de estructura de ese equipo puede encontrarse en [este artículo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams).
+También puede usar Microsoft Teams para crear un concentrador para el programa de los expertos en el trabajo en equipo.  Puede encontrar un ejemplo para esa estructura de equipo en [este artículo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams).
 
-![fichas de equipo Campeones de trabajo en equipo](media/teams-adoption-tab-example.png)
+![pestañas de equipo de trabajo experto](media/teams-adoption-tab-example.png)

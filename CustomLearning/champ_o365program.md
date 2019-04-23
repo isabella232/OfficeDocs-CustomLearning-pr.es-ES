@@ -1,18 +1,18 @@
 ---
-título: procedimientos recomendados de
+Título: procedimientos recomendados para el programa
 ms.openlocfilehash: 52e14df0552c7809f0abb856f8d0a4dd9f80ae75
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733951"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055480"
 ---
-# <a name="office-365-champions-program"></a>Programa de campeones de Office 365 
+# <a name="office-365-champions-program"></a>Programa de Office 365 Champions 
 
-![hacer que una diferencia de convertirse en un experto](media/makeadifference.png)
+![hacer que la diferencia se convierta en un campeón](media/makeadifference.png)
 
-Microsoft proporciona un programa de Office 365 Campeones gratuito para admitir el rol Campeones en todo el mundo.  Este programa proporciona una comunidad en línea, las llamadas de la Comunidad mensual y contenido promoviendo la adopción en una amplia variedad de servicios de Office 365.
+Microsoft ofrece un programa gratuito de Office 365 Champions para apoyar el rol de experto en todo el mundo.  Este programa proporciona una comunidad en línea, llamadas mensuales a la comunidad y la adopción de contenido en una variedad de servicios en Office 365.
 
-Este programa está abierto a todos los usuarios.  Se recomienda que, como mínimo cualquiera que esté ejecutando un programa de campeones en su organización se convierten en un miembro para obtener acceso a los pesos pesados materiales que se pueden utilizar en su propios programa de formación. 
+Este programa está abierto para todos los usuarios.  Se recomienda que, como mínimo, un usuario que ejecute un programa de experto en su organización se convierta en un miembro para obtener acceso a los materiales de formación de los expertos que se puedan usar en su propio programa. 
 
-Regístrese ahora para convertirse en una parte de la Comunidad en todo el mundohttps://aka.ms/O365Champions  
+Regístrese hoy para formar parte de la comunidad mundial enhttps://aka.ms/O365Champions  

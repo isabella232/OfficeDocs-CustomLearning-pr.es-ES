@@ -3,29 +3,29 @@ author: karuanag
 ms.author: karuanag
 title: Comentarios y soporte técnico
 ms.date: 02/10/2019
-description: Información de comentarios y soporte técnico para aprendizaje personalizado para Office 365
+description: Comentarios e información de soporte técnico para el aprendizaje personalizado de Office 365
 ms.openlocfilehash: 3a403b986b127fb5ea84dc43d5d91d62079803ce
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951194"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055330"
 ---
 # <a name="feedback-and-support"></a>Comentarios y soporte técnico
 
-Este proyecto de código abierto se admite a través de nuestra [lista de problemas en línea](https://aka.ms/CustomLearningHelp) en depósito. Estas soluciones no están cubiertas por cualquier contrato de soporte técnico de Microsoft existente.  
+Este proyecto de código abierto es compatible con nuestra [lista de problemas en línea](https://aka.ms/CustomLearningHelp) en github. Estas soluciones no están cubiertas por ningún contrato de soporte técnico de Microsoft existente.  
 
-## <a name="report-issues"></a>Informe de problemas
+## <a name="report-issues"></a>Informar sobre problemas
 
-Si tiene problemas con la plantilla de sitio de código abierto o webpart que ofrece el aprendizaje personalizado experiencia por favor, inserte el problema en nuestra lista de problemas de depósito.  Puede encontrar esta lista enhttps://aka.ms/CustomLearningHelp  
+Si tiene problemas con la plantilla de sitio de código abierto o el elemento Web que ofrece la experiencia de aprendizaje personalizada, escriba su problema en nuestra lista de problemas de GitHub.  Puede encontrar esta lista enhttps://aka.ms/CustomLearningHelp  
 
-Como es estándar con las soluciones de código abierto la Comunidad evalúa estos problemas para la resolución.  Solicitudes de características se transfieren en nuestra instancia de voz de usuario que se indican a continuación.  Errores de código se escalan a los administradores de la Comunidad y servicio de evaluación de errores y la resolución.  
+Al igual que la norma con soluciones de código abierto, la comunidad evalúa estos problemas para su solución.  Las solicitudes de características se transfieren a nuestra instancia de voz de usuario que se indica a continuación.  Los errores de código se escalan a los administradores de servicios y la comunidad para su clasificación y resolución.  
 
-## <a name="provide-us-feedback"></a>Nos proporcionen comentarios
+## <a name="provide-us-feedback"></a>Envíenos sus comentarios
 
-Nuestra solución es sólo un éxito si se están habilitando los resultados de su negocio!  Ayúdenos a mejorar por darnos comentarios regulares a través de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Revisamos con regularidad todos los comentarios y preguntas.
+Nuestra solución es solo un éxito si está habilitando los resultados de su negocio.  Ayúdenos a mejorarnos haciendo un comentario regular a través de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Periódicamente revisamos todos sus comentarios y preguntas.
 
-## <a name="usage-questions"></a>Preguntas sobre el uso
+## <a name="usage-questions"></a>Preguntas de uso
 
-Para preguntas sobre los procedimientos recomendados con el portal de aprendizaje y su contenido participe en los foros de [Adopción tiende a](https://aka.ms/DriveAdoption) en la comunidad técnica de Microsoft en https://aka.ms/DriveAdoption. 
+Si tiene preguntas sobre los procedimientos recomendados para el uso del portal de aprendizaje y su contenido, únase a los foros de [adopción](https://aka.ms/DriveAdoption) de conducción https://aka.ms/DriveAdoptionen la comunidad técnica de Microsoft en. 
 

@@ -5,11 +5,11 @@ title: Agregar y editar el elemento Web de aprendizaje personalizado
 ms.date: 02/17/2019
 description: Adición del elemento Web de aprendizaje personalizado a una página de SharePoint
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103855"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055720"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>Agregar y editar el elemento Web de aprendizaje personalizado
 
@@ -41,4 +41,4 @@ Puede editar el elemento Web de aprendizaje personalizado para mostrar todo el c
 ## <a name="add-a-title-and-publish-the-page"></a>Agregar un título y publicar la página
 1. En el área de título de la página, escriba "crear su propia experiencia".
 2. Haga clic en el icono **Editar elemento Web** en el área de título, seleccione **sin formato** en **diseño**y, a continuación, cierre el panel **propiedades** .
-3. Haga clic en **publicar**.
+3. Haga clic en **Publicar**.

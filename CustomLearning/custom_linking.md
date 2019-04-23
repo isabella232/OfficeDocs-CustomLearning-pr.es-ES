@@ -5,11 +5,11 @@ title: Vinculación a recursos de aprendizaje personalizados
 ms.date: 02/15/2019
 description: Cómo vincular a recursos de aprendizaje personalizados
 ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103735"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056173"
 ---
 # <a name="link-to-custom-learning-content"></a>Vincular a contenido de aprendizaje personalizado
 

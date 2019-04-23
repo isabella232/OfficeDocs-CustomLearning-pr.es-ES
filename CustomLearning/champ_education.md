@@ -1,22 +1,22 @@
 ---
-título: ''
+Título: procedimientos recomendados para el programa
 ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733961"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055420"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar sus habilidades - Conviértase en un especialista de adopción de servicio
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar sus habilidades: conViértase en un especialista en adopción de servicios
 
-![Servicio adopción especialista en curso](media/champs_sascourse.png)
+![Curso especialista en adopción de servicios](media/champs_sascourse.png)
 
-Si la adopción de servicio es una parte de su función o desea ir más allá con aprendizaje formal en este tema puede inscribirse en el curso en línea proporcionado por Microsoft en nuestro sitio de socio, EdX.org. 
+Si la adopción del servicio forma parte de su rol o desea profundizar en un curso de formación formal sobre este tema, puede inscribirse en el curso en línea proporcionado por Microsoft en nuestro sitio para partners, EdX.org. 
 
-En este [curso en línea para especialistas de adopción de servicio](https://aka.ms/AdoptionCert) es **libre de auditoría**.  Si desea recibir su certificado EdX para la finalización de una tarifa de $99,00 es necesario.  En este curso se ha creado por [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) de los equipos de ingeniería de Microsoft con la entrada de varios expertos MVP de Microsoft y Microsoft IT.  Los procedimientos recomendados incluidos en recopilada de observación de toda la industria y son complementarios a una educación de administración de cambios en la organización formal.  
+Este [especialista en la adopción de servicios en línea](https://aka.ms/AdoptionCert) es **gratuito para auditar**.  Si quiere recibir su certificado EdX para finalizar, se necesita una cuota de $99,00.  Este curso fue creado por [Karuana Gatimu](https://linkedin.com/in/karuanagatimu) de ingeniería de Microsoft Teams con comentarios de varios MVP de Microsoft y expertos de TI de Microsoft.  Los procedimientos recomendados contenidos en se han recopilado a partir de la observación de la industria en su totalidad y son complementarias para la educación formal de administración de cambios de la organización.  
 
-Una guía práctica, herramientas y contenido adicional se encuentran en este curso que le permitirá validar sus conocimientos en esta capacidad empresariales importantes.  
+Este curso incluye instrucciones prácticas, herramientas y contenido adicional que le permitirá validar el skils en esta importante capacidad empresarial.  
 
-Obtenga más información en nuestro [anuncio](https://aka.ms/AdoptionCertAnnouncement) acerca de la publicación de este curso. 
+Obtenga más información en nuestro [anuncio](https://aka.ms/AdoptionCertAnnouncement) sobre la publicación de este curso. 
 
-Unirse a nuestro Comunidad en línea de los usuarios profesionales y aprendizaje de los profesionales de TI sobre adopción en https://aka.ms/DriveAdoption. 
+Únase a nuestra comunidad en línea de usuarios empresariales y profesionales de TI en https://aka.ms/DriveAdoptionel aprendizaje sobre la adopción en. 

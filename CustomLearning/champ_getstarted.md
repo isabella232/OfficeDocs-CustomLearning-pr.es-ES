@@ -1,45 +1,45 @@
 ---
-título: ''
+Título: procedimientos recomendados para el programa
 ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733957"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055400"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Establecer a campeones para la adopción de usuario 
+# <a name="establish-champions-for-user-adoption"></a>Establecer a los campeones para la adopción de usuarios 
 
-Administración de cambios en la organización es el arte de cambiar el comportamiento de un grupo de destino de personas. Hay una gran cantidad de ciencias e investigación de compatibilidad con esta práctica. En estos artículos vamos que le ayudarán a la adopción de los servicios clave que le llevará a los resultados empresariales de su compañía.  Seguir nuestras mejores prácticas, se reducirá su tiempo a obtención de valor cuantificables de Office 365.  
+La administración de cambios organizacionales es el arte de cambiar el comportamiento de un grupo de personas de destino. Hay una gran cantidad de Ciencia e investigación que respalda esta práctica. En estos artículos vamos a ayudarle a impulsar la adopción de servicios clave que conducirá a los resultados empresariales de su empresa.  Seguir nuestros procedimientos recomendados reducirá el tiempo de obtención de valor medible de Office 365.  
 
-Un programa de campeones es una parte esencial de la dirección de la adopción. Estas fuentes de influencia en su compañía proporcionan que gran parte necesaria fomento a los empleados que están adoptando la nueva tecnología y soporte técnico. Revise estas páginas para obtener informados acerca de crear el plan de adopción y ejecutar su propio programa de campeones. 
+Un programa de Campeones es una parte esencial de la adopción del impulso. Estas influencias de su empresa proporcionan la compatibilidad y el estímulo a los empleados que están adoptando la nueva tecnología. Revise estas páginas para obtener información sobre la creación de su plan de adopción y sobre cómo ejecutar su propio programa de experto. 
 
 > [!NOTE]
-> Puede actualizar o reemplazar esta lista de reproducción con información sobre su propio programa para referencia en toda la organización.
+> Puede actualizar o reemplazar esta lista de reproducción con información sobre su propio programa como referencia en toda la organización.
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>¿Quiénes son campeones y lo que hace que ellos graduación?
+## <a name="who-are-champions-and-what-makes-them-tick"></a>¿Quiénes son los expertos y qué los convierten en pulsos?
 
-Campeones no sólo son entusiastas acerca de lo que se realice, pero también están satisfechos de compartir sus conocimientos y ayudar a sus compañeros a aprender soluciones más eficaces. Campeones son entusiastas y a menudo frustrado con las herramientas existentes. ¡Le ayudará a ganar el desafío de moda watercooler!  
+Los expertos no solo son apasionados de lo que hacen, sino que también están entusiasmados por compartir sus conocimientos y ayudar a sus colegas a obtener soluciones más eficaces. Los expertos son entusiastas y con frecuencia frustrados con las herramientas existentes. Le ayudarán a ganar el Watercooler de zumbidos.  
 
-Creemos que es importante para Campeones recompensa de forma significativa. Algunas sugerencias son:
+Creemos que es importante recompensar a los expertos de manera significativa. Algunas sugerencias son:
 
-- Permitir la pertenencia correcta en el programa de campeones para contribuir a la revisión del rendimiento de los empleados
-- Confirmar a las mayor éxito Campeones recompensas de beneficios de lote y los empleados de Office  
-- Haga participar a sus Campeones con formación continua y el contenido que se puede pasar a otros empleados 
+- Permitir a los miembros del programa Champion contribuir a la revisión del rendimiento de los empleados
+- ReConozca a sus expertos más exitosos con recompensas de los beneficios de los empleados y los swag de Office  
+- Atraer a sus expertos con formación y contenido continuos que puedan transmitir a otros empleados 
 
-Pero en su lugar la personalidad Campeones no participar normalmente debido a estas recompensas, ya que crea una experiencia más significativa y cuantificables para ellos que contribuye a la satisfacción de los empleados. 
+Por lo general, la personalidad del experto no se compromete por estos premios, sino porque crea una experiencia medible más significativa para ellos que contribuye a la satisfacción de los empleados. 
 
-## <a name="why-are-champions-important"></a>¿Por qué son importantes Campeones? 
+## <a name="why-are-champions-important"></a>¿Por qué son importantes los campeones? 
 
-Recursos de aprendizaje a través de los compañeros de trabajo se encuentra entre el método más eficaz de aprendizaje en un entorno profesional. Campeones también proporcionan la información valiosa de programa de adopción acerca de qué es y no funciona sobre la implementación del servicio de, el programa de formación y la opinión general de los clientes con respecto a los cambios que se va a implementar.  
+El aprendizaje a través de compañeros de trabajo está entre el método de aprendizaje más eficaz en un entorno profesional. Los expertos también proporcionarán a su programa de adopción información valiosa sobre qué es y qué no funciona sobre la implementación del servicio, el programa de formación y la opinión general sobre los cambios que se implementan.  
 
-![Porcentaje de uso de aprendizaje utilidad de vs (método)](media/champstats.png)
+![Porcentaje con uso de aprendizaje por comparación de métodos de aprendizaje](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a>¿Cómo le proporcionarán soporte Campeones?
+## <a name="how-will-champions-support-you"></a>¿Cómo le dará asistencia a los campeones?
 
-Campeones le ayudará a reducir la carga sobre los recursos del equipo del proyecto de núcleo y ayuda de contratación de la unidad en toda la Comunidad. También podrá así:
+Los expertos ayudarán a reducir la presión sobre los recursos del equipo principal del proyecto y ayudarán a impulsar la participación en toda la comunidad. También se:
 
-1. Crear el groundswell un entusiasmo que crece la adopción de formas mejoradas de trabajo
-1. Creación de un círculo de influencia entre sus equipos
-1. Incorporar las nuevas formas de trabajar vida o a través de los equipos
-1. Identificar los desafíos del negocio y las posibles soluciones
-1. Envíe comentarios al equipo de proyecto y patrocinadores
+1. Crear el Groundswell un entusiasmo que crezca la adopción de formas de trabajo mejoradas
+1. Crear un círculo de influencia entre sus equipos
+1. Incorpore las nuevas formas de trabajar hasta la vida en Microsoft Teams.
+1. Identificar los retos empresariales y las posibles soluciones
+1. Proporcionar comentarios al equipo de proyecto y a los patrocinadores

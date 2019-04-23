@@ -5,11 +5,11 @@ title: Preguntas más frecuentes sobre asociados
 ms.date: 3/9/2019
 description: ¿Cómo se compara el aprendizaje personalizado de Office 365 con las ofertas de socios de las empresas que proporcionan servicios de formación empresarial?
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523613"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056356"
 ---
 # <a name="partner-frequently-asked-questions"></a>Preguntas más frecuentes sobre asociados
 

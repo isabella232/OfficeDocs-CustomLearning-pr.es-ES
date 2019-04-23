@@ -5,11 +5,11 @@ title: Personalización de la experiencia de aprendizaje
 ms.date: 02/10/2019
 description: Obtenga información sobre la variedad de personalizaciones disponibles con aprendizaje personalizado para Office 365
 ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30059691"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056326"
 ---
 # <a name="customize-the-training-experience"></a>Personalización de la experiencia de aprendizaje
 
@@ -40,7 +40,8 @@ Como punto de partida para personalizar el sitio, seleccione formular preguntas 
 
 1.  Ir a la página Administración de aprendizaje personalizada en el ![sitio web custom_admin. png](media/custom_admin.png)
 1. Seleccione **tecnología** para ver la lista completa de servicios incluidos en la solución.
-1. Seleccione una tecnología y **haga clic en el símbolo del ojo** para ocultar este contenido.  Vuelva a hacer clic en el símbolo del ojo para mostrar el contenido de la experiencia. ![personalizado](media/custom_techlist.png)
+1. Seleccione una tecnología y **haga clic en el símbolo del ojo** para ocultar este contenido.  Vuelva a hacer clic en el símbolo del ojo para mostrar el contenido de la experiencia. 
+![customiza](media/custom_techlist.png)
 
 El mismo proceso puede repetirse en las categorías de listas de reproducción de la experiencia.  Simplemente, seleccione la opción categoría para mostrar u ocultar las listas de reproducción. 
 

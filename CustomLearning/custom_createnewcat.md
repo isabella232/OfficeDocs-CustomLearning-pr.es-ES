@@ -5,11 +5,11 @@ title: Crear una subcategoría nueva
 ms.date: 02/17/2019
 description: Crear una nueva Subcategoría con aprendizaje personalizado
 ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103745"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055460"
 ---
 # <a name="create-a-subcategory"></a>Crear una subcategoría 
 En algunos casos, querrá crear una subcategoría nueva. Por ejemplo, si la subcategoría de los primeros días no funciona para la organización, puede crear una subcategoría nueva y, a continuación, agregar listas de reproducción para satisfacer las necesidades de su organización. 

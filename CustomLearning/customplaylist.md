@@ -5,11 +5,11 @@ title: Personalizar y compartir listas de reproducción
 ms.date: 02/10/2019
 description: Crear listas de reproducción personalizadas a partir de contenido existente o de nuevas páginas de SharePoint
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989731"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056446"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizar y compartir listas de reproducción
 
@@ -41,12 +41,14 @@ En este ejemplo, primero crearemos una página de SharePoint para agregarla a la
 
 #### <a name="step-2-create-the-playlist"></a>Paso 2: crear la lista de reproducción
 
-1. Navegue a la página de **Administración de aprendizaje personalizada** en la experiencia del sitio. ![custom_admin. png](media/custom_admin.png)
+1. Navegue a la página de **Administración de aprendizaje personalizada** en la experiencia del sitio.
+![custom_admin. png](media/custom_admin.png)
 1. Asegurarse de que la **categoría** está seleccionada 
 1. Haga clic en la categoría en la que desea que aparezca la nueva lista de reproducción
 1. Junto al nombre de la categoría, haga clic en el ![símbolo más custom_addplay. png](media/custom_addplay.png)
 
-1. ReLlene los valores como se muestra en el ejemplo siguiente y seleccione **crear**. ![custom_details. png](media/custom_details.png)
+1. ReLlene los valores como se muestra en el ejemplo siguiente y seleccione **crear**. 
+![custom_details. png](media/custom_details.png)
 - **Título** : nombre para mostrar de la lista de reproducción
 - **Descripción** : información sobre lo que se aprenderá
 - **Categoría** : preseleccionado en función de la selección inicial
@@ -65,7 +67,8 @@ En este ejemplo, primero crearemos una página de SharePoint para agregarla a la
 En este paso, agregará los activos existentes de Microsoft y la página de SharePoint que ha creado a la lista de reproducción. 
 
 1. Una vez que haya guardado los detalles de la lista de reproducción, puede usar la búsqueda de activos existentes.
-1. **Escriba un término de búsqueda** para ver una lista de activos predefinidos que están disponibles desde otras listas de reproducción. **Haga clic en el nombre** de un activo para incluirlo en la nueva lista de reproducción. ![custom_slist. png](media/custom_slist.png)
+1. **Escriba un término de búsqueda** para ver una lista de activos predefinidos que están disponibles desde otras listas de reproducción. **Haga clic en el nombre** de un activo para incluirlo en la nueva lista de reproducción.
+![custom_slist. png](media/custom_slist.png)
 
 También puede Agregar la página de SharePoint que creó anteriormente o crear una a partir de cero en la experiencia.
 

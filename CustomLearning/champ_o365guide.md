@@ -1,22 +1,22 @@
 ---
-título: ''
+Título: procedimientos recomendados para el programa
 ms.openlocfilehash: 6396722d085bf6c9e831ac34a86f9f3d087ef62e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733954"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055440"
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Guía de adopción de usuario final de Microsoft 365
+# <a name="microsoft-365-end-user-adoption-guide"></a>Guía de adopción de Microsoft para usuarios finales de 365
 
 ![Guía de adopción de Microsoft 365](media/m365euguide.png)
 
-Para conocer más acerca de este tema utilizan la [Guía de adopción de usuario final de Microsoft 365](https://aka.ms/adoptionguide). Esta guía dispone de los pasos hacia promoviendo la adopción de usuario final a través de las siguientes áreas clave:
+Para obtener más información sobre este tema, use la [Guía de adopción del usuario final de Microsoft 365](https://aka.ms/adoptionguide). Esta guía presenta los pasos para impulsar la adopción por parte del usuario final en las siguientes áreas clave:
 
-- Partes interesadas
-- Escenarios
+- Las partes interesadas
+- Scenarios
 - Reconocimiento
 - Formación 
-- Planear, implementar y administrar el cambio
+- Planeación, implementación y administración de cambios
 - 
-- Actualizamos esta guía con frecuencia para incluir nueva información.
+- Actualizamos esta guía con frecuencia para incorporar nueva información.

@@ -5,11 +5,11 @@ title: Agregar activos a una lista de reproducción
 ms.date: 02/17/2019
 description: Agregar activos nuevos y existentes a una lista de reproducción de aprendizaje personalizada
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103515"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056003"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Agregar activos a una lista de reproducción personalizada
 
@@ -44,7 +44,7 @@ Con la opción **Crear página de activos** , proporcione un título para el act
 
 ![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
 
-7. Haga clic en **publicar**.
+7. Haga clic en **Publicar**.
 8. Volver a la página **Administración de aprendizaje personalizada** . 
 9. ReLlene el resto de las propiedades del activo y, a continuación, haga clic en **Guardar activo.**
 
@@ -67,7 +67,7 @@ Con la opción **escribir la dirección URL** , proporcione un título para el a
 
 Los activos existentes están formados por recursos de aprendizaje personalizados de Microsoft o activos que ya se agregaron al aprendizaje personalizado de su organización. 
 
-- En el cuadro de **búsqueda** , escriba una frase de búsqueda y, a continuación, seleccione un activo de los resultados de búsqueda. En este ejemplo, escriba "¿Qué es Excel?" para agregar un tema de introducción de Excel a la lista de reproducción.
+- En el cuadro de **búsqueda** , escriba una frase de búsqueda y, a continuación, seleccione un activo de los resultados de búsqueda. En este ejemplo, escriba "¿Qué es Excel?". para agregar un tema de introducción de Excel a la lista de reproducción.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 

@@ -1,8 +1,8 @@
-# <a name="drive-adoption"></a>Estimular la adopción
+# <a name="drive-adoption"></a>Adopción de unidades
 
-La adopción de sus experiencias de solución de aprendizaje personalizado con estos sencillos pasos y las herramientas de la unidad. 
+Impulsar la adopción de experiencias de soluciones de aprendizaje personalizadas con estos sencillos pasos y herramientas. 
 
-Somos conscientes de que las soluciones de formación sólo son tan buenas como el uso de que estos usuarios reciben en la organización.  Por este motivo hemos creado estos sencillos pasos y las plantillas que le ayudarán a mejorar el conocimiento y la adopción de nuestras herramientas.  
+Somos conscientes de que las soluciones de aprendizaje son tan buenas como el uso que reciben en su organización.  Por eso hemos creado estos sencillos pasos y plantillas para ayudarle a impulsar la detección y la adopción de nuestras herramientas.  
 
 
 
