@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Crear listas de reproducción nuevas
 ms.date: 02/18/2019
 description: Cómo crear nuevas listas de reproducción
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055863"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247595"
 ---
 # <a name="create-a-custom-playlist"></a>Crear una lista de reproducción personalizada
 
@@ -17,13 +17,13 @@ Al crear una lista de reproducción, primero debe crear la lista de reproducció
 
 ## <a name="create-a-playlist"></a>Crear una lista de reproducción 
 
-1. En la página **principal** de aprendizaje personalizado, haga clic en **Office 365 Training**, seleccione el menú sistema del elemento Web y, a continuación, seleccione **administrar lista de reproducción**. 
+1. En la página **principal** de Microsoft 365 Learning Pathways, haga clic en **Office 365 Training**, seleccione el menú sistema del elemento Web y, a continuación, seleccione **administrar lista de reproducción**. 
 2. Seleccione una subcategoría. En este ejemplo, seleccione **primeros días**.  
 3. Haga clic en el icono +.  
 
 ![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
 
-4.  ReLlene los campos de la lista de reproducción como se muestra en el siguiente ejemplo. Puede dejar el icono predeterminado para este ejemplo. 
+4.  Rellene los campos de la lista de reproducción como se muestra en el siguiente ejemplo. Puede dejar el icono predeterminado para este ejemplo. 
 
 ![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
 

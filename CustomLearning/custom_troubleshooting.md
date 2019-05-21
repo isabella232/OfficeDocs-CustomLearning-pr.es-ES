@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Solución de problemas de aprendizaje personalizado
+title: Solución de problemas de caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
-description: Obtener información sobre cómo solucionar problemas de aprendizaje personalizado
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Aprenda a solucionar problemas relacionados con los caminos de aprendizaje de Microsoft 365
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055110"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247685"
 ---
-# <a name="troubleshoot-custom-learning"></a>Solucionar problemas de aprendizaje personalizado
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Solución de problemas de caminos de aprendizaje de Microsoft 365
 
-Aquí encontrará sugerencias para la solución de problemas que pueden producirse con el aprendizaje personalizado para Office 365 o el servicio de aprovisionamiento de SharePoint Online.
+A continuación, se indican sugerencias de solución de problemas para los problemas que pueden producirse con las rutas de aprendizaje de Microsoft 365 o el servicio de aprovisionamiento de SharePoint Online.
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>Cómo saber si tiene permisos de administrador de inquilinos
 
@@ -36,14 +36,14 @@ El aprendizaje personalizado requiere que se aprovisione un catálogo de aplicac
 ### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>Cómo saber si tiene un catálogo de aplicaciones del espacio empresarial 
 Para empezar, asegúrese de que tiene permisos de administrador global. Vea los pasos para los permisos de administrador de inquilinos más arriba.
 
-1. en Office 365, haga clic en **administrador**, haga clic en la flecha de expansión >, haga clic en **mostrar todos los** > **centros** > de administración**SharePoint**.
+1. En Office 365, haga clic en **Administrador**, haga clic en la flecha de expansión >, haga clic en **Mostrar todos los** > **centros** > de administración**SharePoint**.
 2. Haga clic en**Catálogo de aplicaciones**de**aplicaciones** > de **Centro** > de administración clásica de SharePoint.
 3. En **aplicaciones**, debería ver un icono titulado **distribuir aplicaciones para SharePoint**. Si ve el icono, tiene un catálogo de aplicaciones del espacio empresarial. Vea la sección **Cómo asegurarse de que es un sitio colllection...** a continuación. Si no ve el icono, tendrá que crear un catálogo de aplicaciones del espacio empresarial para el inquilino. Vea la sección **Cómo crear un catálogo de aplicaciones del espacio empresarial** a continuación.
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>Cómo garantizar que es el propietario de una colección de sitios en el catálogo de aplicaciones del espacio empresarial 
-Para aprovisionar aprendizaje personalizado para Office 365, deberá ser un propietario de la colección de sitios en el catálogo de aplicaciones del espacio empresarial. Esta es la manera de determinar si es propietario.
+Para aprovisionar los caminos de aprendizaje de Microsoft 365, tendrá que ser un propietario de la colección de sitios en el catálogo de aplicaciones del espacio empresarial. Esta es la manera de determinar si es propietario.
 
-1. en Office 365, haga clic en **administrador**, haga clic en la flecha de expansión >, haga clic en **mostrar todos los** > **centros** > de administración**SharePoint**.
+1. En Office 365, haga clic en **Administrador**, haga clic en la flecha de expansión >, haga clic en **Mostrar todos los** > **centros** > de administración**SharePoint**.
 2. Haga clic en **centro de administración clásico de SharePoint**y, a continuación, seleccione el **Catálogo de aplicaciones**.
 3. Seleccione **propietario**y, a continuación, asegúrese de que es el propietario de la colección de sitios. Debe tener un aspecto similar a este.
  

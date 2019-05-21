@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: Crear páginas de SharePoint para listas de reproducción
 ms.date: 02/10/2019
 description: Crear páginas de SharePoint para listas de reproducción
-ms.openlocfilehash: c2de66a0746260e8f6539656ad70052b209c54ba
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055510"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247545"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Crear páginas de SharePoint para listas de reproducción personalizadas
 
-Una de las características únicas de aprendizaje personalizado es la capacidad de crear listas de reproducción que se ensamblan a partir de activos de Microsoft y de los activos de SharePoint que se crean. En este ejemplo, crearemos una página de SharePoint antes de crear una lista de reproducción. La capacidad de crear listas de reproducción desde páginas de SharePoint ofrece varias oportunidades para crear páginas con los elementos Web disponibles en Microsoft o en su organización. Por ejemplo, una lista de reproducción puede incluir una página de SharePoint con vídeos incrustados de YouTube, o un formulario creado a partir de formularios de Office 365, o un informe de Power BI incrustado. En este ejemplo, le mostraremos cómo crear una página con el elemento Web insertar y el elemento Web texto.  
+Una de las características únicas de las rutas de aprendizaje es la capacidad de crear listas de reproducción que se ensamblan a partir de activos de Microsoft y de los activos de SharePoint que se crean. En este ejemplo, crearemos una página de SharePoint antes de crear una lista de reproducción. La capacidad de crear listas de reproducción desde páginas de SharePoint ofrece varias oportunidades para crear páginas con los elementos Web disponibles en Microsoft o en su organización. Por ejemplo, una lista de reproducción puede incluir una página de SharePoint con vídeos incrustados de YouTube, o un formulario creado a partir de formularios de Office 365, o un informe de Power BI incrustado. En este ejemplo, le mostraremos cómo crear una página con el elemento Web insertar y el elemento Web texto.  
 
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>Crear una página de SharePoint para una lista de reproducción personalizada
 
