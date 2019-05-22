@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Opciones de instalación de Microsoft 365 Learning Pathways
 ms.date: 02/11/2019
 description: Opción de instalación para la configuración de aprendizaje personalizada
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247695"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334712"
 ---
 # <a name="learning-pathways-setup-options"></a>Opciones de configuración de las rutas de aprendizaje
 Los caminos de aprendizaje proporcionan la flexibilidad necesaria para configurar la solución de un par de formas diferentes. En las secciones siguientes se describen las opciones disponibles.
+
+> [!IMPORTANT]
+> A partir de 5/21/2019, Microsoft 365 Learning Pathways es el nuevo nombre de la solución anteriormente conocida como aprendizaje personalizado para Office 365. Si ya ha aprovisionado el aprendizaje personalizado para Office 365 en su organización y desea actualizar la solución, siga las instrucciones de actualización de la solución en el [archivo Léame de las rutas de aprendizaje de Microsoft 365](https://github.com/pnp/custom-learning-office-365). Si está aprovisionando los caminos de aprendizaje de Microsoft 365 por primera vez, consulte las [instrucciones para aprovisionar rutas de aprendizaje de microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) en la documentación de Microsoft 365 Learning Pathways.  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Recomendado: configuración del servicio de aprovisionamiento de SharePoint Online 
 El servicio de aprovisionamiento de SharePoint Online proporciona el método más rápido, más sencillo y recomendado para configurar el aprendizaje personalizado. Con el servicio de aprovisionamiento de SharePoint Online, un administrador de inquilinos de Office 365 inicia sesión en el servicio, toma algunas opciones y hace clic en **Agregar al inquilino** para aprovisionar el sitio de aprendizaje personalizado y el elemento Web de aprendizaje personalizado. Cuando se realiza el aprovisionamiento, el administrador del espacio empresarial recibe un correo electrónico que el sitio está listo para continuar. 
