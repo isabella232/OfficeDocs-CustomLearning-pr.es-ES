@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Preguntas más frecuentes sobre los caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Información sobre las preguntas más frecuentes para los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334724"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636114"
 ---
 # <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Recientemente vimos una entrada de blog en la que se cambia el nombre del aprendizaje personalizado de Office 365 a las rutas de aprendizaje de Microsoft 365. ¿Se están agregando otros cambios a la solución como parte del trabajo de cambio de nombre? ¿Debo actualizar la solución en mi organización?
+
+La versión de Microsoft 365 Learning Pathways es un esfuerzo de reposicionamiento dedicado a cambiar el nombre de la solución para que se ajuste a la marca de Microsoft 365. Si tiene un aprendizaje personalizado para Office 365 que actualmente se ejecuta correctamente en su organización, no es necesario actualizar la solución en este momento.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>¿Cuáles son los requisitos para instalar los caminos de aprendizaje de Microsoft 365 en mi entorno de inquilino?
 
@@ -34,7 +38,7 @@ Las rutas de aprendizaje de Microsoft 365 se encuentran actualmente en versión 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>¿En qué idiomas están disponibles los caminos de aprendizaje de Microsoft 365?
 
-Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de la compatibilidad multilingüe para estos nueve idiomas se ha previsto en el CY19 Q3: 
+Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de la compatibilidad multilingüe para estos nueve idiomas se ha previsto en el cuarto trimestre de CY19: 
 
 - Chino (simplificado) 
 - Neerlandés (Países Bajos) 
