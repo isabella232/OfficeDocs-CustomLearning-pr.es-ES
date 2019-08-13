@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Dónde se encuentra el elemento Web de aprendizaje de Microsoft 365
 ms.date: 02/15/2019
 description: Información sobre dónde aparece el elemento Web caminos de aprendizaje en el sitio de caminos de aprendizaje
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247625"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327300"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>¿Dónde se encuentra el elemento Web de caminos de aprendizaje de Microsoft 365?
 
@@ -44,11 +44,11 @@ El elemento Web de la página **Start-with-Six-simple-Steps. aspx** está config
 
 ![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>Ver todo el aprendizaje de Office 365
+## <a name="view-all-microsoft-365-training"></a>Ver todos los cursos de aprendizaje de Microsoft 365
 
-El elemento Web de la página de **aprendizaje de Office 365** está configurado para mostrar todas las categorías y subcategorías disponibles en el catálogo de caminos de aprendizaje. Esto incluye las subcategorías de Microsoft junto con las subcategorías que cree para su organización.
+El elemento Web de la página de **aprendizaje de Microsoft 365** está configurado para mostrar todas las categorías y subcategorías disponibles en el catálogo de caminos de aprendizaje. Esto incluye las subcategorías de Microsoft junto con las subcategorías que cree para su organización.
 
-- En la Página principal de rutas de aprendizaje, haga clic en **Office 365 Training**. Aparece la página con el elemento web configurado para mostrar todas las categorías y subcategorías disponibles en el catálogo de aprendizaje personalizado.
+- En la Página principal de rutas de aprendizaje, haga clic en **aprendizaje de Microsoft 365**. Aparece la página con el elemento web configurado para mostrar todas las categorías y subcategorías disponibles en el catálogo de aprendizaje personalizado.
 
 ![CG-whereiswp-o365. png](media/cg-whereiswp-o365.png)
 
