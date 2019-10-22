@@ -3,29 +3,29 @@ author: pkrebs
 ms.author: pkrebs
 title: Agregar activos a una lista de reproducción
 ms.date: 02/17/2019
-description: Agregar activos nuevos y existentes a una lista de reproducción de aprendizaje personalizada
-ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Adición de activos nuevos y existentes a una lista de reproducción de rutas de aprendizaje
+ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056003"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34247645"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Agregar activos a una lista de reproducción personalizada
 
-Con aprendizaje personalizado, puede Agregar los siguientes activos a una lista de reproducción:
+Con las rutas de aprendizaje, puede Agregar los siguientes activos a una lista de reproducción:
 
-- **Recursos de aprendizaje personalizados existentes** : son activos que forman parte del catálogo de Microsoft online o activos que su organización ya ha agregado al aprendizaje personalizado.
-- **Activos nuevos** : son activos que se agregan a los conocimientos personalizados creados a partir de páginas de SharePoint que se crean o activos de SharePoint que ya están disponibles en un sitio de SharePoint de la organización. 
+- **Activos existentes de microsoft 365 Learning Pathways** : son activos que forman parte del catálogo de Microsoft online o activos que su organización ya ha agregado a las rutas de aprendizaje.
+- **Activos nuevos** : son activos que se agregan a las rutas de aprendizaje creadas a partir de páginas de SharePoint que se crean o activos de SharePoint que ya están disponibles en un sitio de SharePoint de la organización. 
 
 > [!TIP]
-> Si un activo de la lista de reproducción de Microsoft no satisface sus necesidades, cree una nueva lista de reproducción y, a continuación, agregue los activos de Microsoft y los activos recién creados a la lista de reproducción para crear la experiencia que desee. No puede modificar listas de reproducción de aprendizaje personalizadas proporcionadas por Microsoft, pero puede agregar recursos personalizados proporcionados por el aprendizaje a una lista de reproducción personalizada.   
+> Si un activo de la lista de reproducción de Microsoft no satisface sus necesidades, cree una nueva lista de reproducción y, a continuación, agregue los activos de Microsoft y los activos recién creados a la lista de reproducción para crear la experiencia que desee. No puede modificar las listas de reproducción de rutas de aprendizaje que proporciona Microsoft, pero puede agregar recursos proporcionados por rutas de aprendizaje a una lista de reproducción personalizada.   
 
 ## <a name="create-a-new-asset-for-a-playlist"></a>Crear un nuevo activo para una lista de reproducción
 
 Hay dos opciones para agregar un nuevo activo a una lista de reproducción.
 
-- **Crear página de activos** : con esta opción, el aprendizaje personalizado generará una nueva página de SharePoint en blanco y la agregará a la lista de reproducción. A continuación, puede agregar contenido a la página y guardarla.  
+- **Crear página de activos** : con esta opción, los caminos de aprendizaje generarán una nueva página de SharePoint en blanco y la agregarán a la lista de reproducción. A continuación, puede agregar contenido a la página y guardarla.  
 - **Escriba la dirección URL** con esta opción, se genera la página previamente o ya está disponible la página y se especifica la dirección URL para agregar la página a la lista de reproducción.
 
 ### <a name="create-asset-page"></a>Página de creación de activos 
@@ -46,7 +46,7 @@ Con la opción **Crear página de activos** , proporcione un título para el act
 
 7. Haga clic en **Publicar**.
 8. Volver a la página **Administración de aprendizaje personalizada** . 
-9. ReLlene el resto de las propiedades del activo y, a continuación, haga clic en **Guardar activo.**
+9. Rellene el resto de las propiedades del activo y, a continuación, haga clic en **Guardar activo.**
 
 ### <a name="enter-the-url"></a>Escriba la dirección URL
 Con la opción **escribir la dirección URL** , proporcione un título para el activo y, a continuación, haga clic en **escribir la dirección URL** para especificar la página de SharePoint que desea agregar a la lista de reproducción. 
@@ -65,7 +65,7 @@ Con la opción **escribir la dirección URL** , proporcione un título para el a
 
 ## <a name="add-an-existing-asset-to-a-playlist"></a>Agregar un activo existente a una lista de reproducción
 
-Los activos existentes están formados por recursos de aprendizaje personalizados de Microsoft o activos que ya se agregaron al aprendizaje personalizado de su organización. 
+Los activos existentes están formados por el aprendizaje proporcionado por Microsoft que se aplica a los activos o activos que ya han sido agregados a las rutas de aprendizaje de su organización. 
 
 - En el cuadro de **búsqueda** , escriba una frase de búsqueda y, a continuación, seleccione un activo de los resultados de búsqueda. En este ejemplo, escriba "¿Qué es Excel?". para agregar un tema de introducción de Excel a la lista de reproducción.
 
@@ -91,6 +91,6 @@ Ahora que ha agregado activos a una lista de reproducción, vamos a cerrar la li
 1. Haga clic en **cerrar lista de reproducción**.
 2. Haga clic en la pestaña con la página de **aprendizaje de Office 365** .
 3. Actualice la página y, a continuación, haga clic en **primeros días** en **Introducción**.
-4. Haga clic en **Kit de inicio de aprendizaje personalizado** para ver la primera lista de reproducción en acción. 
+4. Haga clic en **Learning Pathways Starter Kit** para ver la primera lista de reproducción en acción. 
 
 ![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)

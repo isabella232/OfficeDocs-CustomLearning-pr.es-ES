@@ -1,26 +1,26 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Vinculación a recursos de aprendizaje personalizados
+title: Vinculación a los activos de caminos de aprendizaje de Microsoft 365
 ms.date: 02/15/2019
-description: Cómo vincular a recursos de aprendizaje personalizados
-ms.openlocfilehash: cdde37f370663ca50241833a15e8411921b45a1b
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Cómo establecer un vínculo a los activos de los caminos de aprendizaje de Microsoft 365
+ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056173"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327281"
 ---
-# <a name="link-to-custom-learning-content"></a>Vincular a contenido de aprendizaje personalizado
+# <a name="link-to-learning-pathways-content"></a>Vínculo al contenido de rutas de aprendizaje
 
-Con aprendizaje personalizado, hay dos formas de vincular al contenido:
+Con las rutas de aprendizaje, hay dos formas de vincular al contenido:
 
-- Vínculo a la página que hospeda el elemento Web filtrado para el contenido que desea mostrar. 
+- Vínculo a la página que hospeda el elemento Web filtrado para el contenido que desea mostrar 
 - Vincular directamente a una instancia del elemento Web
 
 ## <a name="link-to-a-page"></a>Vínculo a una página
 
-Si ha creado nuevas páginas y experiencias de aprendizaje con el elemento Web de aprendizaje personalizado, puede crear un vínculo a la página con el elemento web configurado para mostrar el contenido que desea mostrar. En la sección anterior, hemos explicado cómo mostrar listas de reproducción de Excel en una página. Ahora puede editar la Página principal para vincularla a la página. 
+Si ha creado nuevas páginas y experiencias de aprendizaje con el elemento Web caminos de aprendizaje de Microsoft 365, puede crear un vínculo a la página con el elemento web configurado para mostrar el contenido que desea mostrar. En la sección anterior, hemos explicado cómo mostrar listas de reproducción de Excel en una página. Ahora puede editar la Página principal para vincularla a la página. 
 
 1. En la Página principal, haga clic en **Editar**.
 2. Haga clic en **editar detalles** en uno de los mosaicos de la Página principal. En este ejemplo, se editan las fichas de **listas de reproducción recomendadas** .
@@ -31,16 +31,16 @@ Si ha creado nuevas páginas y experiencias de aprendizaje con el elemento Web d
 4. Haga clic en **sitio**, después en **páginas del sitio**, haga clic en la página que desea vincular y, a continuación, haga clic en **abrir**. En este ejemplo, nos vinculamos a la página **Create-Your-Own-Experience. aspx** tratada en la sección anterior.
 5. Cierre el panel Propiedades del héroe, haga clic en **publicar**y, a continuación, pruebe el vínculo. 
 
-## <a name="link-to-the-custom-learning-web-part"></a>Vínculo al elemento Web de aprendizaje personalizado
-El aprendizaje personalizado le proporciona, el administrador o un usuario final, la capacidad de vincular a una instancia del elemento web independiente de la página que contiene el elemento Web. Puede compartir el vínculo o el vínculo que se ha copiado desde otras páginas. Al hacer clic en el vínculo copiado, se muestra la instancia del elemento Web de aprendizaje personalizado en la página CustomLLearningViewer. aspx. Veamos un ejemplo. 
+## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Vínculo al elemento Web de caminos de aprendizaje de Microsoft 365
+Las rutas de aprendizaje le proporcionan, el administrador o un usuario final, la capacidad de vincular a una instancia del elemento web independiente de la página que contiene el elemento Web. Puede compartir el vínculo o el vínculo que se ha copiado desde otras páginas. Al hacer clic en el vínculo copiado, se muestra la instancia del elemento Web de rutas de aprendizaje de Microsoft 365 en la página CustomLLearningViewer. aspx. Veamos un ejemplo. 
 
-1. En la Página principal, haga clic en **Office 365 Training**.
+1. En la Página principal, haga clic en **Microsoft365 Training**.
 2. Haga clic en **Microsoft Teams**y, a continuación, en **Introducción a Microsoft Teams**.
 3. Haga clic en el icono **copiar** .
 
 ![CG-linktowebpart. png](media/cg-linktowebpart.png)
 
-4. Haga clic en Inicio en el menú aprendizaje personalizado.
+4. Haga clic en Inicio en el menú del sitio de caminos de aprendizaje de Microsoft 365.
 5. Pegue la dirección URL copiada en la barra de direcciones del explorador y presione Entrar. 
 
 Como se muestra en la siguiente ilustración, el vínculo va a la página CustomLearningViewer. aspx y muestra el contenido en función de los parámetros del vínculo copiado. 

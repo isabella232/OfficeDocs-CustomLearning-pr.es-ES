@@ -3,19 +3,19 @@ author: pkrebs
 ms.author: pkrebs
 title: Crear una subcategoría nueva
 ms.date: 02/17/2019
-description: Crear una nueva Subcategoría con aprendizaje personalizado
-ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Crear una nueva Subcategoría con rutas de aprendizaje
+ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055460"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327261"
 ---
 # <a name="create-a-subcategory"></a>Crear una subcategoría 
 En algunos casos, querrá crear una subcategoría nueva. Por ejemplo, si la subcategoría de los primeros días no funciona para la organización, puede crear una subcategoría nueva y, a continuación, agregar listas de reproducción para satisfacer las necesidades de su organización. 
 
-1. En la página **principal** de aprendizaje personalizado, haga clic en **Office 365 Training**, haga clic en el menú **sistema** del elemento Web y, a continuación, haga clic en **administrar lista de reproducción**. 
-2. Seleccione una **categoría**. En este ejemplo, seleccione **** introducción.  
+1. En la página **principal** de Microsoft 365 Learning Pathways, haga clic en **Microsoft 365 Training**, haga clic en el menú **sistema** del elemento Web y, a continuación, haga clic en **administrar lista de reproducción**. 
+2. Seleccione una **categoría**. En este ejemplo **, seleccione introducción**.  
 3. Desplázate hacia abajo por la página. 
 3. Haga clic en el icono **Agregar nueva Subcategoría +** .  
 

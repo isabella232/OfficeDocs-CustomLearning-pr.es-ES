@@ -2,14 +2,14 @@
 author: pkrebs
 ms.author: pkrebs
 title: Ocultar y mostrar tecnología
-ms.date: 02/15/2019
+ms.date: 05/20/2019
 description: Cómo ocultar y mostrar tecnología
-ms.openlocfilehash: 38b814b85d4e060e5387b2173476c455cfcf7160
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: ee943dad5ca3f2a1bef5636e0f820346b0ac3840
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055680"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327271"
 ---
 # <a name="hide-and-show-technology"></a>Ocultar y mostrar tecnología
 
@@ -17,15 +17,14 @@ En algunos casos, querrá ocultar el contenido de una tecnología que no es comp
 
 ## <a name="hide-a-technology"></a>Ocultar una tecnología
 
-1. En la página **principal** de aprendizaje personalizado, haga clic en el icono de **aprendizaje de Office 365** .
-2. En el elemento Web de aprendizaje personalizado, seleccione el menú **sistema** y, a continuación, seleccione **administrar lista de reproducción**. Ahora debería tener dos pestañas abiertas. Uno con la página de **Administración de aprendizaje personalizada** y otro con la página de **aprendizaje de Office 365** . 
+1. En la página **principal** de los caminos de aprendizaje de Microsoft 365, haga clic en el icono de **listas de reproducción recomendadas** .
+2. En el elemento Web de aprendizaje personalizado, seleccione el menú **sistema** y, a continuación, seleccione **administrar lista de reproducción**. Ahora debería tener dos pestañas abiertas. Una con la página **listas de reproducción recomendadas** y otra con la página **Administración de aprendizaje personalizada** . 
 3. En la página **Administración de aprendizaje personalizada** , haga clic en una **tecnología**y, a continuación, seleccione el ojo de la tecnología para ocultarla. Para este ejemplo, haga clic en la tecnología de **Yammer** y, a continuación, ocúltela.  
 
 ![CG-hidetech. png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Comprobar que la lista de reproducción está oculta
-1. Para comprobar que la tecnología de **Yammer** está oculta, seleccione la pestaña explorador con la página de **aprendizaje de Office 365** cargada y, a continuación, actualice la página. Ahora debería ver que la subcategoría Yammer está oculta. 
-2. Haga clic en la subcategoría **recomendada** . Observará que la lista de reproducción de Yammer está oculta en conectar a la organización. 
+- Para comprobar que la tecnología de **Yammer** está oculta, seleccione la pestaña explorador con la página **listas de reproducción recomendadas** cargada y, después, actualice la página. Observará que la lista de reproducción de Yammer está oculta en conectar a la organización. 
 
 ![CG-hidetechrefresh. png](media/cg-hidetechrefresh.png)
 

@@ -5,10 +5,10 @@ title: Ocultar y mostrar listas de reproducción
 ms.date: 02/15/2019
 description: Ocultar y mostrar listas de reproducción
 ms.openlocfilehash: 88b042ce8f1f64d2df4ee7956113c722b971f0cb
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
+ms.lasthandoff: 10/21/2019
 ms.locfileid: "34272737"
 ---
 # <a name="hide-and-show-playlists"></a>Ocultar y mostrar listas de reproducción

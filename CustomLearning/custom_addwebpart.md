@@ -1,28 +1,28 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Agregar y editar el elemento Web de aprendizaje personalizado
+title: Adición y edición del elemento Web de caminos de aprendizaje de Microsoft 365
 ms.date: 02/17/2019
-description: Adición del elemento Web de aprendizaje personalizado a una página de SharePoint
-ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Agregar el elemento Web Microsoft 365 Learning Pathways a una página de SharePoint
+ms.openlocfilehash: 1b3f4c15410ed9d528aad35198f02426a2de6fa2
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055720"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34248122"
 ---
-# <a name="add-and-edit-the-custom-learning-web-part"></a>Agregar y editar el elemento Web de aprendizaje personalizado
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Adición y edición del elemento Web de caminos de aprendizaje de Microsoft 365
 
-El aprendizaje personalizado le proporciona la flexibilidad necesaria para agregar el elemento Web de aprendizaje personalizado a una página de SharePoint y, a continuación, filtra el contenido del elemento Web para cumplir con los objetivos de aprendizaje de la página. Por ejemplo, puede crear una página "cambiar a OneDrive" y, a continuación, agregar el elemento Web y configurarlo para mostrar listas de reproducción personalizadas de migración de OneDrive creadas especialmente para la organización.
+Los caminos de aprendizaje de Microsoft 365 le proporcionan la flexibilidad para agregar el elemento Web Microsoft 365 Learning Pathways a una página de SharePoint y, a continuación, filtrar el contenido del elemento Web para cumplir los objetivos de aprendizaje de la página. Por ejemplo, puede crear una página "cambiar a OneDrive" y, a continuación, agregar el elemento Web y configurarlo para mostrar listas de reproducción personalizadas de migración de OneDrive creadas especialmente para la organización.
 
 1.  Haga clic en el icono de engranaje de SharePoint y, a continuación, haga clic en **Agregar una página**.
 2.  Haga clic en **Agregar una nueva sección (+)** en el lado izquierdo de la página y, a continuación, haga clic en **una columna**.
-3.  Haga **+** clic en y seleccione elemento Web **de aprendizaje personalizado para Office 365** . 
+3.  Haga **+** clic en y seleccione elemento Web de **rutas de aprendizaje de Microsoft 365** . 
 
 ![CG-webpartadd. png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>Edición del elemento Web de aprendizaje personalizado
-Puede editar el elemento Web de aprendizaje personalizado para mostrar todo el contenido de aprendizaje personalizado disponible o una categoría, subcategoría, lista de reproducción o activo específicos. 
+Puede editar el elemento Web Microsoft 365 Learning Pathways para mostrar todo el contenido de aprendizaje personalizado disponible o una categoría, subcategoría, lista de reproducción o activo específicos. 
 
 1.  Haga clic en **Editar elemento Web**.
 
