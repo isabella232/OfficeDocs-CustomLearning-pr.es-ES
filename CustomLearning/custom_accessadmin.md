@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Obtener acceso a la página de administración de aprendizaje personalizada
+title: Acceso a la página de administración
 ms.date: 02/15/2019
 description: Cómo obtener acceso a la página de administración de aprendizaje personalizada desde el elemento Web o el menú
-ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327231"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726714"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Obtener acceso a la página de administración de aprendizaje personalizada
 
