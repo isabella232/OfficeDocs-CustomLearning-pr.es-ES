@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Información general
+title: Personalización de caminos de aprendizaje
 ms.date: 02/18/2019
-description: Introducción a los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: Personalización de caminos de aprendizaje
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247863"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886643"
 ---
-# <a name="customize-the-learning-experience"></a>Personalización de la experiencia de aprendizaje
+# <a name="customize-learning-pathways"></a>Personalización de caminos de aprendizaje
 
-Introducción a los caminos de aprendizaje de Microsoft 365, una nueva solución de Microsoft diseñada para acelerar el uso y la adopción de Office 365 dentro de una organización. Con Learning pathwyas, puede:
-- Personalización del contenido de aprendizaje y adopción de Microsoft 365 para su entorno 
+Los caminos de aprendizaje de Microsoft 365 proporcionan una variedad de maneras en las que puede personalizar el contenido de su organización. Por ejemplo, puede:  
+- Modifique el sitio de SharePoint de rutas de aprendizaje: cambie el nombre del sitio, el logotipo y los mismos. Modifique la página formular preguntas y obtener ayuda para crear su propio centro de ayuda. 
 - Mostrar u ocultar contenido para reflejar los servicios o las características que se admiten en la organización 
-- Mantener el contenido y los usuarios actualizados con una fuente actualizada de contenido de aprendizaje de Microsoft 
-- Crear listas de reproducción personalizadas y categorías diseñadas específicamente para las necesidades del usuario
+- Crear listas de reproducción personalizadas y subcategorías diseñadas específicamente para las necesidades del usuario
+- Cree páginas de aterrizaje con contenido filtrado para apoyar resultados empresariales, como impulsar la adopción de Microsoft Teams, Outlook Mobile o trabajar de forma más colaborativa con Microsoft 365.
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>¿Cómo funcionan las rutas de aprendizaje?
-
-las rutas de aprendizaje para Office 365 (caminos de aprendizaje para abreviar) constan de tres partes: 
-1. una fuente en directo de contenido de un catálogo de Microsoft online
-2. un sitio de comunicación de SharePoint
-3. un elemento Web de SharePoint 
-
-![CG-howitworks. png](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>Requisitos y permisos
 
-Antes de empezar con esta guía, asegúrese de que el administrador de inquilinos de SharePoint haya configurado las rutas de aprendizaje. Si no está seguro de si se configuró, póngase en contacto con el administrador de inquilinos de SharePoint para comprobar que las rutas de aprendizaje se han aprovisionado. Asegúrese también de obtener la dirección URL del sitio de SharePoint de rutas de aprendizaje. Si usted es el administrador de inquilinos y no se han aprovisionado los caminos de aprendizaje, consulte [provision Learning Pathways](custom_provision.md). 
+Antes de empezar con la guía de personalización de las rutas de aprendizaje, asegúrese de que el administrador de inquilinos de SharePoint haya configurado las rutas de aprendizaje. Si no está seguro de si se configuró, póngase en contacto con el administrador de inquilinos de SharePoint para comprobar que las rutas de aprendizaje se han aprovisionado. Asegúrese también de obtener la dirección URL del sitio de SharePoint de rutas de aprendizaje. Si usted es el administrador de inquilinos y no se han aprovisionado los caminos de aprendizaje, consulte [provision Learning Pathways](custom_provision.md). 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>Permisos para aprovisionar rutas de aprendizaje
 

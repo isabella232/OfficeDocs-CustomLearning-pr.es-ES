@@ -4,21 +4,21 @@ ms.author: pkrebs
 title: Crear listas de reproducción nuevas
 ms.date: 02/18/2019
 description: Cómo crear nuevas listas de reproducción
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247595"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886823"
 ---
 # <a name="create-a-custom-playlist"></a>Crear una lista de reproducción personalizada
 
-Al crear una lista de reproducción, primero debe crear la lista de reproducción con los detalles de la lista de reproducción y, a continuación, agregar recursos a la lista de reproducción. Puede Agregar una lista de reproducción a cualquier subcategoría. Por ejemplo, puede Agregar una lista de reproducción a la subcategoría de **primeros días** o a una subcategoría de **producto** como **Excel**. En esta sección se explica cómo crear una lista de reproducción y, a continuación, se explica cómo agregar activos a una lista de reproducción en la sección siguiente, [Agregar activos a una lista de reproducción personalizada](custom_addassets.md).
+Con los caminos de aprendizaje de Microsoft 365, puede crear listas de reproducción personalizadas a partir de cero que se adapten a las necesidades únicas de su organización. Por ejemplo, cree una lista de reproducción para la incorporación de nuevos empleados a Microsoft Teams. O bien, cree listas de reproducción para los administradores ejecutivos con información adecuada a su rol único. O cree un primer día para la lista de reproducción de Microsoft 365 que tenga tres pasos sencillos en lugar de seis. Puede Agregar una lista de reproducción personalizada a cualquier subcategoría. Por ejemplo, los **primeros días**, una subcategoría de **producto** como **Excel**o incluso una subcategoría que cree. En esta sección se explica cómo crear una lista de reproducción y, a continuación, se explica cómo agregar activos a una lista de reproducción en la sección siguiente, [Agregar activos a una lista de reproducción personalizada](custom_addassets.md).
 
 ## <a name="create-a-playlist"></a>Crear una lista de reproducción 
 
-1. En la página **principal** de Microsoft 365 Learning Pathways, haga clic en **Office 365 Training**, seleccione el menú sistema del elemento Web y, a continuación, seleccione **administrar lista de reproducción**. 
-2. Seleccione una subcategoría. En este ejemplo, seleccione **primeros días**.  
+1. En la página **principal** de Microsoft 365 Learning Pathways, haga clic en **Office 365 Training**y, a continuación, seleccione el icono **administrar** en el elemento Web. 
+2. Seleccione la subcategoría de icono **administrar**. En este ejemplo, seleccione **primeros días**.  
 3. Haga clic en el icono +.  
 
 ![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)

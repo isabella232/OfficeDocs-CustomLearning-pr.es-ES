@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: Impulsar la adopción de caminos de aprendizaje
+description: Impulsar la adopción de caminos de aprendizaje
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726704"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886983"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Impulsar la adopción de su portal de caminos de aprendizaje
 Una vez que haya personalizado los caminos de aprendizaje de Microsoft 365 y haya confeccionado sus campañas iniciales de aprendizaje, es el momento de pensar en cómo obtendrá que los usuarios vuelvan a los caminos de aprendizaje de Microsoft 365 para aprender y transformar los conocimientos de manera continua. Puede usar la guía, el kit de adopción y las prácticas recomendadas que Microsoft ha puesto a disposición para ayudarle a ejecutar las campañas de adopción de caminos de aprendizaje de Microsoft 365, ofrecemos instrucciones, procedimientos recomendados y un kit de adopción. 
@@ -71,7 +71,6 @@ Trabaje con su equipo de recursos humanos para alinear el lanzamiento de su siti
 2.  Haga una prueba piloto de la versión personalizada de las rutas de aprendizaje de Microsoft 365 con un grupo representativo de usuarios finales y realice una ejecución seca de su plan de adopción. En función de los comentarios del piloto, repita un plan de adopción final.
 3.  Ejecutar la campaña de adopción durante un período de tiempo sostenido. 
 4.  Únase a la comunidad de adopción de conducción. Comparta su experiencia con los caminos de aprendizaje de Microsoft 365 en nuestra comunidad de adopción de la conducción en línea. Nos encontramos en https://aka.ms/DriveAdoption. 
-
 
 ## <a name="join-the-driving-adoption-community"></a>Únase a la comunidad de adopción de conducción
 
