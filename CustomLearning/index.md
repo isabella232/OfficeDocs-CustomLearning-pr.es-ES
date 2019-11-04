@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Introducción a los caminos de aprendizaje de Microsoft 365
 ms.date: 10/23/2019
 description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
-ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
-ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
+ms.openlocfilehash: f68f678f46633e9a5b661862d39f63b8b98138c3
+ms.sourcegitcommit: 91f02943cd5bfe6ad584fff71054c13e9547a0d7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37885564"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "37947160"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Versión preliminar de Microsoft 365 Learning Pathways
 Microsoft 365 Learning Pathways es una solución de aprendizaje personalizada y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.  
@@ -25,7 +25,7 @@ Microsoft 365 Learning Pathways ofrece:
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="sharepoint-online-provisioning-service"></a>Servicio de aprovisionamiento de SharePoint Online 
+# <a name="sharepoint-online-provisioning-service"></a>Servicio de aprovisionamiento de SharePoint Online 
 Las rutas de aprendizaje se pueden aprovisionar desde el servicio de aprovisionamiento de SharePoint Online. Cuando se aprovisionan las rutas de aprendizaje de Microsoft 365, las organizaciones obtienen un sitio de comunicación de SharePoint Online diseñado para ser un portal de aprendizaje, junto con un elemento Web caminos de aprendizaje conectado a un catálogo en línea de contenido de aprendizaje. 
 
 ![CG-provision. png](media/cg-provision.png)

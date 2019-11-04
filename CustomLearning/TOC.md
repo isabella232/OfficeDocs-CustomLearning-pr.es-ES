@@ -5,7 +5,7 @@
 ## [Configuración independiente del elemento Web](custom_manualsetup.md)
 # [Centro de éxito de administración](custom_successcenter.md)
 ## [Actualizaciones de contenido de noviembre](custom_contentupdates.md)
-## [Administrar actualizaciones de contenido](custom_managecontentupdates.md)
+## [Administrar actualizaciones de contenido](custom_contentupdatesmanage.md)
 ## [Actualizaciones de características de noviembre](custom_featureupdates.md)
 ## [Planeación del contenido de aprendizaje](custom_plancontent.md)
 ## [Personalización de caminos de aprendizaje](custom_overview.md)
