@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 a través del servicio de aprovisionamiento de SharePoint
-ms.openlocfilehash: e48052a395a8669ef684110a1c93409f5859a1d2
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 7bffd8ae68099e8def1fa7a8b8620d95b4b65740
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334753"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956687"
 ---
 # <a name="provision-microsoft-365-learning-pathways"></a>Aprovisionar caminos de aprendizaje de Microsoft 365
 
 Con el servicio de aprovisionamiento de SharePoint Online, un administrador de inquilinos de Office 365 puede iniciar el proceso de aprovisionamiento con unos pocos clics sencillos. El servicio de aprovisionamiento es la forma recomendada para aprovisionar rutas de aprendizaje. Es rápido y sencillo, y tarda solo unos minutos en iniciar el proceso. Sin embargo, antes de empezar con el servicio de aprovisionamiento, asegúrese de que cumple con los requisitos previos para el aprovisionamiento.
 
 > [!IMPORTANT]
-> A partir de 5/21/2019, Microsoft 365 Learning Pathways es el nuevo nombre de la solución anteriormente conocida como aprendizaje personalizado para Office 365. Si ya ha aprovisionado el aprendizaje personalizado para Office 365 en su organización y desea actualizar la solución, siga las instrucciones de actualización de la solución en el [archivo Léame de las rutas de aprendizaje de Microsoft 365](https://github.com/pnp/custom-learning-office-365). Si está aprovisionando los caminos de aprendizaje de Microsoft 365 por primera vez, consulte las [instrucciones para aprovisionar rutas de aprendizaje de microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) en la documentación de Microsoft 365 Learning Pathways.  
+> A partir de 5/21/2019, Microsoft 365 Learning Pathways es el nuevo nombre de la solución anteriormente conocida como aprendizaje personalizado para Office 365. Si ya ha aprovisionado el aprendizaje personalizado para Office 365 o una versión anterior de las rutas de aprendizaje de Microsoft 365 en su organización y desea actualizar la solución, siga las instrucciones de actualización de la solución en los [caminos de aprendizaje de Microsoft 365 Archivo Léame](https://github.com/pnp/custom-learning-office-365). Si está aprovisionando los caminos de aprendizaje de Microsoft 365 por primera vez, consulte las [instrucciones para aprovisionar rutas de aprendizaje de microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) en la documentación de Microsoft 365 Learning Pathways.  
 
 ## <a name="prerequisites"></a>Requisitos previos
  
@@ -28,31 +28,19 @@ Para configurar correctamente los caminos de aprendizaje de Microsoft 365 con el
 
 ### <a name="to-provision-learning-pathways"></a>Para aprovisionar rutas de aprendizaje
 
-1. Vaya a http://provisioning.sharepointpnp.com e **inicie sesión** desde la esquina superior derecha de la Página principal.  Inicie sesión con las credenciales del inquilino de destino donde tiene previsto instalar la plantilla de sitio.
-
-![pnphome. png](media/inst_signin.png)
-
-2. Borre el **consentimiento en nombre de su organización** y seleccione **Aceptar**.
-
-![a](media/inst_perms.png)
+1. Vaya a la [Página de solución de caminos de aprendizaje de Microsoft 365](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+2. Haga clic en **Agregar al espacio empresarial**. Si no ha iniciado sesión en su espacio empresarial, el servicio de aprovisionamiento le pedirá sus credenciales de administrador de inquilinos. 
+3. En el cuadro de diálogo permisos solicitados, seleccione **consentimiento en nombre de su organización** y, después, seleccione **Aceptar**.
 
 El servicio de aprovisionamiento requiere estos permisos para crear el catálogo de aplicaciones del espacio empresarial, instalar la aplicación en el catálogo de aplicaciones del espacio empresarial y aprovisionar la plantilla del sitio. No hay ningún impacto general en el espacio empresarial y estos permisos se usan explícitamente para el propósito de la instalación de la solución. Debe aceptar estos permisos para continuar con la instalación.
 
-3. Desplácese hacia abajo en la página, seleccione la pestaña **soluciones** y, a continuación, seleccione **rutas de aprendizaje para Office 365**. 
-
-![a](media/inst_select.png)
-
-4. Seleccione **Agregar al espacio empresarial**
-
-![inst_select. png](media/inst_add.png)
-
-5. Complete los campos en la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico donde desea obtener las notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino para el que se va a aprovisionar el sitio.  
+4. Complete los campos en la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico donde desea obtener las notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino para el que se va a aprovisionar el sitio.  
 > [!NOTE]
 > Haga que la dirección URL de destino del sitio sea descriptiva para los empleados, como "/sites/MyTraining" o "/teams/LearnMicrosoft365".
 
 ![inst_options. png](media/inst_options.png)
 
-6. Seleccione **provisión** cuando esté listo para instalar rutas de aprendizaje en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso. 
+6. Haga clic en **aprovisionar** cuando esté listo para instalar las rutas de aprendizaje en su entorno de espacio empresarial.  El proceso de aprovisionamiento llevará hasta 15 minutos. Recibirá una notificación por correo electrónico (a la dirección de correo electrónico de notificación que escribió en la página de aprovisionamiento) cuando el sitio esté preparado para el acceso. 
 
 > [!IMPORTANT]
 > El administrador de inquilinos que aprovisiona el sitio de caminos de aprendizaje debe ir al sitio y, a continuación, abrir **CustomLearningAdmin. aspx** para inicializar las propiedades de administración de rutas de aprendizaje. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
@@ -74,5 +62,5 @@ Como administrador de inquilinos, es poco probable que sea la persona que va a p
 4. Haga clic en **nuevo** > **Agregar usuarios a este grupo**y, a continuación, agregue las personas que desea que sean propietarios. 
 5. Agregue un vínculo para [explorar el sitio](custom_exploresite.md) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
 
-### <a name="next-steps"></a>Siguientes pasos
+### <a name="next-steps"></a>Pasos siguientes
 - Explore el [contenido predeterminado](custom_exploresite.md) proporcionado en el sitio y el elemento Web.

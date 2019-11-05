@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886983"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956647"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Impulsar la adopción de su portal de caminos de aprendizaje
 Una vez que haya personalizado los caminos de aprendizaje de Microsoft 365 y haya confeccionado sus campañas iniciales de aprendizaje, es el momento de pensar en cómo obtendrá que los usuarios vuelvan a los caminos de aprendizaje de Microsoft 365 para aprender y transformar los conocimientos de manera continua. Puede usar la guía, el kit de adopción y las prácticas recomendadas que Microsoft ha puesto a disposición para ayudarle a ejecutar las campañas de adopción de caminos de aprendizaje de Microsoft 365, ofrecemos instrucciones, procedimientos recomendados y un kit de adopción. 
@@ -31,8 +31,8 @@ El uso de los siguientes escenarios en la campaña de comunicación le ayudará 
 - Uso compartido de sitios y contenido
 - Conectar su organización con Yammer
 
-## <a name="use-the-download-adoption-kit"></a>Usar el kit de adopción de descargas
-Para ayudarle a ejecutar la campaña de comunicación de caminos de aprendizaje de Microsoft 365, use el kit de adopción descargable. Contiene: 
+## <a name="use-the-downloadable-adoption-kit"></a>Usar el kit de adopción descargable
+Para ayudarle a ejecutar la campaña de comunicación de caminos de aprendizaje de Microsoft 365, use el [Kit de adopción descargable](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Contiene: 
 
 - Microsoft 365 Learning Pathways el calendario de campaña de comunicaciones recomendado para ayudarle a planear la campaña
 - Plantillas de correo electrónico de inicio y sugerencias de usuario final para cada uno de los cinco escenarios de Microsoft 365.    

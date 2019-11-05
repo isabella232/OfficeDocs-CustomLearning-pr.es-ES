@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Opciones de instalación de Microsoft 365 Learning Pathways
 ms.date: 02/11/2019
 description: Opción de instalación para la configuración de aprendizaje personalizada
-ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334712"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956657"
 ---
 # <a name="learning-pathways-setup-options"></a>Opciones de configuración de las rutas de aprendizaje
 Los caminos de aprendizaje proporcionan la flexibilidad necesaria para configurar la solución de un par de formas diferentes. En las secciones siguientes se describen las opciones disponibles.
 
 > [!IMPORTANT]
-> A partir de 5/21/2019, Microsoft 365 Learning Pathways es el nuevo nombre de la solución anteriormente conocida como aprendizaje personalizado para Office 365. Si ya ha aprovisionado el aprendizaje personalizado para Office 365 en su organización y desea actualizar la solución, siga las instrucciones de actualización de la solución en el [archivo Léame de las rutas de aprendizaje de Microsoft 365](https://github.com/pnp/custom-learning-office-365). Si está aprovisionando los caminos de aprendizaje de Microsoft 365 por primera vez, consulte las [instrucciones para aprovisionar rutas de aprendizaje de microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) en la documentación de Microsoft 365 Learning Pathways.  
+> Si ya ha aprovisionado el aprendizaje personalizado para Office 365 en su organización y desea actualizar la solución, siga las instrucciones de actualización de la solución en el [archivo Léame de las rutas de aprendizaje de Microsoft 365](https://github.com/pnp/custom-learning-office-365). Si está aprovisionando los caminos de aprendizaje de Microsoft 365 por primera vez, consulte las [instrucciones para aprovisionar rutas de aprendizaje de microsoft 365]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) en la documentación de Microsoft 365 Learning Pathways.  
 
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Recomendado: configuración del servicio de aprovisionamiento de SharePoint Online 
@@ -29,6 +29,6 @@ Para las organizaciones que ya tienen establecido un portal de aprendizaje de co
 - Para obtener instrucciones manuales de instalación de elementos Web, consulte See [install Manually Install the Web Part](custom_manualsetup.md). 
 
 ## <a name="update-learning-pathways"></a>Actualización de las rutas de aprendizaje
-Las organizaciones que han usado el servicio de aprovisionamiento de SharePoint Online para instalar versiones anteriores de las rutas de aprendizaje de Microsoft 365, anteriormente denominado aprendizaje personalizado para Office 365, pueden actualizar la solución a la versión más reciente. Para obtener instrucciones sobre cómo comprobar la versión implementada en comparación con la versión más reciente de la solución, junto con instrucciones sobre cómo actualizar la solución, consulte la sección "actualización de la solución" del [archivo Léame](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
+Las organizaciones que han usado el servicio de aprovisionamiento de SharePoint Online para instalar versiones anteriores de las rutas de aprendizaje de Microsoft 365 pueden actualizar la solución a la versión más reciente. Para obtener instrucciones sobre cómo comprobar la versión implementada en comparación con la versión más reciente de la solución, junto con instrucciones sobre cómo actualizar la solución, consulte la sección "actualización de la solución" del [archivo Léame](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustomprovisionmd"></a>Pasos siguientes: [aprovisionar caminos de aprendizaje de Microsoft 365](custom_provision.md)
+### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>Pasos siguientes: [aprovisionar caminos de aprendizaje de Microsoft 365](custom_provision.md)
