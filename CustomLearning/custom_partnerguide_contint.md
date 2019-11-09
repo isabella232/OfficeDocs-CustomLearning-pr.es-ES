@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Modelos de integración de asociados
 ms.date: 3/9/2019
 description: Modelos de integración de asociados
-ms.openlocfilehash: 54e41e5271c0b4c7558329e79c1dc702606f0620
-ms.sourcegitcommit: 4f4dbe69fe6405c4267c1a4abc6d37f3441d6fd2
+ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38014282"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076024"
 ---
 # <a name="partner-integration-models"></a>Modelos de integración de asociados
 Aunque no es posible complementar el contenido de las rutas de aprendizaje de Microsoft 365 directamente del servicio de aprovisionamiento de SharePoint Online, hay varios modelos de integración que los asociados pueden aprovechar para crear un servicio de valor agregado alineado. promociones. Los modelos de integración del asociado se presentan en orden de complejidad ascendente y niveles de inversión. Por lo tanto, nuestra orientación es desarrollar su experiencia y expartirla con niveles más avanzados en función de los modelos de negocio.
@@ -36,7 +36,7 @@ El contenido para los caminos de aprendizaje de Microsoft 365 está controlado p
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Descargue la solución de caminos de aprendizaje de Microsoft 365
 Puede descargar la solución de caminos de aprendizaje de Microsoft 365, junto con los archivos JSON, desde el repositorio de https://github.com/pnp/custom-learning-office-365GitHub:. Tenga en cuenta que en este momento, Microsoft no va a realizar la solicitud de extracción de GitHub en la solución. Pero puede usar los archivos de GitHub como punto de partida para crear su propio paquete de contenido personalizado. 
 
-## <a name="metadatajson-structure"></a>Estructura Metadata. JSON
+### <a name="metadatajson-structure"></a>Estructura Metadata. JSON
 Puede considerar este archivo como el cerebro de los menús y la estructura. Contiene toda la estructura de navegación y listas de selección para los datos de los otros dos archivos. 
 
 
@@ -82,7 +82,7 @@ Puede considerar este archivo como el cerebro de los menús y la estructura. Con
 |&nbsp;&nbsp;CDNbase           |La dirección URL base para los manifiestos del paquete de contenido                                       |
 |AssetOrigins                  |Una matriz de origen de dirección URL que se usa en el archivo assets. JSON que se describe más adelante. Si la dirección URL de origen lo admite, se enviará un mensaje post a help_getClientHeight. Una respuesta en la propiedad data de: "help_getClientHeight = {height of Content}" (por ejemplo, "help_getClientHeight = 5769") permitirá cambiar el tamaño del iFrame al alto apropiado del contenido entramado.         |
 
-## <a name="playlistsjson-structure"></a>Estructura de listas de reproducción. JSON
+### <a name="playlistsjson-structure"></a>Estructura de listas de reproducción. JSON
 playlists. JSON: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
 
 |              Nombre        |                     Descripción                                                               | 
@@ -96,19 +96,19 @@ playlists. JSON: el manifiesto de listas de reproducción es una matriz de objet
 |SubjectId                    |Nombre para mostrar de la categoría o Subcategoría                                                  |
 |Origen                        |De la matriz de origen, no se usa específicamente en una experiencia de usuario que no sea datos personalizados agregados por el usuario, se marca como "tenant" y el área de administración de la UX no permite la edición de nada que no esté marcado como "tenant".                                              |
 |CatId                         |La categoría o identificador de subcategoría que representa el contenedor en el que se debe mostrar la lista de reproducción. Actualmente, el manifiesto no es compatible con la selección de una categoría o subcategoría como contenedor si también tiene elementos secundarios de la subcategoría.        |
-|Description                   |Se mostró una descripción de cada lista de reproducción en la experiencia de usuario                                           |
+|Descripción                   |Se mostró una descripción de cada lista de reproducción en la experiencia de usuario                                           |
 |StatusTagId                   |Etiqueta de estado asociada                                                                      |
 |StatusNote                    |Notas sobre el contenido que se muestra a los administradores                                            |
 |*Activos []*                        |Una matriz de GUID para los activos que forman parte de esta lista de reproducción, en orden de presentación.        |         
 
-## <a name="assetjson-structure"></a>Estructura Asset. JSON
+### <a name="assetjson-structure"></a>Estructura Asset. JSON
 playlists. JSON: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
 
 |              Nombre        |                     Descripción                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID que representa la lista de reproducción                                                             |  
 |Título                         |Nombre para mostrar de la lista de reproducción                                                               |
-|Description                   |---                                                                                           |                      
+|Descripción                   |---                                                                                           |                      
 |URL                           |La dirección URL de origen para el activo, que se aplicará al iFrame                                  |
 |TechnologyId                  |Tecnología asociada                                                                      |
 |SubjectId                     |Asunto asociado                                                                         |
@@ -116,7 +116,7 @@ playlists. JSON: el manifiesto de listas de reproducción es una matriz de objet
 |StatusTagId                   |Etiqueta de estado asociada                                                                      |
 |StatusNote                    |Notas sobre el contenido que se muestra a los administradores.                                           |
 
-## <a name="caching"></a>Almacenamiento en caché
+### <a name="caching"></a>Almacenamiento en caché
 La versión actual del elemento Web del visor usa una versión en caché de los archivos del manifiesto durante 24 horas. Transcurridas 24 horas, el primer usuario que ha encontrado el elemento Web asume el rendimiento necesario para actualizar la caché mediante la descarga de los manifiestos de la red CDN de origen y la combinación de dicha información con las tecnologías ocultas y las listas de reproducción, así como la combinación de subcategorías personalizadas. listas de reproducción y activos. De forma alternativa, el elemento Web de administración siempre descarga el contenido de los manifiestos y los combina en y actualiza la memoria caché.  Por lo tanto, en otras palabras, el administrador puede forzar una actualización de caché en cualquier momento si carga el elemento Web de administración, conocido como ir a la página de administración.
 
 ## <a name="content-pack-guidelines"></a>Instrucciones del paquete de contenido
@@ -127,7 +127,7 @@ La característica de paquete de contenido Desbloquea los siguientes escenarios:
 
 Este conjunto de documentación actual está destinado de forma intencionada a los asociados debido a la complejidad de la característica. El equipo de servicio está trabajando activamente para mejorar la compatibilidad con el escenario #2, en el futuro. 
 
-## <a name="how-content-packs-work"></a>Funcionamiento de los paquetes de contenido
+### <a name="how-content-packs-work"></a>Funcionamiento de los paquetes de contenido
 Microsoft usa páginas de GitHub como origen de red de entrega de contenido (CDN) para sus archivos de manifiesto e imágenes. Tenemos una carpeta docs en la raíz de nuestro repositorio de GitHub que incluye subcarpetas para cada versión de los archivos del manifiesto. Dentro de cada carpeta hay tres archivos de manifiesto, más una carpeta de imágenes para almacenar todas las imágenes de categorías, subcategorías y listas de reproducción. 
 
 Es importante que mantenga la misma estructura de versiones que Microsoft tiene que elegir para extender la solución de rutas de aprendizaje con su propio paquete de contenido. El punto de conexión de la red CDN no debe incluir la carpeta versión, ya que la versión del manifiesto que admite el elemento Web es compatible y se anexa automáticamente a la dirección URL de la red CDN. Obviamente le proporcionaremos tiempo para crear nuevas instancias de los archivos del manifiesto en cualquier momento en que se revisen.
@@ -138,7 +138,7 @@ Para obtener más información sobre cómo usar las páginas de GitHub como su o
 
 La solución de Microsoft hace que la información sobre los activos se abra al público, ya que no hay seguridad alguna que tenga acceso a estos archivos. Creemos que debe haber una capa gratuita de contenido para un consumidor, lo que decía que si necesita una pared de pago para parte o todo el contenido, necesitará implementar esto de forma distinta dentro de las limitaciones técnicas de la solución y el uso de páginas de GitHub no es de ninguna media s un requisito. Cualquier proveedor de CDN que quiera usar es adecuado si mantiene la estructura de numeración de versiones que hemos esquematizado. Como se indicó anteriormente, la versión de la estructura del manifiesto que admite el elemento Web está integrada en el código y se anexa automáticamente a la dirección URL de la red CDN. 
 
-## <a name="content-pack-integration-guidance"></a>Guía de integración del paquete de contenido 
+### <a name="content-pack-integration-guidance"></a>Guía de integración del paquete de contenido 
 Los elementos Web de administrador y visor se han ampliado para permitir que el consumidor configure puntos de conexión de la red CDN adicionales en su inquilino, lo que permitirá al elemento Web del visor seleccionar la red CDN que deben origen de los datos que muestran. 
 
 Tramas clave que se deben tener en cuenta para esta característica: 
@@ -147,10 +147,10 @@ Tramas clave que se deben tener en cuenta para esta característica:
 
 > **Importante** Antes de agregar un paquete de contenido personalizado, debe haber proporcionado rutas de aprendizaje de Microsoft 365 3,0 o posterior. Para informataion sobre el aprovisionamiento de caminos de aprendizaje de Microsoft 365, consulte [provision microsoft 365 Learning Pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
 
-## <a name="content-whitelisting"></a>Lista de retenciones de contenido
+### <a name="content-whitelisting"></a>Lista de retenciones de contenido
 Como asociado, tiene la responsabilidad de ayudar a los consumidores a asegurarse de que el contenido se encuentra en la lista de su entorno. Le sugerimos que cree un escenario de prueba en su entorno para validar que el contenido puede ser iFrame en una página de SharePoint dentro de su firewall. Siga las instrucciones [de creación de páginas de SharePoint para las listas de reproducción personalizadas](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) para confirmar que este es el caso.
 
-## <a name="add-a-content-pack-to-learning-pathways"></a>Adición de un paquete de contenido a las rutas de aprendizaje
+### <a name="add-a-content-pack-to-learning-pathways"></a>Adición de un paquete de contenido a las rutas de aprendizaje
 Una vez que haya creado el JSON modificado y definido su red CDN, puede Agregar el paquete de contactos a las rutas de aprendizaje. 
 
 1. En la página de **Inicio** del sitio de caminos de aprendizaje, seleccione **Inicio** y, a continuación, haga clic en administración de **rutas de aprendizaje**. 
@@ -163,7 +163,7 @@ Una vez que haya creado el JSON modificado y definido su red CDN, puede Agregar 
 
 ![CG-Part-addconpackex. png](media/cg-part-addconpackex.png)
 
-## <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar al paquete de contenido en el elemento Web
+### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar al paquete de contenido en el elemento Web
 Con las rutas de aprendizaje, puede Agregar el elemento Web de rutas de aprendizaje a una página, filtrar el elemento Web para que apunte al origen del paquete de contenido personalizado y, a continuación, filtrar el elemento Web a la categoría, subcategoría, lista de reproducción y elemento que desee. 
 
 1. En el sitio de caminos de aprendizaje, haga clic en **nueva**y, a continuación, en **Página**.

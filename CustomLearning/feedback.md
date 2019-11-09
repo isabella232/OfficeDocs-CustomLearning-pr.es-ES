@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Comentarios y soporte técnico
 ms.date: 02/10/2019
 description: Comentarios e información de soporte técnico para los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: f54684839086fd1cd11d5061dd34d3fe6ab8adf7
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956637"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076004"
 ---
 # <a name="feedback-and-support"></a>Comentarios y soporte técnico
 
@@ -23,7 +23,7 @@ Al igual que la norma con las soluciones de código abierto, la comunidad evalú
 
 ## <a name="provide-us-feedback"></a>Envíenos sus comentarios
 
-Nuestra solución es solo un éxito si está habilitando los resultados de su negocio.  Ayúdenos a mejorarnos haciendo un comentario regular a través de [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Periódicamente revisamos todos sus comentarios y preguntas. 
+Nuestra solución es solo un éxito si está habilitando los resultados de su negocio.  Ayúdenos a mejorarnos haciendo un comentario regular a través de [UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552).  Periódicamente revisamos todos sus comentarios y preguntas. 
 
 ## <a name="usage-questions"></a>Preguntas de uso
 
