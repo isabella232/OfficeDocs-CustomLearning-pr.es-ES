@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Preguntas más frecuentes sobre los caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Información sobre las preguntas más frecuentes para los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636114"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068821"
 ---
 # <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -38,7 +38,7 @@ Las rutas de aprendizaje de Microsoft 365 se encuentran actualmente en versión 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>¿En qué idiomas están disponibles los caminos de aprendizaje de Microsoft 365?
 
-Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de la compatibilidad multilingüe para estos nueve idiomas se ha previsto en el cuarto trimestre de CY19: 
+Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de compatibilidad multilingüe para estos nueve idiomas se ha previsto en el primer trimestre de 2020. 
 
 - Chino (simplificado) 
 - Neerlandés (Países Bajos) 
