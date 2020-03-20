@@ -1,12 +1,17 @@
 ---
-Título: n.º de día en la vida con Office 365-reunión en la descripción de la oficina: # pasos rápidos para estar preparados para el día a mano con Office 365 autor: {MS-ID} # karuanag ms. Author: {@date}.           # 02/01/2019 ms. topic: Introducción # procedimientos
+title: ''
+ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056123"
 ---
-
 # <a name="meeting-at-the-office"></a>Reunión en la oficina
 
-![Commute visual](media/ditl_meeting.png)
+![Visual de recorrido](media/ditl_meeting.png)
 
-Es 10:00 AM y Time para la reunión. En esta sección, le mostraremos cómo hacer que sus reuniones sean más productivas.  Esto implica procedimientos recomendados para la preparación de reuniones y las herramientas de Office 365.  
+Son las diez de la mañana y va a empezar su reunión. En esta sección, le mostraremos cómo hacer que las reuniones sean más productivas.  Lo que conlleva los procedimientos recomendados para la preparación de reuniones y las herramientas de Office 365.  
 
 ## <a name="tools"></a>Herramientas
 - Outlook
@@ -14,48 +19,48 @@ Es 10:00 AM y Time para la reunión. En esta sección, le mostraremos cómo hace
 - Skype Empresarial
 - OneNote
 
-## <a name="checklist-for-your-meeting"></a>Lista de comprobación para la reunión
-- Planear y reservar la reunión
-- Unirse a una reunión
-- Presentar información en una reunión
-- Usar OneNote en una reunión para la creación de coautoría y notas
-- Usar Planner en una reunión para realizar un seguimiento de los elementos de acción para ese proyecto
-- Finalizar una reunión
+## <a name="checklist-for-your-meeting"></a>Lista de comprobación de la reunión
+- Planificar y reservar la reunión
+- Unirse a la reunión
+- Presentar información en la reunión
+- Usar OneNote en la reunión para crear contenido conjuntamente y tomar notas
+- Usar Planner en la reunión para hacer un seguimiento de los elementos de acción de un proyecto
+- Finalizar la reunión
  
-## <a name="plan-and-book-your-meeting"></a>Planear y reservar la reunión
-Hay algunas cosas que puede hacer para garantizar que su reunión sea lo más productiva posible:
+## <a name="plan-and-book-your-meeting"></a>Planificar y reservar la reunión
+Puede hacer unas cuantas cosas para asegurarse de que la reunión sea lo más productiva posible:
 
-1. **¿Necesita una reunión?** Considere la posibilidad de compartir un archivo en chat con los aprobadores necesarios en primer lugar.  
-1. **Tener una agenda clara.**  Incluya la agenda de la reunión en la sección Notas de la invitación a la reunión en línea para que se puedan preparar a los asistentes.
-1. **Grabar la reunión**  Use las funciones de grabación de reuniones en Microsoft Teams para compartir la reunión con personas que no podían asistir o transcribir notas más adelante.  
+1. **¿Necesita una reunión?** Tenga en cuenta que primero puede compartir un archivo en el chat con los aprobadores necesarios.  
+1. **Tenga una agenda clara.**  Incluya la agenda de la reunión en la sección de notas de la invitación a la reunión en línea, de modo que los asistentes puedan prepararse.
+1. **Grabe la reunión** Use las funciones de grabación de la reunión de Microsoft Teams para compartir la reunión con personas que no puedan asistir, o para transcribir notas más tarde.  
 
-Ahora está listo para reservar esa reunión: reservar la reunión con Microsoft Teams o los detalles de Skype empresarial en Outlook. Si lo hace, podrá incluir a los miembros del equipo desde distintas ubicaciones, grabar la reunión y usar el vídeo (cuando esté disponible) para mejorar la comunicación. 
+Ya lo tiene todo preparado para reservar la reunión: reserve la reunión en Outlook con los detalles de Microsoft Teams o Skype Empresarial. De este modo, podrá incluir miembros del equipo de distintas ubicaciones, grabar la reunión y usar el vídeo (cuando esté disponible) para que la comunicación sea más eficaz. 
 
 ![Teams en Outlook ](media/ditl_teamsoutlook.png)
 
-## <a name="join-a-meeting"></a>Unirse a una reunión
-Unirse desde cualquier lugar. Es posible unirse a una reunión de Microsoft Teams o Skype empresarial desde cualquier lugar mediante un dispositivo móvil, ya sea llamando al número de acceso telefónico local en los detalles de la reunión o usando las aplicaciones móviles. Al usar las aplicaciones móviles, debe ser consciente de los límites de uso de datos móviles que se aplican a usted o a su país.
+## <a name="join-a-meeting"></a>Unirse a la reunión
+Unirse desde cualquier lugar: Es posible unirse a una reunión de Microsoft Teams o Skype Empresarial desde cualquier lugar mediante un dispositivo móvil, ya sea llamando al número de acceso telefónico de los detalles de la reunión o usando las aplicaciones móviles. Si usa las aplicaciones móviles, tenga en cuenta los límites de uso de datos móviles que se aplican en su país o región.
 
-![Notificación de participación de reunión de Microsoft Teams](media/ditl_teamsjoin.png)
-
-> [!TIP]
-> **Usa auriculares.** Si te conectas desde tu equipo en el escritorio, usa unos auriculares en lugar del micrófono y los altavoces integrados del equipo para garantizar una mejor calidad de la llamada.
+![Notificación para unirse a una reunión de Teams](media/ditl_teamsjoin.png)
 
 > [!TIP]
-> Enciende el vídeo. Cuando las cámaras están disponibles, merece la pena usarlas, ya que la comunicación cara a cara proporciona señales no verbales que pueden perderse al usar la voz. No se preocupe, el cabello tiene un aspecto excelente. 
+> **Use auriculares.** Si se va a conectar desde el equipo de su escritorio, use auriculares en lugar del micrófono y los altavoces integrados del equipo para que la calidad de la llamada sea mejor.
 
-## <a name="present-information-in-a-meeting"></a>Presentar información en una reunión
-Compartir contenido desde el dispositivo es una buena forma de centrar la reunión y proporcionar contexto a la discusión. En general, compartir toda la pantalla puede ser una mala idea. Significa que todo lo que aparece en la pantalla aparecerá en las pantallas de todos los asistentes a la reunión. Para evitarlo, simplemente seleccione el contenido que desea compartir en Microsoft Teams. 
+> [!TIP]
+> Active el vídeo. Si hay cámaras disponibles, merece la pena usarlas, ya que en la comunicación cara a cara se dan pistas no verbales que se perderían al usar solo la voz. No se preocupe, tiene un aspecto fabuloso. 
+
+## <a name="present-information-in-a-meeting"></a>Presentar información en la reunión
+Compartir contenido desde el dispositivo es una buena forma de centrar la reunión y dar contexto a la discusión. Por lo general, no es muy buena idea compartir toda la pantalla. Eso implica que todo lo que se muestre en la pantalla aparecerá en las pantallas de todos los asistentes de la reunión. Para evitarlo, no tiene más que seleccionar el contenido que quiere compartir en Microsoft Teams. 
 
 ## <a name="use-onenote-in-a-meeting"></a>Usar OneNote en una reunión
-OneNote puede permitir la colaboración y la creación en tiempo real, lo que la convierte en una herramienta ideal para recopilar ideas y tomar notas en reuniones. Siempre que todos los usuarios tengan acceso a la ubicación en la que se comparte OneNote, puede publicar un vínculo en el Bloc de notas e iniciar la lluvia de ideas inmediatamente.
+OneNote permite la colaboración en tiempo real y la creación conjunta de contenido, por lo que es una herramienta excelente para compartir ideas y tomar notas en las reuniones. Siempre que todos los usuarios tengan acceso a la ubicación en la que se comparte OneNote, podrá publicar un vínculo al bloc de notas y empezar a compartir ideas de inmediato.
 
-Puede crear una sección específica para las notas de reunión en el Bloc de notas de equipo. También puede usar la función "detalles de la reunión" en OneNote para crear páginas con un resumen de los detalles de la reunión.
+Puede crear una sección específica para las notas de la reunión en el bloc de notas del equipo. También puede usar la función de "detalles de la reunión" de OneNote para crear páginas con un resumen de los detalles de la reunión.
 
 ## <a name="use-planner-in-a-meeting"></a>Usar Planner en una reunión
-La adición directa de elementos de acción a un plan para el proyecto le evitará que se transcripción después del hecho. Se trata de un procedimiento recomendado en reuniones de proyectos grandes para asignar a una persona seguimiento de acciones & la toma de notas. Suele ser una persona distinta a la que ejecuta la reunión. Los avisos de elemento de acción se envían directamente a la persona a la que está asignada como recordatorios si el elemento pasa su fecha de vencimiento. 
+Si agrega elementos de acción directamente a un plan del proyecto, se ahorrará tener que transcribirlos después. Uno de los procedimientos recomendados para las reuniones de proyectos grandes es designar a alguien para que haga un seguimiento de las acciones y tome notas. Por lo general, es una persona diferente de la persona que dirige la reunión. Los recordatorios de elementos de acción se envían directamente a la persona designada, así como los recordatorios si el elemento sobrepasa la fecha de vencimiento. 
 
 ![Tarea de Planner](media/ditl_task.png)
 
-## <a name="end-a-meeting"></a>Finalizar una reunión
-Cuando se haya comentado todo el programa, finalice la reunión, independientemente de la hora. Asignar y enviar elementos de acción a todos los participantes. Si está colaborando en Microsoft Teams, puede compartir fácilmente los elementos de acción en el canal correspondiente. Los elementos de acción también se pueden especificar y asignar en Planner durante la reunión, lo que proporciona una forma rápida de realizar un seguimiento de la finalización, a la que también se puede [tener acceso en Microsoft Teams](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+## <a name="end-a-meeting"></a>Finalizar la reunión
+Cuando se haya analizado todo lo que consta en la agenda, finalice la reunión, independientemente de la hora que sea. Asigne y envíe elementos de acción a todos los participantes. Si está colaborando en Microsoft Teams, puede compartir fácilmente los elementos de acción en el canal correspondiente. Los elementos de acción también pueden especificarse y asignarse durante la reunión en Planner, lo que permite hacer un seguimiento rápido para su finalización, a lo que también se puede [acceder en Microsoft Teams](https://support.office.com/es-ES/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
