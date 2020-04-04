@@ -4,15 +4,18 @@ ms.author: pkrebs
 title: Introducción a los caminos de aprendizaje de Microsoft 365
 ms.date: 10/23/2019
 description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
-ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
-ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
+ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41831896"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141403"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Caminos de aprendizaje de Microsoft 365 
 Microsoft 365 Learning Pathways es una solución de aprendizaje personalizada y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    
+
+> [!IMPORTANT]
+> En respuesta a los eventos actuales, las rutas de aprendizaje proporcionan una actualización de contenido de abril de 2020 que se centra en listas de reproducción y recursos diseñados para habilitar el trabajo remoto en la organización. Hemos agregado un nuevo conjunto de listas de reproducción remotas de trabajo, actualizado considerablemente el contenido de Microsoft Teams, especialmente para reuniones de Microsoft Teams, y agregado un nuevo conjunto de listas de reproducción de Office para la Web. Como parte de la actualización, también hemos proporcionado una lista de recursos de trabajo remoto para los administradores. Para obtener una lista completa de las actualizaciones, consulte [Learning Pathways April 2020 Content updates](custom_contentupdates.md).   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formación personalizada y a petición de Microsoft
 

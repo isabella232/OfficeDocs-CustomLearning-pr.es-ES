@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Preguntas más frecuentes sobre los caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Información sobre las preguntas más frecuentes para los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068821"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141373"
 ---
 # <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -38,10 +38,9 @@ Las rutas de aprendizaje de Microsoft 365 se encuentran actualmente en versión 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>¿En qué idiomas están disponibles los caminos de aprendizaje de Microsoft 365?
 
-Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de compatibilidad multilingüe para estos nueve idiomas se ha previsto en el primer trimestre de 2020. 
+Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. La implementación de la compatibilidad multilingüe para los siguientes idiomas se ha previsto en el segundo trimestre de 2020. 
 
 - Chino (simplificado) 
-- Neerlandés (Países Bajos) 
 - Francés  
 - Alemán 
 - Italiano (Italia) 
@@ -49,6 +48,8 @@ Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en
 - Portugués (Brasil) 
 - Ruso (Ruso)  
 - Español 
+
+> La compatibilidad con el idioma holandés no se incluirá en la próxima versión de la compatibilidad con varios idiomas para los caminos de aprendizaje. Seguiremos evaluando nuevas opciones de idioma en el futuro.
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>¿Cuánto tiempo se tarda en instalar el sitio en el entorno de inquilinos?
 

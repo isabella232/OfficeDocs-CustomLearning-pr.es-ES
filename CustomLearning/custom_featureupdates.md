@@ -1,23 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Caminos de aprendizaje actualizaciones de características de noviembre de 2019
+title: Actualizaciones de características de rutas de aprendizaje
 ms.date: 10/20/2019
-description: Caminos de aprendizaje actualizaciones de características de noviembre de 2019
-ms.openlocfilehash: fe3dc11f5e34d729d1a63f7b1ef92988f753021a
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: Actualizaciones de características de rutas de aprendizaje
+ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956577"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141363"
 ---
-# <a name="november-2019-version-30-feature-updates"></a>Actualizaciones de características de noviembre de 2019 versión 3,0
+# <a name="learning-pathways-feature-updates"></a>Actualizaciones de características de rutas de aprendizaje
+El equipo de rutas de aprendizaje escucha los comentarios de los clientes para proporcionar las características que necesita. A continuación, se proporciona una actualización de las características planeadas para el segundo trimestre de 2020. 
+
+## <a name="upcoming-feature-updates-for-q2-2020"></a>Actualizaciones de características próximas para el segundo trimestre de 2020
+La compatibilidad multilingüe para rutas de aprendizaje está programada para publicarse en el segundo trimestre de 2020. La compatibilidad multilingüe asume una dependencia de la característica "publicación de páginas Multiligual para SharePoint moderno" y estará disponible al mismo tiempo que la disponibilidad general para la compatibilidad multilingüe de SharePoint. Para obtener más información, vea el [mapa de ruta de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
+  
+Los siguientes idiomas serán compatibles con las rutas de aprendizaje:   
+
+- Chino (simplificado) 
+- Francés  
+- Alemán 
+- Italiano (Italia) 
+- Japonés (Japón)  
+- Portugués (Brasil) 
+- Ruso (Ruso)  
+- Español 
+
+> [!NOTE]
+> La compatibilidad con el idioma holandés no se incluirá en la próxima versión de la compatibilidad con varios idiomas para los caminos de aprendizaje. Seguiremos evaluando nuevas opciones de idioma en el futuro.
+
+## <a name="november-2019-version-30-feature-updates"></a>Actualizaciones de características de noviembre de 2019 versión 3,0
 Basándose en gran medida en los comentarios de los clientes, se han agregado las siguientes nuevas características a Microsoft 365 Learning Pathways versión 3,0.
 
-## <a name="content-updates-and-editorial-calendar"></a>Actualizaciones de contenido y calendario editorial
+### <a name="content-updates-and-editorial-calendar"></a>Actualizaciones de contenido y calendario editorial
 Una de las promesas de los caminos de aprendizaje es el contenido actualizado. Para ello, hemos proporcionado nuestra primera actualización trimestral del contenido del 2019 de noviembre con una amplia variedad de subcategorías, listas de reproducción y activos nuevos. Las actualizaciones de contenido se comunican en nuestros artículos de actualización de contenido en la lista de reproducción novedades/cambios. Caminos de aprendizaje las actualizaciones de contenido trimestrales también pueden encontrarse aquí: para obtener ayuda general de Office, consulte [noviembre de 2019 actualizaciones de contenido](custom_contentupdates.md).
 
-## <a name="microsoft-365-success-center"></a>Centro de éxito de Microsoft 365
+### <a name="learning-pathways-admin-success-center"></a>Centro de éxito de administración de caminos de aprendizaje
 Hemos agregado un centro de éxito de administración de caminos de aprendizaje de Microsoft 365 para ayudar a los administradores y a los propietarios de las colecciones de sitios a sacar el máximo partido de las vías de aprendizaje. El centro de éxito de administración proporciona vínculos a recursos de planeación y adopción y ofrece orientación sobre la planeación, la personalización, la adopción de impulsos y la medición del impacto de las vías de aprendizaje. Para obtener más información, consulte [centro de éxito de administración](custom_successcenter.md).
 
 ## <a name="playlist-navigation"></a>Navegación de lista de reproducción
