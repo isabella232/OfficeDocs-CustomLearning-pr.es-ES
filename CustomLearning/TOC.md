@@ -3,11 +3,14 @@
 ## [Disponibilidad de formas de aprendizaje de Microsoft 365](custom_provision.md)
 ## [Explore el sitio de formas de aprendizaje de Microsoft 365](custom_exploresite.md)
 ## [Configuración de elemento web independiente](custom_manualsetup.md)
-# [Centro de éxito de administradores](custom_successcenter.md)
-## [Actualizaciones de contenido de noviembre](custom_contentupdates.md)
+# Novedades 
+## [Actualizaciones de contenido](custom_contentupdates.md) 
 ## [Administrar actualizaciones de contenido](custom_contentupdatesmanage.md)
-## [Actualizaciones de características de noviembre](custom_featureupdates.md)
-## [Planificar el contenido del aprendizaje](custom_plancontent.md)
+## [Actualizaciones de características](custom_featureupdates.md)
+# [Centro de éxito de administradores](custom_successcenter.md)
+## Planificar contenido de aprendizaje 
+### [Planificar su contenido del aprendizaje](custom_plancontent.md)
+### [Recursos de apoyo para sus recursos remotos ](custom_plancontent_remoteresources.md)
 ## [Personalizar las formas de aprendizaje](custom_overview.md)
 ### [Ir al sitio de formas de aprendizaje de M365](custom_goto.md)
 ### [Personalizar el sitio](custom_edithelp.md)
