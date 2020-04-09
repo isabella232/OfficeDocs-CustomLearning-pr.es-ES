@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Actualizaciones de contenido de caminos de aprendizaje
 ms.date: 3/30/2020
 description: Caminos de aprendizaje de abril de 2020 actualizaciones de contenido
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141394"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191343"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. La lista siguiente muestra las actualizaciones de contenido de abril de 2020.
@@ -95,7 +95,7 @@ Office para la web proporciona un conjunto de listas de reproducción para escen
 - Crear fórmulas
 - Insertar una tabla dinámica
 - Obtener información sobre las ideas
-- Trabajado
+- Colaboración
 - Ahorrar tiempo con relleno flash
 - Pintar una imagen con formato condicional
 #### <a name="powerpoint-for-the-web"></a>PowerPoint para la web
@@ -109,9 +109,9 @@ Office para la web proporciona un conjunto de listas de reproducción para escen
 - Compartir documentos
 - Crear un vínculo que se pudiera compartir
 - Proteger los documentos solo para personas específicas
-- Compartir con alguien ajeno a su organización
+- Compartir con alguien ajeno a su organización 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 Por solicitud, también hay algunos activos de formularios nuevos. 
 #### <a name="forms-4-new-assets"></a>Formularios (4 nuevos activos) 
 - Crear un formulario 
@@ -119,7 +119,7 @@ Por solicitud, también hay algunos activos de formularios nuevos.
 - Ver los resultados de un formulario 
 - Preguntas más frecuentes sobre Microsoft Forms 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos para apoyar el personal remoto
+### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos de apoyo para sus recursos remotos 
 Puede usar rutas de aprendizaje para crear una página de aterrizaje en su sitio de caminos de aprendizaje para la compatibilidad con trabajadores remotos. O bien, puede Agregar el elemento Web caminos de aprendizaje a una página de soporte técnico existente en su sitio de caminos de aprendizaje y filtrar el elemento Web para mostrar las listas de reproducción remotas del trabajo. Esta es una lista de algunos de los principales recursos de Microsoft para la compatibilidad con el trabajo remoto de su organización. 
 - [Cómo implementar Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Reuniones y conferencias en Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Puede usar rutas de aprendizaje para crear una página de aterrizaje en su sitio
 - [Educación: Microsoft Education Center](https://education.microsoft.com) 
 - [Educación: Introducción al aprendizaje remoto](https://education.microsoft.com/resource/4c0c02c0)
 
-Para obtener más información acerca de cómo personalizar las rutas de aprendizaje, vea [Customize Learning Pathways] ((custom_overview. MD). 
+Para obtener más información acerca de cómo personalizar las rutas de aprendizaje, consulte [Customizing Learning Pathways](custom_overview.md). 
 
 ## <a name="november-2019-content-updates"></a>Actualizaciones de contenido de noviembre de 2019
 Bienvenido a la actualización de contenido de caminos de aprendizaje de Microsoft 365. A partir de nuestra actualización del 2019 de noviembre, proporcionaremos un inventario actualizado del catálogo de caminos de aprendizaje cada trimestre. Para la actualización de noviembre de 2019, se han agregado las siguientes subcategorías y listas de reproducción de contenido al catálogo de caminos de aprendizaje. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md).    
