@@ -5,12 +5,12 @@ title: Información general
 ms.date: 06/06/2020
 description: Compatibilidad multilingüe para caminos de aprendizaje
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699141"
+ms.locfileid: "44704626"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Compatibilidad multilingüe para caminos de aprendizaje
 
@@ -26,7 +26,7 @@ Si su organización tiene una población diversa, puede hacer que los caminos de
 - Ruso (Ruso)
 - Spanish
 
-La característica multilingüe de SharePoint Online para los sitios de comunicación de SharePoint Online admite la compatibilidad multilingüe para las rutas de aprendizaje. 
+La característica multilingüe de SharePoint Online para los sitios de comunicación de SharePoint Online admite la compatibilidad multilingüe para las rutas de aprendizaje.  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>Familiarizarse con la característica multilingüe de SharePoint Online
 Con la compatibilidad multilingüe de SharePoint Online, puede proporcionar páginas traducidas, publicaciones de noticias y elementos de la interfaz de usuario en el idioma preferido del usuario. Antes de empezar, dedique algún tiempo a aprender cómo funciona la compatibilidad multilingüe. 
