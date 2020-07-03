@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Aprovisionar un nuevo sitio multilingüe de caminos de aprendizaje
+title: Aprovisionar una nueva solución multilingüe de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 a través del servicio de aprovisionamiento de SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699142"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031716"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>Aprovisionar un nuevo sitio multilingüe de caminos de aprendizaje
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Aprovisionar una nueva solución multilingüe de caminos de aprendizaje
 Las organizaciones que no tienen rutas de aprendizaje ya aprovisionadas en su inquilino pueden agregar la solución de caminos de aprendizaje multilingüe a su inquilino. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
 
 > [!IMPORTANT]

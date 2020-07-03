@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Actualizar las formas de aprendizaje de Microsoft 365
+title: Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
 ms.date: 05/20/2019
-description: Actualizar las formas de aprendizaje de Microsoft 365
+description: Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699133"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031706"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Actualizar las formas de aprendizaje de Microsoft 365
+# <a name="update-learning-pathways-for-multilingual-support"></a>Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
 Si tiene un sitio de caminos de aprendizaje existente, puede actualizarlo para la compatibilidad multilingüe. Para actualizar las rutas de aprendizaje a la versión multilingüe de 4,0, cargue el paquete de elementos Web, customlearning. sppkg, en el catálogo de aplicaciones del espacio empresarial de SharePoint. Al actualizar rutas de aprendizaje:  
 
 - Se mantienen todos los activos y listas de reproducción personalizados creados anteriormente
@@ -41,7 +41,7 @@ Las rutas de aprendizaje admiten nueve idiomas, solo debe agregar los idiomas qu
 - En **Agregar o quitar idiomas del sitio**, escriba el nombre de un idioma en **seleccionar o escriba un idioma**o seleccione un idioma de la lista desplegable. Puede repetir este paso para agregar varios idiomas. Puede Agregar o quitar idiomas de su sitio en cualquier momento volviendo a esta página.
  
 ### <a name="assign-translators"></a>Asignar traductores
-Al definir la configuración de idioma para las rutas de aprendizaje, puede asignar traductores. Los traductores deben tener configurado un perfil de idioma extranjero. Para obtener más información acerca de los perfiles de idiomas externos, consulte [crear sitios de comunicación multilingües, páginas y noticias](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
+Al definir la configuración de idioma para las rutas de aprendizaje, puede asignar traductores. Los traductores deben tener configurado un perfil de idioma extranjero. Para obtener más información acerca de los perfiles de idiomas externos, consulte [crear sitios de comunicación multilingües, páginas y noticias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
 - Para un idioma compatible, haga clic en **seleccionar o escriba un traductor** y, a continuación, seleccione un traductor. 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>Actualizar el paquete de elementos Web de rutas de aprendizaje

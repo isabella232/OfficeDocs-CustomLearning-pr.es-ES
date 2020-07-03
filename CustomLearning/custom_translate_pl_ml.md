@@ -1,57 +1,122 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Traducir una nueva lista de reproducción
+title: Traducir listas de reproducción personalizadas de rutas de aprendizaje
 ms.date: 06/8/2020
-description: Traducir una nueva lista de reproducción
+description: Traducir listas de reproducción personalizadas de rutas de aprendizaje
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 120193f55599b22e5bb46cdd352213871c209012
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: b57bf6d32a645f4ddf26429bb56f547c994d453a
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699117"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031755"
 ---
-# <a name="translate-a-learning-pathways-custom-playlist"></a>Traducir una lista de reproducción personalizada de rutas de aprendizaje
-Si ha creado listas de reproducción personalizadas de rutas de aprendizaje para el sitio, puede traducir las listas de reproducción a los idiomas habilitados para este sitio.
+# <a name="translate-learning-pathways-custom-playlists"></a>Traducir listas de reproducción personalizadas de rutas de aprendizaje
+Con caminos de aprendizaje, la forma de trabajar con listas de reproducción personalizadas depende de cómo aprovisionó el sitio de rutas de aprendizaje. 
+
+- Si ha aprovisionado un nuevo sitio multilingüe de caminos de aprendizaje, puede copiar o crear una nueva lista de reproducción y traducir la lista de reproducción a los idiomas compatibles con el sitio.
+- Si actualizó un sitio de caminos de aprendizaje existente que tiene listas de reproducción personalizadas preexistentes, puede traducir las listas de reproducción existentes en los idiomas que admita el sitio. También puede copiar y crear listas de reproducción nuevas. 
+
+> [!IMPORTANT]
+> - Las listas de reproducción suministradas por Microsoft ya se han traducido y no se pueden modificar a menos que cree una copia de la lista de reproducción. 
+
+## <a name="create-or-copy-a-playlist-and-have-it-translated"></a>Crear o copiar una lista de reproducción y convertirla en traducida
+Si ha aprovisionado un nuevo sitio multilingüe de caminos de aprendizaje o ha actualizado el sitio con el elemento Web multilingüe, puede copiar o crear una lista de reproducción personalizada y traducir los activos de la lista de reproducción y la lista de reproducción a los idiomas admitidos por el sitio. 
+
+### <a name="copy-a-playlist-and-have-it-translated"></a>Copiar una lista de reproducción y convertirla en traducida
+Para mostrar cómo crear una nueva lista de reproducción personalizada y traducirla, usaremos la característica copiar lista de reproducción de rutas de aprendizaje.
 
 1.  En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administración de rutas de aprendizaje**. 
-2.  Haga clic en la lista de reproducción personalizada. En este ejemplo, usaremos **cinco pasos sencillos: Bienvenido a contoso**. 
-3.  Haga clic en **Editar detalle**y, a continuación, en el cuadro **Agregar idioma** , seleccione un idioma. En este ejemplo, usaremos **Italiano – Italia**. 
-5.  Haga clic en **Guardar detalle**. 
+2.  En **rutas de aprendizaje de microsoft 365**, seleccione **primeros días**y, a continuación, seleccione **seis pasos sencillos-Bienvenido a Microsoft 365**. 
+3. Haga clic en **copiar lista de reproducción**, desplácese hacia abajo en la página y haga clic en **Editar detalle**.   
+4. Cambiar el título de la lista de reproducción. En este ejemplo, cambiaremos el título de la lista de reproducción a **cinco pasos sencillos**. Tenga en cuenta que los idiomas disponibles dependerán de los idiomas admitidos que se hayan seleccionado para el sitio. Para agregar idiomas adicionales, necesita agregar idiomas admitidos adicionales al sitio.   
+5. Haga clic en **Guardar detalle**. 
+6. Haga clic en un idioma a la derecha del idioma predeterminado (en este caso, Inglés) para ver los detalles de la lista de reproducción copiada. Los detalles del nuevo idioma reflejan la lista de reproducción copiada original y requieren traducción.
+7. Cree una nota para notificar al traductor de los detalles de la lista de reproducción que se va a traducir.  
 
 ![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
-> Las notificaciones de traductor no están integradas en listas de reproducción personalizadas. Los traductores deberán recibir una notificación manual. 
+> Las notificaciones de traductor no están integradas en listas de reproducción personalizadas. Los traductores deberán recibir una notificación manual. Los traductores traducen manualmente las copias de los detalles del idioma predeterminado en los idiomas especificados. Deberá notificar al traductor las traducciones necesarias para obtener detalles de la lista de reproducción. Se recomienda que finalice todos los cambios en la lista de reproducción, incluida la adición, modificación o eliminación de activos de la lista de reproducción y, a continuación, notifique al traductor las traducciones necesarias para obtener detalles y activos de la lista de reproducción.
 
-## <a name="what-does-a-translator-do"></a>¿Qué hace un traductor?
-Los traductores traducen manualmente las copias de la página idioma predeterminado a los idiomas especificados. Deberá notificar al traductor las traducciones necesarias para obtener detalles de la lista de reproducción. Se recomienda que finalice todos los cambios en la lista de reproducción, incluida la adición, modificación o eliminación de activos de la lista de reproducción y, a continuación, notifique al traductor las traducciones necesarias.
+## <a name="create-multilingual-assets-in-a-custom-playlist"></a>Crear activos multilingües en una lista de reproducción personalizada
+Los activos de una lista de reproducción que suministra Microsoft no son editables y no requieren traducción. Los activos proporcionados por Microsoft estarán disponibles en los idiomas admitidos por el sitio. Para los activos personalizados que crea o los activos personalizados existentes, puede Agregar los idiomas admitidos por el sitio.  Echemos un vistazo a cómo agregar idiomas para los activos personalizados nuevos y existentes en una lista de reproducción. 
 
-## <a name="translate-the-assets-in-the-custom-playlist"></a>Traducir los activos de la lista de reproducción personalizada
-Los activos de una lista de reproducción que suministra Microsoft no son editables y no requieren traducción. Si ha agregado activos personalizados desde el sitio de SharePoint de su espacio empresarial, dichos activos necesitarán traducción. Echemos un vistazo a cómo traducir un activo personalizado en una lista de reproducción.
+### <a name="create-a-new-multilingual-asset-for-a-playlist"></a>Crear un nuevo activo multilingüe para una lista de reproducción
+En estas instrucciones se supone que está usando la lista de reproducción de pasos sencillos en el ejemplo de este tema. 
 
-### <a name="add-a-language-for-an-existing-asset"></a>Adición de un idioma para un activo existente
-1. En **activos**, seleccione el icono **Editar** junto al activo personalizado. 
-2. Seleccione un idioma en el cuadro **Agregar idioma** y, a continuación, seleccione **Guardar activo**.
+**Para crear el activo**
+1. Para los cinco pasos sencillos de la lista de reproducción, en **activos**, seleccione **+ nuevo recurso** y rellene los detalles del activo. 
+- En **título**, escriba "Bienvenido a Microsoft 365 en Contoso". 
+- Para **tecnología**, seleccione **Microsoft 365**.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+2. Seleccione **crear activo**y, a continuación, seleccione **Guardar activo**.
 
-### <a name="add-a-language-page-for-an-existing-asset"></a>Adición de una página de idioma para un activo existente
-1. En la lista de activos, haga clic en el activo en inglés y, a continuación, haga clic en **abrir**.
-2. En la barra superior, seleccione **traducción**.
-3. En la lista desplegable Idioma, seleccione el idioma para el recurso, seleccione **crear**y, a continuación, **Ver**. La página debería tener ahora un aspecto similar a este. 
-![custom_update_ml_transcusplpage.png](media/custom_update_ml_transcusplpage.png)
-4. Haga clic en **publicar**y, a continuación, copie la dirección URL de la página. Debe tener un aspecto similar a este, con el código de idioma en la dirección URL.
-https://tenantname.sharepoint.com/sites/M365LP/SitePages/it/Welcome-to-Contoso.aspx.
-5. Vuelva a la página de administración de SharePoint, agregue la dirección URL del idioma para el activo y, a continuación, haga clic en **Guardar**. 
-![custom_update_ml_transcusplurl.png](media/custom_update_ml_transcusplurl.png)
-6.  Desplácese hacia arriba en la página y haga clic en **cerrar lista de reproducción**.
+**Para abrir el activo**
+1. Seleccione el recurso que acaba de crear y, a continuación, haga clic en **abrir**.  
+2. Realice los cambios en la página como desee. Por ahora, puede cambiar el título de la página y agregar texto a la página como se muestra en el ejemplo siguiente y, a continuación, hacer clic en **publicar**. 
+3. Haga clic en **traducción**.
+4. Seleccione **crear** para el idioma o los idiomas que desee. Para este ejemplo, seleccionaremos el italiano.
+5. Seleccione **vista**. Ahora debería ver una página similar a la del ejemplo siguiente en función de los idiomas admitidos.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. Haga clic en **Publicar**.
+7. Para la página de traducción que ha creado, copie la dirección URL del explorador y vuelva a la página de administración de rutas de aprendizaje.
 
-## <a name="what-the-translator-does"></a>¿Qué hace el traductor?
-El traductor hará lo siguiente:
+**Para agregar un idioma para el activo de traducción que ha creado** 
+1. Vuelva a la página de administración de rutas de aprendizaje y seleccione el icono de edición (lápiz) para el activo "cinco pasos sencillos" que ha abierto. 
+2. Haga clic en **Agregar idioma**y, a continuación, seleccione un idioma. En este ejemplo, hemos seleccionado el italiano. 
+3. Escriba la dirección URL de la Página traducida que ha creado. Debería ver una página similar a la del ejemplo siguiente. 
+![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+4. Haga clic en **Guardar activo**.
+
+## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>Agregar idiomas para los activos y las listas de reproducción personalizados existentes
+Si ha actualizado las rutas de aprendizaje para la compatibilidad multilingüe y tiene recursos y listas de reproducción personalizadas existentes, puede Agregar los idiomas admitidos para las listas de reproducción y los activos. En estas instrucciones se supone que tiene una lista de reproducción personalizada a la que puede agregar idiomas. Si no tiene una lista de reproducción personalizada, vea "crear o copiar una lista de reproducción" anteriormente en este tema. 
+
+> [!IMPORTANT]
+> - Las listas de reproducción suministradas por Microsoft ya se han traducido y no se pueden modificar a menos que cree una copia de la lista de reproducción. Solo puede agregar idiomas para listas de reproducción personalizadas. 
+> - Para agregar idiomas para los activos y las listas de reproducción personalizados, se debe habilitar la compatibilidad multilingüe y los idiomas. Para obtener más información sobre cómo habilitar la compatibilidad multilingüe y las opciones, consulte [establecer la configuración de idioma](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+
+### <a name="to-add-languages-for-an-existing-playlist"></a>Para agregar idiomas para una lista de reproducción existente
+1.  En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administración de rutas de aprendizaje**. 
+2.  Seleccione una lista de reproducción personalizada. Una lista de reproducción personalizada se identifica mediante el icono de contactos con la marca de verificación, tal como se muestra en el siguiente ejemplo.
+![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+3. Seleccione **Editar detalle**. Es posible que deba desplazarse hacia abajo para buscar el botón **editar detalles** .   
+4. Seleccione **Agregar idioma** y, a continuación, seleccione un idioma. 
+5. Seleccione **Guardar detalle**.
+ Tenga en cuenta que los idiomas disponibles dependerán de los idiomas admitidos que se hayan seleccionado para el sitio. Para agregar idiomas adicionales, necesita agregar idiomas admitidos adicionales al sitio.   
+5. Haga clic en un idioma a la derecha del idioma predeterminado (en este caso, Inglés) para ver los detalles de la lista de reproducción copiada. Los detalles del nuevo idioma reflejan la lista de reproducción copiada original y requieren traducción.
+![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+7. Cree una nota para notificar al traductor de los detalles de la lista de reproducción que se va a traducir.  
+
+**Para abrir el activo**
+1. Seleccione el recurso que acaba de crear y, a continuación, haga clic en **abrir**.  
+2. Realice los cambios en la página como desee. Por ahora, puede cambiar el título de la página y agregar texto a la página como se muestra en el ejemplo siguiente y, a continuación, hacer clic en **publicar**. 
+3. Haga clic en **traducción**.
+4. Seleccione **crear** para el idioma o los idiomas que desee. Para este ejemplo, seleccionaremos el italiano.
+5. Seleccione **vista**. Ahora debería ver una página similar a la del ejemplo siguiente en función de los idiomas admitidos.
+![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+6. Haga clic en **Publicar**.
+7. Para la página de traducción que ha creado, copie la dirección URL del explorador y vuelva a la página de administración de rutas de aprendizaje.
+
+## <a name="notify-the-translator"></a>Notificar al traductor
+Cuando haya terminado de crear los activos de traducción, notifíquelo al traductor de las traducciones necesarias. El traductor hará lo siguiente:
 - Traduzca los detalles de la lista de reproducción.
 - Traduzca los detalles de activos.
-- Traduzca las páginas de idiomas agregadas para el activo.
+- Traduzca las páginas de idiomas agregadas para un activo.
 - Notificar al solicitante las traducciones de que las traducciones están listas para revisión
+
+## <a name="add-languages-for-an-existing-custom-playlist"></a>Agregar idiomas para una lista de reproducción personalizada existente
+Si ha actualizado las rutas de aprendizaje para la compatibilidad multilingüe y tiene recursos y listas de reproducción personalizadas existentes, puede Agregar los idiomas admitidos para las listas de reproducción y los activos. 
+
+> [!IMPORTANT]
+> - Las listas de reproducción suministradas por Microsoft ya se han traducido y no se pueden modificar a menos que cree una copia de la lista de reproducción. Solo puede agregar idiomas para listas de reproducción personalizadas. 
+> - Para agregar idiomas para los activos y las listas de reproducción personalizados, se debe habilitar la compatibilidad multilingüe y los idiomas. Para obtener más información sobre cómo habilitar la compatibilidad multilingüe y las opciones, consulte [establecer la configuración de idioma](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings). 
+
+
+
+
+## <a name="instructions-for-the-translator"></a>Instrucciones para el traductor
 
 ### <a name="translate-playlist-details"></a>Traducir lista de reproducción detalles
 En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administración de rutas de aprendizaje**. 
@@ -66,11 +131,9 @@ En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administració
 2. Desplácese hacia abajo por la página y, a continuación, en activos, seleccione Editar para el recurso que desea editar y, a continuación, seleccione el idioma. 
 3. Realice las traducciones del activo y, a continuación, haga clic en **Guardar activo**.  
 
-## <a name="translate-the-added-language-page-for-the-asset"></a>Traducir la página de idioma agregada para el activo
+### <a name="translate-the-added-language-page-for-the-asset"></a>Traducir la página de idioma agregada para el activo
 En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administración de rutas de aprendizaje**. 
 1. Haga clic en la lista de reproducción personalizada que requiere traducción. 
 2. Desplácese hacia abajo por la página y, a continuación, en activos, seleccione el recurso, seleccione el idioma y, a continuación, haga clic en abrir. 
-3. Realice las traducciones de la página y, a continuación, haga clic en **publicar**.  
+3. Realice las traducciones de la página y, a continuación, haga clic en **publicar**.   
 
-## <a name="create-a-new-multilangual-playlist"></a>Crear una nueva lista de reproducción de Multilangual
-Para obtener instrucciones sobre cómo crear una nueva lista de reproducción para un sitio, vea [crear una lista de reproducción personalizada](custom_createnewplaylist.md). Una vez que haya creado la lista de reproducción y los activos, consulte esta documentación para obtener instrucciones sobre cómo traducir la lista de reproducción y los activos. 
