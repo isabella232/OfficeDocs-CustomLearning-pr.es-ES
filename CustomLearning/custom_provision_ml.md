@@ -5,15 +5,15 @@ title: Aprovisionar una nueva solución multilingüe de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 a través del servicio de aprovisionamiento de SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031716"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45039000"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Aprovisionar una nueva solución multilingüe de caminos de aprendizaje
-Las organizaciones que no tienen rutas de aprendizaje ya aprovisionadas en su inquilino pueden agregar la solución de caminos de aprendizaje multilingüe a su inquilino. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
+Las organizaciones que no tienen rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de aprovisionamiento de SharePoint para agregar la solución de rutas de aprendizaje multilingües. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
 
 > [!IMPORTANT]
 > Si ya tiene rutas de aprendizaje aprovisionadas en su espacio empresarial, se recomienda que siga la [ruta de actualización](custom_update_ml.md) para las rutas de aprendizaje. Si instala rutas de aprendizaje sobre una instancia existente en el espacio empresarial, se perderán los cambios realizados en la plantilla de sitio o las listas de reproducción de las rutas de aprendizaje.
@@ -73,12 +73,12 @@ Como administrador de inquilinos, es poco probable que sea la persona que va a p
 5. Agregue un vínculo para [explorar el sitio](custom_exploresite.md) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
 
 ## <a name="add-translators-to-the-site"></a>Agregar traductores al sitio
-Los traductores requieren permisos de miembro o superiores en el sitio. 
+Si va a usar traductores para el sitio, puede asignarles permisos. Los traductores requieren permisos de miembro o superior. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Elegir opciones para usar varios idiomas en el sitio
 El servicio de aprovisionamiento de SharePoint crea el sitio de caminos de aprendizaje en nueve idiomas. Se aplican las siguientes recomendaciones:
 - Desactivar los idiomas que no desea admitir
-- Si no es compatible con un sitio multilingüe, desactive la característica multilingüe. 
+- Si no es compatible con un sitio multilingüe, desactive la característica multilingüe. Consulte la sección "desactivar la compatibilidad multilingüe" más adelante en este tema.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Quitar idiomas que no desea admitir
 Para las organizaciones que optan por admitir solo un idioma, además del idioma inglés predeterminado, recomendamos quitar los idiomas que no son compatibles. 
@@ -102,6 +102,11 @@ Si va a traducir páginas, asigne opcionalmente uno o más traductores para cada
 
 ## <a name="turn-off-multilingual-support"></a>Desactivar la compatibilidad multilingüe
 Si no quiere un sitio multilingüe, por ejemplo, desea un sitio en inglés, se recomienda que desactive la característica multilingüe. 
+
+1. Desde el sitio de caminos de aprendizaje, seleccione **configuración** en la parte superior derecha de la página y, a continuación, seleccione **información del sitio**.
+2. En la parte inferior del panel de información del sitio, seleccione **ver toda la configuración del sitio**.
+3. En **Administración del sitio**, seleccione **configuración de idioma**.
+4. En **Habilitar páginas y noticias para que se traduzcan a varios idiomas**, deslice el botón **de**alternancia a activado. Debe estar activado de forma predeterminada.
 - En **Habilitar páginas y noticias que se van a traducir**, seleccione **desactivado**. 
 
 ### <a name="add-languages"></a>Agregar idiomas

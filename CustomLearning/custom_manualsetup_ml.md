@@ -5,12 +5,12 @@ title: Instalación manual de rutas de aprendizaje
 ms.date: 02/10/2019
 description: Instalación manual de rutas de aprendizaje
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037239"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038980"
 ---
 # <a name="learning-pathways-manual-setup"></a>Instalación manual de rutas de aprendizaje
 
@@ -18,7 +18,7 @@ Microsoft 365 Learning Pathways ofrece una configuración manual para las organi
 
 - Su organización tiene establecido un sitio de comunicación moderna de SharePoint online dedicado a la formación y desea agregar rutas de aprendizaje a ese sitio. En este escenario, el elemento Web de rutas de aprendizaje no se ha configurado en el sitio.
 
-- Desea instalar rutas de aprendizaje para la compatibilidad multilingüe en uno de los sitios de comunicación de SharePoint de la organización. El sitio tiene, o tendrá, un idioma predeterminado que no es el inglés, pero es uno de los idiomas admitidos por las rutas de aprendizaje. Estos son los idiomas admitidos por las rutas de aprendizaje:
+- Desea instalar rutas de aprendizaje para la compatibilidad multilingüe en uno de los sitios de comunicación de SharePoint de la organización. El sitio tiene, o tendrá, un idioma predeterminado que no es el inglés y es uno de los idiomas admitidos por las rutas de aprendizaje. Estos son los idiomas admitidos por las rutas de aprendizaje:
 
 - English
 - Chino (simplificado)
@@ -30,23 +30,20 @@ Microsoft 365 Learning Pathways ofrece una configuración manual para las organi
 - Ruso (Ruso)
 - Spanish
 
-La configuración manual de las vías de aprendizaje requiere experiencia en el trabajo con Windows PowerShell y el shell de administración de SharePoint Online. Estos son los pasos para la configuración manual de rutas de aprendizaje: 
+La configuración manual de las vías de aprendizaje requiere experiencia en el trabajo con Windows PowerShell y el shell de administración de SharePoint Online. A continuación, se presenta una descripción general de los pasos para la configuración manual de rutas de aprendizaje: 
 
 - Compruebe que ha cumplido todos los requisitos previos.
 - Compruebe la configuración de idioma predeterminada de su sitio. Si es correcto, continúe con la instalación manual. Si necesita una configuración de idioma predeterminada diferente, deberá crear un nuevo sitio. 
 - Instale el archivo customlearning. sppkg en el catálogo de aplicaciones del espacio empresarial de SharePoint.
 - Aprovisionar o identificar un sitio de comunicación moderno para que actúe como su sitio principal de caminos de aprendizaje de Microsoft 365.
-- Ejecute un script de PowerShell que configurará a su inquilino con los artefactos apropiados de los que depende el aprendizaje de las rutas.
-- Navegue a la página del sitio CustomLearningAdmin. aspx para cargar el elemento Web de administración para inicializar la configuración de contenido personalizada.
-
-> [!NOTE]
-> Si está buscando una forma rápida y sencilla de configurar rutas de aprendizaje, vea [provision Microsoft 365 Learning Pathways](custom_provision.md).
+- Ejecute un script de PowerShell que configurará a su inquilino con los artefactos de los que depende el aprendizaje de las rutas.
+- Navegue a la página del sitio CustomLearningAdmin. aspx para cargar el elemento Web de administrador para inicializar la configuración de contenido personalizado.
 
 ## <a name="prerequisites"></a>Requisitos previos
 Para garantizar una configuración manual correcta del elemento Web caminos de aprendizaje, deben cumplirse los requisitos previos siguientes. 
 
-- Debe tener instalado y configurado el catálogo de aplicaciones de todo el inquilino. Consulte [configurar su inquilino de Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) y seguir la sección crear un sitio del catálogo de aplicaciones. 
-- Si ya se ha aprovisionado el catálogo de aplicaciones de todo el espacio empresarial, necesitará tener acceso a una cuenta que tenga derechos para cargar un paquete para completar este proceso de configuración. Por lo general, esta cuenta tiene un rol de administrador de SharePoint. 
+- Debe tener instalado y configurado el catálogo de aplicaciones de todo el inquilino. Consulte [configurar su inquilino de Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) y seguir la sección de sitio "crear el catálogo de aplicaciones". 
+- Si ya se ha aprovisionado el catálogo de aplicaciones de todo el espacio empresarial, necesitará tener acceso a una cuenta que tenga derechos para cargar un paquete en él. Por lo general, esta cuenta tiene un rol de administrador de SharePoint. 
 - Si una cuenta con ese rol no funciona, vaya al centro de administración de SharePoint y busque los administradores de la colección de sitios para la colección de sitios del catálogo de aplicaciones y inicie sesión como uno de los administradores de la colección de sitios, o bien agregue la cuenta de administrador de SharePoint que produjo errores a los administradores de la colección de sitios. 
 - También necesitará tener acceso a una cuenta que sea administrador de inquilinos de SharePoint.
 
@@ -76,7 +73,7 @@ Con esta opción, se crea un nuevo sitio de comunicación de SharePoint Online c
 3. Agregue idiomas adicionales, si es necesario, y haga clic en **Guardar**. 
 4. Continúe con el paso 2. 
 
->! Note Si necesita migrar contenido personalizado de un sitio a un sitio recién creado, consulte [migrar contenido personalizado](Migrate custom content). 
+>! Note Si necesita migrar contenido personalizado de un sitio a un sitio recién creado, consulte la sección "migrar contenido personalizado" más adelante en este documento. 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>Paso 2: obtener el paquete de elementos Web y la secuencia de comandos de instalación de GitHub
 Como parte del proceso de instalación, necesitará el paquete de elementos Web de caminos de aprendizaje de Microsoft 365 y el script de instalación de PowerShell.
@@ -129,8 +126,9 @@ Como administrador de inquilinos, es poco probable que sea la persona que va a p
 5. Agregue un vínculo para [explorar el sitio](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) en el mensaje de uso compartido y, a continuación, haga clic en **compartir**.
 
 ## <a name="migrate-custom-content"></a>Migrar contenido personalizado
-Después de restablecer el sitio de caminos de aprendizaje siguiendo los pasos anteriores, tendrá que mover el contenido de la lista de **CustomPlaylists** y la lista de **CustomAssets** . Si lo desea, también puede mover las páginas personalizadas reales que componen los activos personalizados si residen en el sitio de caminos de aprendizaje existente y su intención es eliminarla. La tarea puede ser difícil porque para todos los elementos de la lista **CustomPlaylists** , el identificador del elemento de lista de la lista **CustomAssets** está escondido en el campo JSONData de cada elemento de lista de lista de reproducción. Por lo tanto, simplemente mover el contenido de la lista de **CustomPlaylists** de un sitio a otro no será suficiente. Además, la lista **CustomAssets** contiene la dirección URL absoluta de la página del activo personalizado en el campo JSONData del elemento de lista. Si los activos no se mueven y no se cambia el nombre del sitio (lo que cambia la dirección URL absoluta a la página del activo), entonces **CustomAssets** puede permanecer. Pero tendrá que corregir manualmente las entradas. Teniendo en cuenta la complejidad de este tipo de migración, sugerimos que considere la posibilidad de enumerar uno de nuestros asociados de caminos de aprendizaje para ayudarle a realizar esta transición.
+Después de restablecer el sitio de caminos de aprendizaje siguiendo los pasos anteriores, tendrá que mover el contenido de la lista de **CustomPlaylists** y la lista de **CustomAssets** . Si lo desea, también puede mover las páginas personalizadas reales que componen los activos personalizados si residen en el sitio de caminos de aprendizaje existente y su intención es eliminarla. La tarea puede ser difícil porque para todos los elementos de la lista **CustomPlaylists** , el identificador del elemento de lista de la lista **CustomAssets** está escondido en el campo JSONData de cada elemento de lista de lista de reproducción. Por lo tanto, simplemente mover el contenido de la lista de **CustomPlaylists** de un sitio a otro no será suficiente. Además, la lista **CustomAssets** contiene la dirección URL absoluta de la página del activo personalizado en el campo JSONData del elemento de lista. Si los activos no se mueven y no se cambia el nombre del sitio (lo que cambia la dirección URL absoluta a la página del activo), entonces **CustomAssets** puede permanecer. Pero tendrá que corregir manualmente las entradas. Teniendo en cuenta la complejidad de este tipo de migración, sugerimos que considere la posibilidad de enumerar uno de nuestros asociados de caminos de aprendizaje para ayudarle a realizar esta transición. 
 
 ### <a name="next-steps"></a>Siguientes pasos
-- [Personalice](custom_overview.md) la experiencia de aprendizaje para su organización.
+- Consulte [Customize Learning Pathways](custom_overview.md). 
+- Consulte [traducir páginas de sitio](custom_translate_page_ml.md).
 
