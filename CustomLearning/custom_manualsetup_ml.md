@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Instalación manual de rutas de aprendizaje
+title: Caminos de aprendizaje configuración manual para los ml
 ms.date: 02/10/2019
 description: Instalación manual de rutas de aprendizaje
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038980"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043282"
 ---
-# <a name="learning-pathways-manual-setup"></a>Instalación manual de rutas de aprendizaje
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Caminos de aprendizaje configuración manual para varios idiomas
 
 Microsoft 365 Learning Pathways ofrece una configuración manual para las organizaciones que necesitan soporte para uno de los siguientes escenarios:
 

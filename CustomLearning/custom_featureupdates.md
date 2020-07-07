@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: Actualizaciones de características de rutas de aprendizaje
 ms.date: 10/20/2019
 description: Actualizaciones de características de rutas de aprendizaje
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141363"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048098"
 ---
-# <a name="learning-pathways-feature-updates"></a>Actualizaciones de características de rutas de aprendizaje
-El equipo de rutas de aprendizaje escucha los comentarios de los clientes para proporcionar las características que necesita. A continuación, se proporciona una actualización de las características planeadas para el segundo trimestre de 2020. 
+# <a name="july-2020-version-40-feature-updates"></a>Actualizaciones de características de julio de 2020 versión 4,0 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Actualizaciones de características próximas para el segundo trimestre de 2020
-La compatibilidad multilingüe para rutas de aprendizaje está programada para publicarse en el segundo trimestre de 2020. La compatibilidad multilingüe asume una dependencia de la característica "publicación de páginas Multiligual para SharePoint moderno" y estará disponible al mismo tiempo que la disponibilidad general para la compatibilidad multilingüe de SharePoint. Para obtener más información, vea el [mapa de ruta de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-Los siguientes idiomas serán compatibles con las rutas de aprendizaje:   
+Se han agregado las siguientes nuevas características a Microsoft 365 Learning Pathways versión 4,0. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>Compatibilidad multilingüe para caminos de aprendizaje 
+La compatibilidad multilingüe para rutas de aprendizaje ahora está disponible en nueve idiomas.  
+- English     
 - Chino (simplificado) 
-- Francés  
+- Francés 
 - Alemán 
 - Italiano (Italia) 
-- Japonés (Japón)  
+- Japonés (Japón) 
 - Portugués (Brasil) 
-- Ruso (Ruso)  
-- Español 
+- Ruso (Ruso) 
+- Spanish 
+
+Para obtener más información, consulte [Introducción a las rutas multilingües de aprendizaje](custom_overview.md). 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selector de imágenes para rutas de aprendizaje subcategorías personalizadas 
+Las rutas de aprendizaje proporcionan ahora un selector de imágenes fácil de usar para listas de reproducción personalizadas y subcategorías.  En versiones anteriores, podía cambiar la imagen de una lista de reproducción, pero no una subcategoría.  
+
+Para obtener más información, vea:
+- [Crear una lista de reproducción personalizada](custom_createnewplaylist.md). 
+- [Crear una subcategoría](custom_createnewcat.md)
 
 > [!NOTE]
 > La compatibilidad con el idioma holandés no se incluirá en la próxima versión de la compatibilidad con varios idiomas para los caminos de aprendizaje. Seguiremos evaluando nuevas opciones de idioma en el futuro.

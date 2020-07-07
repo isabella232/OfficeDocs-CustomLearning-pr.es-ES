@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Introducción a los caminos de aprendizaje de Microsoft 365
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141403"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043242"
 ---
-# <a name="microsoft-365-learning-pathways"></a>Caminos de aprendizaje de Microsoft 365 
+# <a name="microsoft-365-learning-pathways"></a>Formas de aprendizaje de Microsoft 365 
 Microsoft 365 Learning Pathways es una solución de aprendizaje personalizada y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    
 
 > [!IMPORTANT]
-> En respuesta a los eventos actuales, las rutas de aprendizaje proporcionan una actualización de contenido de abril de 2020 que se centra en listas de reproducción y recursos diseñados para habilitar el trabajo remoto en la organización. Hemos agregado un nuevo conjunto de listas de reproducción remotas de trabajo, actualizado considerablemente el contenido de Microsoft Teams, especialmente para reuniones de Microsoft Teams, y agregado un nuevo conjunto de listas de reproducción de Office para la Web. Como parte de la actualización, también hemos proporcionado una lista de recursos de trabajo remoto para los administradores. Para obtener una lista completa de las actualizaciones, consulte [Learning Pathways April 2020 Content updates](custom_contentupdates.md).   
+> En respuesta a los comentarios de los clientes, los caminos de aprendizaje ofrecen ahora compatibilidad multilingüe para nueve idiomas. Para obtener información e instrucciones sobre cómo habilitar la compatibilidad multilingüe para rutas de aprendizaje, lea los siguientes temas: 
+>- [Información general sobre la compatibilidad multilingüe con rutas de aprendizaje](custom_overview_ml.md) 
+>- [Opciones de instalación para rutas de aprendizaje](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formación personalizada y a petición de Microsoft
 
@@ -31,13 +32,14 @@ Microsoft 365 Learning Pathways ofrece:
 ## <a name="sharepoint-online-provisioning-service"></a>Servicio de aprovisionamiento de SharePoint Online 
 Las rutas de aprendizaje se pueden aprovisionar desde el servicio de aprovisionamiento de SharePoint Online. Cuando se aprovisionan las rutas de aprendizaje de Microsoft 365, las organizaciones obtienen un sitio de comunicación de SharePoint Online diseñado para ser un portal de aprendizaje, junto con un elemento Web caminos de aprendizaje conectado a un catálogo en línea de contenido de aprendizaje. 
 
-![CG-provision. png](media/cg-provision.png)
+![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3 pasos sencillos
+## <a name="4-easy-steps"></a>4 pasos sencillos
 Comencemos a crear una experiencia de rutas de aprendizaje para su entorno.
-1. Elija una [opción de configuración](custom_setupoptions.md) y aprovisione los caminos de aprendizaje de Microsoft 365.  
-2. Personalización de caminos de aprendizaje para su entorno.
-3. Comparta caminos de aprendizaje con sus usuarios mediante nuestras [herramientas de adopción](driveadoption.md).
+1. Lea la [información general sobre la compatibilidad multilingüe para rutas de aprendizaje](custom_overview_ml.md). 
+2. Elija una [opción de configuración](custom_setupoptions.md) y aprovisione los caminos de aprendizaje de Microsoft 365.  
+3. Personalización de caminos de aprendizaje para su entorno.
+4. Comparta caminos de aprendizaje con sus usuarios mediante nuestras [herramientas de adopción](driveadoption.md).
 
 ## <a name="feedback-and-support"></a>Comentarios y soporte técnico
 

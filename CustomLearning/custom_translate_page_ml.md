@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: Traducir páginas de sitio
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Traducir páginas de sitio
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038990"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048118"
 ---
 # <a name="translate-site-pages"></a>Traducir páginas de sitio
 Antes de empezar a traducir el sitio de caminos de aprendizaje, es importante comprender algunos conceptos clave sobre cómo funciona la característica multilingüe con las rutas de aprendizaje. 
 - Información del sitio: la navegación, el logotipo y las traducciones de nombres de sitio requieren que el sitio se vea y traduzca en el perfil de idioma del usuario.  
 - El elemento Web de rutas de aprendizaje debe visualizarse con el perfil de idioma del usuario para que aparezca en un idioma distinto del inglés. El elemento Web y el contenido proporcionado por Microsoft ya se han traducido. Para obtener más información acerca de los perfiles de idiomas, vea [cambiar la configuración regional y de Idioma personal](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- La forma de configurar las rutas de aprendizaje determina si las páginas traducidas están disponibles. Los nuevos sitios aprovisionados con el servicio de aprovisionamiento de SharePoint tendrán páginas traducidas en nueve idiomas disponibles. Los sitios o sitios actualizados que cree requerirán traducción manual. Consulte [Opciones de instalación para rutas de aprendizaje multilingües](custom_setupoptions_ml.md).
+- La forma de configurar las rutas de aprendizaje determina si las páginas traducidas están disponibles. Los sitios nuevos que se suministran con el servicio de libro de apariencia de Microsoft 365 tendrán páginas traducidas en nueve idiomas disponibles. Los sitios o sitios actualizados que cree requerirán traducción manual. Consulte [Opciones de instalación para rutas de aprendizaje multilingües](custom_setupoptions_ml.md).
 - Las características multilingües de SharePoint Online para los sitios de comunicación habilitan la compatibilidad multilingüe para las rutas de aprendizaje. Para obtener información sobre las características multilingües de SharePoint Online, vea [crear sitios de comunicación multilingües, páginas y noticias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Trabajar con un sitio recién aprovisionado
-Si aprovisionó un nuevo sitio de caminos de aprendizaje desde el servicio de aprovisionamiento de SharePoint, las páginas traducidas ya estarán disponibles. De forma predeterminada, el sitio proporciona las páginas siguientes:
+Si ha aprovisionado un nuevo sitio de caminos de aprendizaje del servicio de libro de apariencia de Microsoft 365, las páginas traducidas ya estarán disponibles para usted. De forma predeterminada, el sitio proporciona las páginas siguientes:
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx

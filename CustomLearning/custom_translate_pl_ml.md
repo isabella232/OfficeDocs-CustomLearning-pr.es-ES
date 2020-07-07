@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Traducir listas de reproducción personalizadas de rutas de aprendizaje
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Traducir listas de reproducción personalizadas de rutas de aprendizaje
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039010"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048138"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Traducir listas de reproducción personalizadas de rutas de aprendizaje
 Con caminos de aprendizaje, la forma de trabajar con listas de reproducción personalizadas depende de cómo configure las rutas de aprendizaje.  
@@ -137,5 +135,5 @@ En el menú de **Inicio** de rutas de aprendizaje, haga clic en **Administració
 3. Realice las traducciones de la página y, a continuación, haga clic en **publicar**.   
 
 ## <a name="for-more-information"></a>Más información
-- Para obtener más información acerca de la personalización de las rutas de aprendizaje, consulte [Customizing Learning Pathways](custom_overview.md).  
+- Para obtener más información acerca de la personalización de las rutas de aprendizaje, consulte [Customizing Learning Pathways](custom_overview.md). 
 
