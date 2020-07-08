@@ -1,12 +1,18 @@
-# [Introducción](index.md)
-## [Opciones de configuración de las formas de aprendizaje de Microsoft 365](custom_setupoptions.md)
-## [Disponibilidad de formas de aprendizaje de Microsoft 365](custom_provision.md)
+# [Introducción](index.md)  
+## [Opciones de configuración para formas de aprendizaje](custom_setupoptions.md)
+## [Aprovisionar formas de aprendizaje](custom_provision.md)
+## [Actualización de formas de aprendizaje](custom_update.md)
+## [Configuración manual](custom_manualsetup.md)
 ## [Explore el sitio de formas de aprendizaje de Microsoft 365](custom_exploresite.md)
-## [Configuración de elemento web independiente](custom_manualsetup.md)
 # Novedades 
 ## [Actualizaciones de contenido](custom_contentupdates.md) 
 ## [Administrar actualizaciones de contenido](custom_contentupdatesmanage.md)
 ## [Actualizaciones de características](custom_featureupdates.md)
+# Soporte multilingüe
+## [Soporte multilingüe para formas de aprendizaje](custom_overview_ml.md)
+## [Traducir páginas del sitio](custom_translate_page_ml.md)
+## [Traducir listas de reproducción personalizadas de formas de aprendizaje](custom_translate_pl_ml.md)
+## [Traducir nombre del sitio, navegación y pies de página](custom_sitenamenav_ml.md)
 # [Centro de éxito de administradores](custom_successcenter.md)
 ## Planificar contenido de aprendizaje 
 ### [Planificar su contenido del aprendizaje](custom_plancontent.md)
