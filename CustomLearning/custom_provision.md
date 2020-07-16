@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: Aprovisionar una nueva solución de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 con el servicio de libreta de búsqueda de Microsoft 365
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048128"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146541"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Aprovisionar una nueva solución de caminos de aprendizaje 
 Las organizaciones que no tienen rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de libro de apariencia de SharePoint para agregar la solución de rutas de aprendizaje multilingües. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación.
@@ -39,6 +40,8 @@ Antes de aprovisionar rutas de aprendizaje, asegúrese de que la cuenta de admin
 1. Vaya a la [Página de solución de caminos de aprendizaje de Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Haga clic en **Agregar al espacio empresarial**. Si no ha iniciado sesión en el inquilino, el servicio de aprovisionamiento le pedirá sus credenciales de administrador de inquilinos. 
 3. En el cuadro de diálogo permisos solicitados, seleccione **consentimiento en nombre de su organización** y, después, seleccione **Aceptar**.
+
+![Imagen del consentimiento de catologue de la aplicación](media/app-catologue-consent.png)
 
 El servicio de libreta de búsqueda requiere estos permisos para crear el catálogo de aplicaciones del espacio empresarial, instalar la aplicación en el catálogo de aplicaciones del espacio empresarial y aprovisionar la plantilla del sitio. No hay ningún impacto general en el espacio empresarial. Estos permisos se usan explícitamente para el propósito de la instalación de la solución. Debe aceptar estos permisos para continuar con la instalación.
 
