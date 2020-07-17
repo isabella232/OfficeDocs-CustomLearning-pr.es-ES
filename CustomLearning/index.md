@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043242"
