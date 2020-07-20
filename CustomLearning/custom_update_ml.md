@@ -7,7 +7,7 @@ description: Actualización de las rutas de aprendizaje para la compatibilidad m
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
 ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/02/2020
 ms.locfileid: "45031706"
