@@ -32,6 +32,7 @@
 ### [Agregar elementos a una lista de reproducción personalizada](custom_addassets.md)
 ### [Crear una subcategoría](custom_createnewcat.md)
 ### [Agregar y editar el elemento web de las formas de aprendizaje de Microsoft 365](custom_addwebpart.md)
+### [Ordenar subcategorías y listas de reproducción](custom_sortsubplay.md)
 ### [Vínculo al contenido de las formas de aprendizaje](custom_linking.md)
 ### [Búsqueda de contenido de las formas de aprendizaje](custom_search.md)
 ## [Fomentar el uso](driveadoption.md)
