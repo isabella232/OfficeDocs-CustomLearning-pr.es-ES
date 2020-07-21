@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Actualizaciones de características de rutas de aprendizaje
 ms.date: 10/20/2019
 description: Actualizaciones de características de rutas de aprendizaje
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048098"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199340"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Actualizaciones de características de julio de 2020 versión 4,0 
 
 Se han agregado las siguientes nuevas características a Microsoft 365 Learning Pathways versión 4,0. 
 
-## <a name="multilingual-support-for-learning-pathways"></a>Compatibilidad multilingüe para caminos de aprendizaje 
+## <a name="multilingual-support-for-learning-pathways"></a>Soporte multilingüe para formas de aprendizaje 
 La compatibilidad multilingüe para rutas de aprendizaje ahora está disponible en nueve idiomas.  
 - English     
 - Chino (simplificado) 
@@ -28,6 +28,12 @@ La compatibilidad multilingüe para rutas de aprendizaje ahora está disponible 
 - Spanish 
 
 Para obtener más información, consulte [Introducción a las rutas multilingües de aprendizaje](custom_overview.md). 
+
+## <a name="sort-subcategories-and-playlists"></a>Ordenar subcategorías y listas de reproducción
+
+Ahora puede ordenar subcategorías y listas de reproducción en rutas de aprendizaje. Por ejemplo, si agrega una lista de reproducción personalizada a una subcategoría, puede ordenar las listas de reproducción para que la lista de reproducción personalizada aparezca primero en el criterio de ordenación. 
+
+Para obtener más información, consulte [ordenar subcategorías y listas de reproducción](custom_sortsubplay.md). 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selector de imágenes para rutas de aprendizaje subcategorías personalizadas 
 Las rutas de aprendizaje proporcionan ahora un selector de imágenes fácil de usar para listas de reproducción personalizadas y subcategorías.  En versiones anteriores, podía cambiar la imagen de una lista de reproducción, pero no una subcategoría.  

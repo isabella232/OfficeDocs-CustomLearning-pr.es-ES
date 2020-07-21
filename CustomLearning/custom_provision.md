@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: Aprovisionar una nueva solución de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 con el servicio de libreta de búsqueda de Microsoft 365
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146541"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196788"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Aprovisionar una nueva solución de caminos de aprendizaje 
-Las organizaciones que no tienen rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de libro de apariencia de SharePoint para agregar la solución de rutas de aprendizaje multilingües. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación.
+Las organizaciones que no tienen rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de libro de apariencia de SharePoint para agregar la solución de rutas de aprendizaje multilingües. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
 
 > [!IMPORTANT]
 > Si ya tiene rutas de aprendizaje aprovisionadas en el espacio empresarial, se recomienda que [actualice](custom_update.md) las rutas de aprendizaje. Si instala una nueva instancia de rutas de aprendizaje, deberá transferir manualmente todas las personalizaciones del sitio existente al nuevo sitio. 
 
 ## <a name="prerequisites-for-multilingual-support"></a>Requisitos previos para la compatibilidad multilingüe
  
-Para configurar correctamente los caminos de aprendizaje de Microsoft 365 con el servicio de libreta de búsqueda, la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos: 
+Para configurar correctamente los caminos de aprendizaje de Microsoft 365 con el servicio de libreta de búsqueda, la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos:   
  
 - La persona que aprovisiona rutas de aprendizaje debe ser un administrador de inquilinos del inquilino en el que se aprovisionarán las rutas de aprendizaje.  
 - Un catálogo de aplicaciones del espacio empresarial debe estar disponible en la opción de aplicaciones del centro de administración de SharePoint. Si su organización no tiene un catálogo de aplicaciones del espacio empresarial de SharePoint, consulte la [documentación de SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) para crear uno. Debe esperar al menos dos horas después de crear el catálogo de aplicaciones antes de aprovisionar rutas de aprendizaje.  
@@ -40,8 +40,6 @@ Antes de aprovisionar rutas de aprendizaje, asegúrese de que la cuenta de admin
 1. Vaya a la [Página de solución de caminos de aprendizaje de Microsoft 365](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Haga clic en **Agregar al espacio empresarial**. Si no ha iniciado sesión en el inquilino, el servicio de aprovisionamiento le pedirá sus credenciales de administrador de inquilinos. 
 3. En el cuadro de diálogo permisos solicitados, seleccione **consentimiento en nombre de su organización** y, después, seleccione **Aceptar**.
-
-![Imagen del consentimiento de catologue de la aplicación](media/app-catologue-consent.png)
 
 El servicio de libreta de búsqueda requiere estos permisos para crear el catálogo de aplicaciones del espacio empresarial, instalar la aplicación en el catálogo de aplicaciones del espacio empresarial y aprovisionar la plantilla del sitio. No hay ningún impacto general en el espacio empresarial. Estos permisos se usan explícitamente para el propósito de la instalación de la solución. Debe aceptar estos permisos para continuar con la instalación.
 
