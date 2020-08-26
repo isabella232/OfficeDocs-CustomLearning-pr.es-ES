@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Actualizar las formas de aprendizaje de Microsoft 365
 ms.date: 07/06/2020
 description: Actualizar las formas de aprendizaje de Microsoft 365
-ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
+ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043252"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895588"
 ---
-# <a name="update-learning-pathways"></a>Actualización de las rutas de aprendizaje
+# <a name="update-learning-pathways"></a>Actualización de formas de aprendizaje
 Si tiene un sitio de caminos de aprendizaje existente, puede actualizarlo para la compatibilidad multilingüe. Para actualizar las rutas de aprendizaje a la versión multilingüe de 4,0, cargue el paquete de elementos Web, customlearning. sppkg, en el catálogo de aplicaciones del espacio empresarial de SharePoint. Al actualizar rutas de aprendizaje:  
 
 - Se mantienen todos los activos y listas de reproducción personalizados creados anteriormente
@@ -47,7 +47,7 @@ Al definir la configuración de idioma para las rutas de aprendizaje, puede asig
 En este paso, carga el elemento Web caminos de aprendizaje 4,0 en el catálogo de aplicaciones de SharePoint y, a continuación, navega a la página de administración de caminos de aprendizaje para iniciar el proceso de actualización.
 
 ### <a name="upload-the-web-part-package"></a>Cargar el paquete de elementos Web
-1.  Vaya a la ubicación de recursos compartidos multilingües en Teams y descargue **customlearning. sppkg** a una unidad local de su PC. 
+1.  Vaya al [repositorio de aprendizaje personalizado de github](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), seleccione **customlearning. sppkg** y, a continuación, descárguelo en una unidad local de su PC.
 2.  Si aún no ha iniciado sesión, inicie sesión en su inquilino con una cuenta de administrador de inquilinos o de administración de la colección de sitios. 
 3.  Haga clic en **Administración**,  >  **Mostrar todas**  >  **SharePoint**  >  **las características más**de SharePoint. 
 4.  En **aplicaciones**, haga clic en **abrir**. 
