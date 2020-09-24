@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Medir el impacto de los caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Cómo medir el impacto de los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+ms.service: sharepoint online
+ms.openlocfilehash: 30614a048871f298019246f4dfe3f6563ee33729
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076014"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234252"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Medir el impacto de los caminos de aprendizaje de Microsoft 365
 
@@ -19,9 +20,9 @@ Los administradores deben aprovechar las funciones integradas de informes de uso
 
 ## <a name="site-level-impact"></a>Impacto en el nivel de sitio
 
-Como propietario de un sitio de SharePoint Online, puede ver la información que muestra cómo los usuarios interactúan con el sitio. Por ejemplo, puede ver el número de personas que han visitado el sitio, la cantidad de veces que los usuarios han visitado el sitio y una lista de los archivos que han recibido la mayoría de las vistas. Vea los [detalles del informe](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
+Como propietario de un sitio de SharePoint Online, puede ver la información que muestra cómo los usuarios interactúan con el sitio. Por ejemplo, puede ver el número de personas que han visitado el sitio, las veces que se ha visitado el sitio y una lista de los archivos que han recibido el mayor número de visitas. Vea los [detalles del informe](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e). 
 
-![CG-measureimpactreport. png](media/cg-measureimpactreport.png)
+![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>Impacto en el nivel de la organización
 El informe de uso del sitio de SharePoint del centro de administración de Office 365 permite a los administradores obtener una vista de alto nivel del valor que se obtiene del sitio de aprendizaje personalizado para Office 365 en relación con el resto de los sitios de SharePoint. Vea los [detalles del informe](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide).

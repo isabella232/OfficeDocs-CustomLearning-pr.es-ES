@@ -1,11 +1,17 @@
 ---
-Título: procedimientos recomendados para el programa
-ms.openlocfilehash: 52e14df0552c7809f0abb856f8d0a4dd9f80ae75
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 'Procedimientos recomendados para el programa campeón: Únase al programa de Office 365 Champions'
+description: Impulsar la adopción de Office 365 con los procedimientos recomendados del programa campeón
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 70ecd8c6c080c90b6de12694a57de4360c91ab38
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055480"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233432"
 ---
 # <a name="office-365-champions-program"></a>Programa de Office 365 Champions 
 
@@ -15,4 +21,4 @@ Microsoft ofrece un programa gratuito de Office 365 Champions para apoyar el rol
 
 Este programa está abierto para todos los usuarios.  Se recomienda que, como mínimo, un usuario que ejecute un programa de experto en su organización se convierta en un miembro para obtener acceso a los materiales de formación de los expertos que se puedan usar en su propio programa. 
 
-Regístrese hoy para formar parte de la comunidad mundial enhttps://aka.ms/O365Champions  
+Regístrese hoy para formar parte de la comunidad mundial en https://aka.ms/O365Champions  

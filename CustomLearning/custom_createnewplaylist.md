@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Crear listas de reproducción nuevas
 ms.date: 02/18/2019
 description: Cómo crear nuevas listas de reproducción
-ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886823"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234532"
 ---
 # <a name="create-a-custom-playlist"></a>Crear una lista de reproducción personalizada
 
@@ -21,11 +22,11 @@ Con los caminos de aprendizaje de Microsoft 365, puede crear listas de reproducc
 2. Seleccione la subcategoría de icono **administrar**. En este ejemplo, seleccione **primeros días**.  
 3. Haga clic en el icono +.  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.  Rellene los campos de la lista de reproducción como se muestra en el siguiente ejemplo. Puede dejar el icono predeterminado para este ejemplo. 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
 5.  Cuando haya terminado, seleccione **Guardar detalle**. 
 
@@ -33,10 +34,10 @@ Con los caminos de aprendizaje de Microsoft 365, puede crear listas de reproducc
 
 - En la página **Administración de aprendizaje personalizada** , haga clic en la lista de reproducción y en **Editar detalle**.  
 
-![CG-editplaylist. png](media/cg-editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Eliminar una lista de reproducción
 
 - En la página Administración de aprendizaje personalizada, haga clic en el icono **eliminar** de la lista de reproducción.  
 
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

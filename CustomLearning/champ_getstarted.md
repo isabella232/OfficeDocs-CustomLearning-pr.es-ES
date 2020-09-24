@@ -1,11 +1,17 @@
 ---
-Título: procedimientos recomendados para el programa
-ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Procedimientos recomendados para el programa Champion
+description: Impulsar la adopción de Office 365 con los procedimientos recomendados del programa campeón
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: e60a9a1a392789f864aecd71804bbba174098d9a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055400"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233462"
 ---
 # <a name="establish-champions-for-user-adoption"></a>Establecer a los campeones para la adopción de usuarios 
 
@@ -23,7 +29,7 @@ Los expertos no solo son apasionados de lo que hacen, sino que también están e
 Creemos que es importante recompensar a los expertos de manera significativa. Algunas sugerencias son:
 
 - Permitir a los miembros del programa Champion contribuir a la revisión del rendimiento de los empleados
-- ReConozca a sus expertos más exitosos con recompensas de los beneficios de los empleados y los swag de Office  
+- Reconozca a sus expertos más exitosos con recompensas de los beneficios de los empleados y los swag de Office  
 - Atraer a sus expertos con formación y contenido continuos que puedan transmitir a otros empleados 
 
 Por lo general, la personalidad del experto no se compromete por estos premios, sino porque crea una experiencia medible más significativa para ellos que contribuye a la satisfacción de los empleados. 

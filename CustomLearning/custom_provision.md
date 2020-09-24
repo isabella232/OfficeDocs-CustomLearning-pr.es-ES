@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Aprovisionar una nueva solución de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de caminos de aprendizaje de Microsoft 365 con el servicio de libreta de búsqueda de Microsoft 365
-ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
-ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
+ms.service: sharepoint online
+ms.openlocfilehash: ff480e0ae2d5a530ed697df470cd499021ced01a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45196788"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234072"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Aprovisionar una nueva solución de caminos de aprendizaje 
 Las organizaciones que no tienen rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de libro de apariencia de SharePoint para agregar la solución de rutas de aprendizaje multilingües. Con esta opción, la plantilla de SharePoint de rutas de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
@@ -43,9 +44,9 @@ Antes de aprovisionar rutas de aprendizaje, asegúrese de que la cuenta de admin
 
 El servicio de libreta de búsqueda requiere estos permisos para crear el catálogo de aplicaciones del espacio empresarial, instalar la aplicación en el catálogo de aplicaciones del espacio empresarial y aprovisionar la plantilla del sitio. No hay ningún impacto general en el espacio empresarial. Estos permisos se usan explícitamente para el propósito de la instalación de la solución. Debe aceptar estos permisos para continuar con la instalación.
 
-4. Complete los campos en la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico donde desea obtener las notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino para el que se va a aprovisionar el sitio.  
+4. Rellene los campos de la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, debe escribir la dirección de correo electrónico en la que desea recibir notificaciones sobre el proceso de aprovisionamiento y el prefijo de la dirección URL del sitio que se aprovisionará.  
 > [!NOTE]
-> Haga que la dirección URL de destino del sitio sea descriptiva para los empleados, como "/sites/MyTraining" o "/teams/LearnMicrosoft365".
+> Haga que los empleados puedan usar la dirección URL de destino de manera fácil con nombres como "/sites/MyTraining" o "/teams/LearnMicrosoft365".
 
 ![inst_options.png](media/inst_options.png)
 
@@ -58,7 +59,7 @@ El servicio de libreta de búsqueda requiere estos permisos para crear el catál
 
 Cuando el aprovisionamiento haya finalizado, el administrador de inquilinos que aprovisionó el sitio recibirá un correo electrónico del servicio de libreta de búsqueda. El correo electrónico contiene un vínculo al sitio. En este momento, el administrador de inquilinos debe ir al sitio mediante el vínculo proporcionado en el correo electrónico y configurar el sitio para el primer uso:
 
-- Vaya a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página similar a la siguiente:
+- Vaya a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página similar a la siguiente:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

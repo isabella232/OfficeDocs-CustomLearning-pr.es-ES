@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Traducir listas de reproducción personalizadas de rutas de aprendizaje
+title: Traducir listas de reproducción personalizadas de formas de aprendizaje
 ms.date: 07/06/2020
-description: Traducir listas de reproducción personalizadas de rutas de aprendizaje
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Traducir listas de reproducción personalizadas de formas de aprendizaje
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048138"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233922"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Traducir listas de reproducción personalizadas de rutas de aprendizaje
+# <a name="translate-learning-pathways-custom-playlists"></a>Traducir listas de reproducción personalizadas de formas de aprendizaje
 Con caminos de aprendizaje, la forma de trabajar con listas de reproducción personalizadas depende de cómo configure las rutas de aprendizaje.  
 
 - Si ha aprovisionado un nuevo sitio multilingüe de caminos de aprendizaje, puede copiar o crear una nueva lista de reproducción y traducir la lista de reproducción a los idiomas compatibles con el sitio.

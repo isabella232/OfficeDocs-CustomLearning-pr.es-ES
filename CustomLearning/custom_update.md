@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Actualizar las formas de aprendizaje de Microsoft 365
 ms.date: 07/06/2020
 description: Actualizar las formas de aprendizaje de Microsoft 365
-ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
-ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
+ms.service: sharepoint online
+ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895588"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233852"
 ---
 # <a name="update-learning-pathways"></a>Actualización de formas de aprendizaje
 Si tiene un sitio de caminos de aprendizaje existente, puede actualizarlo para la compatibilidad multilingüe. Para actualizar las rutas de aprendizaje a la versión multilingüe de 4,0, cargue el paquete de elementos Web, customlearning. sppkg, en el catálogo de aplicaciones del espacio empresarial de SharePoint. Al actualizar rutas de aprendizaje:  
@@ -48,7 +49,7 @@ En este paso, carga el elemento Web caminos de aprendizaje 4,0 en el catálogo d
 
 ### <a name="upload-the-web-part-package"></a>Cargar el paquete de elementos Web
 1.  Vaya al [repositorio de aprendizaje personalizado de github](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), seleccione **customlearning. sppkg** y, a continuación, descárguelo en una unidad local de su PC.
-2.  Si aún no ha iniciado sesión, inicie sesión en su inquilino con una cuenta de administrador de inquilinos o de administración de la colección de sitios. 
+2.  Si aún no ha iniciado sesión, inicie sesión en su espacio empresarial con una cuenta de administrador de espacios empresariales o de administrador de la colección de sitios. 
 3.  Haga clic en **Administración**,  >  **Mostrar todas**  >  **SharePoint**  >  **las características más**de SharePoint. 
 4.  En **aplicaciones**, haga clic en **abrir**. 
 5.  Haga clic en **Catálogo**  >  **de aplicaciones distribuir aplicaciones para SharePoint**. 
@@ -59,7 +60,7 @@ En este paso, carga el elemento Web caminos de aprendizaje 4,0 en el catálogo d
 1.  Desde el sitio de caminos de aprendizaje, seleccione **aprendizaje de rutas de aprendizaje** en el menú de **Inicio** . 
 2.  Verá un mensaje en el que se le preguntará si desea actualizar. 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  Haga clic en **Iniciar**. 
+3.  Haga clic en **Inicio**. 
 4. Una vez finalizada la actualización, haga clic en **cerrar**. 
 
 ### <a name="next-steps"></a>Siguientes pasos

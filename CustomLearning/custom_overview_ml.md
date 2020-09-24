@@ -3,20 +3,21 @@ author: pkrebs
 ms.author: pkrebs
 title: Información general
 ms.date: 07/06/2020
-description: Compatibilidad multilingüe para caminos de aprendizaje
+description: Soporte multilingüe para formas de aprendizaje
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038970"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234162"
 ---
-# <a name="multilingual-support-for-learning-pathways"></a>Compatibilidad multilingüe para caminos de aprendizaje
+# <a name="multilingual-support-for-learning-pathways"></a>Soporte multilingüe para formas de aprendizaje
 
 Si su organización tiene una población diversa, puede hacer que los caminos de aprendizaje de Microsoft 365 estén disponibles en varios idiomas. Actualmente, los caminos de aprendizaje admiten nueve idiomas. El idioma predeterminado es el inglés. Los idiomas admitidos son:   
 
-- English    
+- Inglés    
 - Chino (simplificado)
 - Francés
 - Alemán
@@ -24,7 +25,7 @@ Si su organización tiene una población diversa, puede hacer que los caminos de
 - Japonés (Japón)
 - Portugués (Brasil)
 - Ruso (Ruso)
-- Spanish
+- Español
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Familiarizarse con las características multilingües de SharePoint Online
 Las características multilingües de SharePoint Online para los sitios de comunicación habilitan la compatibilidad multilingüe para las rutas de aprendizaje.

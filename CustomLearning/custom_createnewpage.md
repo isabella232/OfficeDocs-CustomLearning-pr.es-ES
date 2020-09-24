@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Crear páginas de SharePoint para listas de reproducción
 ms.date: 02/10/2019
 description: Crear páginas de SharePoint para listas de reproducción
-ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247545"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234512"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Crear páginas de SharePoint para listas de reproducción personalizadas
 
@@ -19,10 +20,10 @@ Una de las características únicas de las rutas de aprendizaje es la capacidad 
 
 1. Haga clic en el icono de **engranaje** de SharePoint y, a continuación, haga clic en **Agregar una página**.
 2. Haga clic en **Agregar una nueva sección (+)** en el lado izquierdo de la página y, a continuación, haga clic en **dos columnas** para el diseño de la sección.
-3. En la columna izquierda, haga clic en + y, a **** continuación, haga clic en el elemento Web incrustar. 
+3. En la columna izquierda, haga clic en + y, a continuación, haga clic en el elemento Web **incrustar** . 
 4. En la columna derecha, haga clic en + y, a continuación, haga clic en el elemento Web de **texto** . La página debe tener un aspecto similar a este.
 
-![CG-pagenewstart. png](media/cg-pagenewstart.png)
+![cg-pagenewstart.png](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Agregar un vídeo y texto desde YouTube
 
@@ -35,7 +36,7 @@ Una de las características únicas de las rutas de aprendizaje es la capacidad 
 7. Seleccione el icono **Editar elemento Web** en el área de título de la página de SharePoint y, a continuación, asigne a la página el nombre "Introducción a la lista de reproducción personalizada". 
 8. En **diseño**, seleccione **normal**y, a continuación, cierre panel Propiedades del **área de título** . La página debería tener ahora un aspecto similar al siguiente. 
 
-![CG-pagenewfinish. png](media/cg-pagenewfinish.png)
+![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Publicar la página
 

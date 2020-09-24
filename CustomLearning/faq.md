@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Preguntas más frecuentes sobre los caminos de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
 description: Información sobre las preguntas más frecuentes para los caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141373"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233542"
 ---
 # <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
@@ -19,7 +20,7 @@ La versión de Microsoft 365 Learning Pathways es un esfuerzo de reposicionamien
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>¿Cuáles son los requisitos para instalar los caminos de aprendizaje de Microsoft 365 en mi entorno de inquilino?
 
-- SharePoint Online y sitios de comunicación habilitados.
+- Tener habilitados SharePoint Online y los sitios de comunicación.
 - La persona que se va a aprovisionar CLO365 debe ser el administrador de inquilinos del inquilino de destino para la instalación.
 - El "Catálogo de aplicaciones" del espacio empresarial debe estar disponible en la opción "aplicaciones" del centro de administración de SharePoint.
 - Si se crea un nuevo catálogo de aplicaciones, es necesario un tiempo de espera de 30 minutos o más para que el catálogo de aplicaciones se aprovisione por completo. Si se intenta aprovisionar los caminos de aprendizaje de Microsoft 365 directamente después de crear el catálogo de aplicaciones del inquilino, se producirá un error de aprovisionamiento de la solución de rutas de aprendizaje. 
@@ -53,7 +54,7 @@ Las rutas de aprendizaje de Microsoft 365 actualmente solo están disponibles en
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>¿Cuánto tiempo se tarda en instalar el sitio en el entorno de inquilinos?
 
-En función de las pruebas de la instalación, esta tardará menos de 15 minutos. Esto no incluye el tiempo necesario para personalizar el sitio según sus necesidades.
+En función de las pruebas de la instalación, esta tardará menos de 15 minutos. No se incluye el tiempo necesario para personalizar el sitio y adaptarlo a sus necesidades.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>¿Microsoft 365 Learning ruta una solución de código abierto y cuáles son las implicaciones?
 

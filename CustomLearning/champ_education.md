@@ -1,13 +1,19 @@
 ---
-Título: procedimientos recomendados para el programa
-ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 'Procedimientos recomendados para el programa Champion: especialista en adopción de servicios'
+description: Impulsar la adopción de Office 365 con los procedimientos recomendados del programa campeón
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055420"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233482"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar sus habilidades: conViértase en un especialista en adopción de servicios
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Validar sus habilidades: conviértase en un especialista en adopción de servicios
 
 ![Curso especialista en adopción de servicios](media/champs_sascourse.png)
 
@@ -19,4 +25,4 @@ Este curso incluye instrucciones prácticas, herramientas y contenido adicional 
 
 Obtenga más información en nuestro [anuncio](https://aka.ms/AdoptionCertAnnouncement) sobre la publicación de este curso. 
 
-Únase a nuestra comunidad en línea de usuarios empresariales y profesionales de TI en https://aka.ms/DriveAdoptionel aprendizaje sobre la adopción en. 
+Únase a nuestra comunidad en línea de usuarios empresariales y profesionales de TI en el aprendizaje sobre la adopción en https://aka.ms/DriveAdoption . 

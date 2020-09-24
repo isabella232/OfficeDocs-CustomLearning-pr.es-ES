@@ -1,26 +1,27 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Modelos de integración de asociados
+title: Modelos de integración de socios
 ms.date: 3/9/2019
-description: Modelos de integración de asociados
-ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
-ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
+description: Modelos de integración de socios
+ms.service: sharepoint online
+ms.openlocfilehash: 91980782f64d101d3128daff81ed4e2b6205faa8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076024"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234142"
 ---
-# <a name="partner-integration-models"></a>Modelos de integración de asociados
-Aunque no es posible complementar el contenido de las rutas de aprendizaje de Microsoft 365 directamente del servicio de aprovisionamiento de SharePoint Online, hay varios modelos de integración que los asociados pueden aprovechar para crear un servicio de valor agregado alineado. promociones. Los modelos de integración del asociado se presentan en orden de complejidad ascendente y niveles de inversión. Por lo tanto, nuestra orientación es desarrollar su experiencia y expartirla con niveles más avanzados en función de los modelos de negocio.
+# <a name="partner-integration-models"></a>Modelos de integración de socios
+Aunque no es posible complementar el contenido de las rutas de aprendizaje de Microsoft 365 de forma directa del servicio de aprovisionamiento de SharePoint Online, hay varios modelos de integración que los asociados pueden aprovechar para crear ofertas de servicio de valor agregado alineadas. Los modelos de integración del asociado se presentan en orden de complejidad ascendente y niveles de inversión. Por lo tanto, nuestra orientación es desarrollar su experiencia y expartirla con niveles más avanzados en función de los modelos de negocio.
 
-![CG-Part-intmodel. png](media/cg-part-intmodel.png) 
+![cg-part-intmodel.png](media/cg-part-intmodel.png) 
 
 ## <a name="how-should-i-get-started"></a>¿Cómo debo empezar? 
 Para empezar, siga estos procedimientos recomendados.     
 
 ### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. Comience con la experiencia del edificio como un habilitador. 
-Puede ayudar de inmediato un porcentaje de la base de clientes mediante la habilitación de su portal de aprendizaje de rutas de aprendizaje y la realización de curation de contenido de Microsoft dirigidas. Para obtener instrucciones sobre el aprovisionamiento de rutas de aprendizaje, https://docs.microsoft.com/en-us/office365/customlearning/custom_provisionconsulte.  
+Puede ayudar de inmediato un porcentaje de la base de clientes mediante la habilitación de su portal de aprendizaje de rutas de aprendizaje y la realización de curation de contenido de Microsoft dirigidas. Para obtener instrucciones sobre el aprovisionamiento de rutas de aprendizaje, consulte https://docs.microsoft.com/office365/customlearning/custom_provision .  
 
 ### <a name="2-then-extend-your-services-as-an-integrator"></a>2. a continuación, amplíe los servicios como un integrador
 Realice una devolución de automatización en el análisis de la inversión, en función de la cantidad de contenido o de las necesidades de integración de servicios. Por ejemplo, es posible que no tenga sentido realizar el desarrollo y los costos operativos con respecto a nuestras pautas de integración de contenido si puede crear rápidamente de forma manual una lista o listas de reproducción personalizadas específicas que apunten a su contenido para pagar o hacer referencia a sus servicios.
@@ -29,14 +30,14 @@ Realice una devolución de automatización en el análisis de la inversión, en 
 Cuando la rentabilidad de la inversión tenga sentido, tenga en cuenta la redistribución (o el trabajo con asociados de aprendizaje de caminos relacionados) para crear soluciones reempaquetadas. Se basan en el marco de patrones y prácticas de SharePoint, que proporciona soluciones para extraer sitios personalizados y luego implementarlos en entornos de clientes. 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>Instrucciones para la integración de contenido proporcionada por el asociado
-El contenido para los caminos de aprendizaje de Microsoft 365 está controlado por un conjunto de archivos JSON que actúan como manifiestos de contenido para el paquete de aprendizaje. Hay tres archivos: Metadata. JSON, playlists. JSON y assets. JSON. Estos archivos deben estructurarse para que se correspondan con los modelos que reconoce el elemento Web y, a continuación, se hospeda desde una red de entrega de contenido (CDN) para permitir que el elemento web los cargue. Microsoft proporcionará plantillas iniciales de estos archivos para ayudarle a empezar.  
+El contenido para los caminos de aprendizaje de Microsoft 365 está controlado por un conjunto de archivos JSON que actúan como manifiestos de contenido para el paquete de aprendizaje. Hay tres archivos: metadata.js, playlists.jsy assets.jsen. Estos archivos deben estructurarse para que se correspondan con los modelos que reconoce el elemento Web y, a continuación, se hospeda desde una red de entrega de contenido (CDN) para permitir que el elemento web los cargue. Microsoft proporcionará plantillas iniciales de estos archivos para ayudarle a empezar.  
 
 **Declinación de responsabilidades:** la estructura del archivo JSON está sujeta a cambios en función de un trabajo de solución próximo. El programa de adopción anticipada del socio de caminos de aprendizaje de Microsoft 365 (EAP) se informará de los cambios inminentes de este tipo. Junto con cualquier orientación sobre la compatibilidad con versiones anteriores de los clientes o la transición. 
 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Descargue la solución de caminos de aprendizaje de Microsoft 365
-Puede descargar la solución de caminos de aprendizaje de Microsoft 365, junto con los archivos JSON, desde el repositorio de https://github.com/pnp/custom-learning-office-365GitHub:. Tenga en cuenta que en este momento, Microsoft no va a realizar la solicitud de extracción de GitHub en la solución. Pero puede usar los archivos de GitHub como punto de partida para crear su propio paquete de contenido personalizado. 
+Puede descargar la solución de caminos de aprendizaje de Microsoft 365, junto con los archivos JSON, desde el repositorio de GitHub: https://github.com/pnp/custom-learning-office-365 . Tenga en cuenta que en este momento, Microsoft no va a realizar la solicitud de extracción de GitHub en la solución. Pero puede usar los archivos de GitHub como punto de partida para crear su propio paquete de contenido personalizado. 
 
-### <a name="metadatajson-structure"></a>Estructura Metadata. JSON
+### <a name="metadatajson-structure"></a>Metadata.jsen la estructura
 Puede considerar este archivo como el cerebro de los menús y la estructura. Contiene toda la estructura de navegación y listas de selección para los datos de los otros dos archivos. 
 
 
@@ -67,7 +68,7 @@ Puede considerar este archivo como el cerebro de los menús y la estructura. Con
 |&nbsp;&nbsp;Identificador                |GUID de la StatugTag                                                                      |  
 |&nbsp;&nbsp;Denomina              |Nombre para mostrar de la StatusTag                                                              | 
 |**Telemetría []**            |                                                                                           |  
-|&nbsp;&nbsp;AppInsightsKey    |GUID de la clave de la aplicación Insights que ha configurado para realizar un seguimiento de la carga del elemento Web del visor. Un administrador puede desactivar el seguimiento para todo el inquilino, pero la información enviada es anonimizan usuario con el identificador de inquilino. Consulte esta sección para obtener más información.https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
+|&nbsp;&nbsp;AppInsightsKey    |GUID de la clave de la aplicación Insights que ha configurado para realizar un seguimiento de la carga del elemento Web del visor. Un administrador puede desactivar el seguimiento para todo el inquilino, pero la información enviada es anonimizan usuario con el identificador de inquilino. Consulte esta sección para obtener más información. https://github.com/pnp/custom-learning-office-365#disabling-telemetry-collection               |  
 |**Version**                   |La solución usa la información de versión para indicar a los administradores que el elemento Web se ha actualizado y también permite que el elemento Web actualice automáticamente el contenido personalizado a la versión más reciente del manifiesto si se han realizado cambios significativos.         | 
 |&nbsp;&nbsp;Complemento          |La versión del manifiesto                                               |
 |&nbsp;&nbsp;ManifestMinWebPart|La versión mínima del elemento Web que funciona con la versión del manifiesto.             |
@@ -80,16 +81,16 @@ Puede considerar este archivo como el cerebro de los menús y la estructura. Con
 |&nbsp;&nbsp;Imagen             |Imagen que se mostrará en la interfaz de usuario para agregar un paquete de contenido                                     |
 |&nbsp;&nbsp;ProvisionURL      |La dirección URL del paquete del servicio de aprovisionamiento para crear la colección de sitios del paquete de contenido.  |
 |&nbsp;&nbsp;CDNbase           |La dirección URL base para los manifiestos del paquete de contenido                                       |
-|AssetOrigins                  |Una matriz de origen de dirección URL que se usa en el archivo assets. JSON que se describe más adelante. Si la dirección URL de origen lo admite, se enviará un mensaje post a help_getClientHeight. Una respuesta en la propiedad data de: "help_getClientHeight = {height of Content}" (por ejemplo, "help_getClientHeight = 5769") permitirá cambiar el tamaño del iFrame al alto apropiado del contenido entramado.         |
+|AssetOrigins                  |Matriz de origen de dirección URL que se utiliza en el assets.jsen el archivo que se describe más adelante. Si la dirección URL de origen lo admite, se enviará un mensaje post a help_getClientHeight. Una respuesta en la propiedad data de: "help_getClientHeight = {height of Content}" (por ejemplo, "help_getClientHeight = 5769") permitirá cambiar el tamaño del iFrame al alto apropiado del contenido entramado.         |
 
-### <a name="playlistsjson-structure"></a>Estructura de listas de reproducción. JSON
-playlists. JSON: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
+### <a name="playlistsjson-structure"></a>Playlists.jsen la estructura
+playlists.json: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
 
 |              Nombre        |                     Descripción                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID que representa la lista de reproducción                                                             |  
-|Título                         |Nombre para mostrar de la lista de reproducción                                                               |
-|Image (Imagen)                         |Dirección URL relativa (desde la red CDN) a una imagen para visualizar la lista de reproducción                              |                      
+|El título                         |Nombre para mostrar de la lista de reproducción                                                               |
+|Imagen                         |Dirección URL relativa (desde la red CDN) a una imagen para visualizar la lista de reproducción                              |                      
 |LevelId                       |Nivel asociado                                                                           |
 |AudienceId                   |Audiencia asociada                                                                        |
 |TechnologyId                 |Tecnología asociada                                                                      |
@@ -101,13 +102,13 @@ playlists. JSON: el manifiesto de listas de reproducción es una matriz de objet
 |StatusNote                    |Notas sobre el contenido que se muestra a los administradores                                            |
 |*Activos []*                        |Una matriz de GUID para los activos que forman parte de esta lista de reproducción, en orden de presentación.        |         
 
-### <a name="assetjson-structure"></a>Estructura Asset. JSON
-playlists. JSON: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
+### <a name="assetjson-structure"></a>Asset.jsen la estructura
+playlists.json: el manifiesto de listas de reproducción es una matriz de objetos que describe los metadatos sobre una lista de reproducción y los activos incluidos en la lista de reproducción.
 
 |              Nombre        |                     Descripción                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID que representa la lista de reproducción                                                             |  
-|Título                         |Nombre para mostrar de la lista de reproducción                                                               |
+|El título                         |Nombre para mostrar de la lista de reproducción                                                               |
 |Descripción                   |---                                                                                           |                      
 |URL                           |La dirección URL de origen para el activo, que se aplicará al iFrame                                  |
 |TechnologyId                  |Tecnología asociada                                                                      |
@@ -117,7 +118,7 @@ playlists. JSON: el manifiesto de listas de reproducción es una matriz de objet
 |StatusNote                    |Notas sobre el contenido que se muestra a los administradores.                                           |
 
 ### <a name="caching"></a>Almacenamiento en caché
-La versión actual del elemento Web del visor usa una versión en caché de los archivos del manifiesto durante 24 horas. Transcurridas 24 horas, el primer usuario que ha encontrado el elemento Web asume el rendimiento necesario para actualizar la caché mediante la descarga de los manifiestos de la red CDN de origen y la combinación de dicha información con las tecnologías ocultas y las listas de reproducción, así como la combinación de subcategorías personalizadas. listas de reproducción y activos. De forma alternativa, el elemento Web de administración siempre descarga el contenido de los manifiestos y los combina en y actualiza la memoria caché.  Por lo tanto, en otras palabras, el administrador puede forzar una actualización de caché en cualquier momento si carga el elemento Web de administración, conocido como ir a la página de administración.
+La versión actual del elemento Web del visor usa una versión en caché de los archivos del manifiesto durante 24 horas. Transcurridas 24 horas, el primer usuario que ha encontrado el elemento Web asume el rendimiento necesario para actualizar la caché mediante la descarga de los manifiestos de la red CDN de origen y la combinación de la información con las tecnologías ocultas y las listas de reproducción, así como la combinación de subcategorías, listas de reproducción y activos personalizados. De forma alternativa, el elemento Web de administración siempre descarga el contenido de los manifiestos y los combina en y actualiza la memoria caché.  Por lo tanto, en otras palabras, el administrador puede forzar una actualización de caché en cualquier momento si carga el elemento Web de administración, conocido como ir a la página de administración.
 
 ## <a name="content-pack-guidelines"></a>Instrucciones del paquete de contenido
 La característica de paquete de contenido Desbloquea los siguientes escenarios:
@@ -132,11 +133,11 @@ Microsoft usa páginas de GitHub como origen de red de entrega de contenido (CDN
 
 Es importante que mantenga la misma estructura de versiones que Microsoft tiene que elegir para extender la solución de rutas de aprendizaje con su propio paquete de contenido. El punto de conexión de la red CDN no debe incluir la carpeta versión, ya que la versión del manifiesto que admite el elemento Web es compatible y se anexa automáticamente a la dirección URL de la red CDN. Obviamente le proporcionaremos tiempo para crear nuevas instancias de los archivos del manifiesto en cualquier momento en que se revisen.
 
-![CG-Part-JSON-Folder. png](media/cg-part-json-folder.png) 
+![cg-part-json-folder.png](media/cg-part-json-folder.png) 
 
-Para obtener más información sobre cómo usar las páginas de GitHub como su origen de red CDN, consulte [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)la siguiente documentación de ayuda:.
+Para obtener más información sobre cómo usar las páginas de GitHub como su origen de red CDN, consulte la siguiente documentación de ayuda: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
-La solución de Microsoft hace que la información sobre los activos se abra al público, ya que no hay seguridad alguna que tenga acceso a estos archivos. Creemos que debe haber una capa gratuita de contenido para un consumidor, lo que decía que si necesita una pared de pago para parte o todo el contenido, necesitará implementar esto de forma distinta dentro de las limitaciones técnicas de la solución y el uso de páginas de GitHub no es de ninguna media s un requisito. Cualquier proveedor de CDN que quiera usar es adecuado si mantiene la estructura de numeración de versiones que hemos esquematizado. Como se indicó anteriormente, la versión de la estructura del manifiesto que admite el elemento Web está integrada en el código y se anexa automáticamente a la dirección URL de la red CDN. 
+La solución de Microsoft hace que la información sobre los activos se abra al público, ya que no hay seguridad alguna que tenga acceso a estos archivos. Creemos que debe haber una capa de contenido gratuita para un consumidor, lo que decía que si necesita una pared de pago para parte o todo el contenido, necesitará implementar esto de forma distinta dentro de las limitaciones técnicas de la solución y el uso de páginas de GitHub no es en absoluto un requisito. Cualquier proveedor de CDN que quiera usar es adecuado si mantiene la estructura de numeración de versiones que hemos esquematizado. Como se indicó anteriormente, la versión de la estructura del manifiesto que admite el elemento Web está integrada en el código y se anexa automáticamente a la dirección URL de la red CDN. 
 
 ### <a name="content-pack-integration-guidance"></a>Guía de integración del paquete de contenido 
 Los elementos Web de administrador y visor se han ampliado para permitir que el consumidor configure puntos de conexión de la red CDN adicionales en su inquilino, lo que permitirá al elemento Web del visor seleccionar la red CDN que deben origen de los datos que muestran. 
@@ -145,10 +146,10 @@ Tramas clave que se deben tener en cuenta para esta característica:
 - Este es el principal aplicable a los escenarios de redistribución de asociados (donde la configuración manual de la lista de reproducción es demasiado engorroso) 
 - Los paquetes de contenido personalizados son una característica avanzada que solo deben usar los socios con experiencia en la administración de contenido Web. Los orígenes de contenido no confiables pueden introducir contenido no seguro en el sitio. Solo debe agregar orígenes en los que confíe.
 
-> **Importante** Antes de agregar un paquete de contenido personalizado, debe haber proporcionado rutas de aprendizaje de Microsoft 365 3,0 o posterior. Para informataion sobre el aprovisionamiento de caminos de aprendizaje de Microsoft 365, consulte [provision microsoft 365 Learning Pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
+> **Importante** Antes de agregar un paquete de contenido personalizado, debe haber proporcionado rutas de aprendizaje de Microsoft 365 3,0 o posterior. Para informataion sobre el aprovisionamiento de caminos de aprendizaje de Microsoft 365, consulte [provision microsoft 365 Learning Pathways](https://docs.microsoft.com/office365/customlearning/custom_provision).
 
 ### <a name="content-whitelisting"></a>Lista de retenciones de contenido
-Como asociado, tiene la responsabilidad de ayudar a los consumidores a asegurarse de que el contenido se encuentra en la lista de su entorno. Le sugerimos que cree un escenario de prueba en su entorno para validar que el contenido puede ser iFrame en una página de SharePoint dentro de su firewall. Siga las instrucciones [de creación de páginas de SharePoint para las listas de reproducción personalizadas](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) para confirmar que este es el caso.
+Como asociado, tiene la responsabilidad de ayudar a los consumidores a asegurarse de que el contenido se encuentra en la lista de su entorno. Le sugerimos que cree un escenario de prueba en su entorno para validar que el contenido puede ser iFrame en una página de SharePoint dentro de su firewall. Siga las instrucciones [de creación de páginas de SharePoint para las listas de reproducción personalizadas](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) para confirmar que este es el caso.
 
 ### <a name="add-a-content-pack-to-learning-pathways"></a>Adición de un paquete de contenido a las rutas de aprendizaje
 Una vez que haya creado el JSON modificado y definido su red CDN, puede Agregar el paquete de contactos a las rutas de aprendizaje. 
@@ -157,11 +158,11 @@ Una vez que haya creado el JSON modificado y definido su red CDN, puede Agregar 
 2. En la página **Administración** , haga clic en **... Agregue el paquete de contenido** en la esquina superior derecha de la página.
 3. Haga clic en paquete de contenido personalizado y, a continuación, escriba un nombre para el paquete de contenido y, a continuación, especifique la red CDN donde se encuentran los archivos JSON.
 
-![CG-Part-addconpack. png](media/cg-part-addconpack.png)
+![cg-part-addconpack.png](media/cg-part-addconpack.png)
 
 4. Haga clic en **Guardar **. El contenido del paquete de contenido personalizado debería aparecer ahora en la página de administración. Aquí le mostramos un ejemplo. 
 
-![CG-Part-addconpackex. png](media/cg-part-addconpackex.png)
+![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar al paquete de contenido en el elemento Web
 Con las rutas de aprendizaje, puede Agregar el elemento Web de rutas de aprendizaje a una página, filtrar el elemento Web para que apunte al origen del paquete de contenido personalizado y, a continuación, filtrar el elemento Web a la categoría, subcategoría, lista de reproducción y elemento que desee. 
@@ -170,11 +171,11 @@ Con las rutas de aprendizaje, puede Agregar el elemento Web de rutas de aprendiz
 2. Haga clic en **en blanco**y, a continuación, en **Crear página**.
 3. Asigne un nombre a la página. 
 4. Haga clic en **+ Agregar una nueva sección** en el lado izquierdo de la página.
-5. Haga **+** clic en la parte superior central de la sección nueva y, a continuación, agregue el elemento Web de **caminos de aprendizaje de Microsoft 365** .
+5. Haga clic **+** en la parte superior central de la sección nueva y, a continuación, agregue el elemento Web de **caminos de aprendizaje de Microsoft 365** .
 6. Haga clic en el elemento Web y, a continuación, haga clic en el icono **Editar** .
 7. En el cuadro **Seleccionar origen de aprendizaje** , seleccione el paquete de contenido personalizado y, a continuación, filtre el elemento Web por el contenido que desee. A continuación, se proporciona un ejemplo del elemento Web filtrado para una lista de reproducción de un paquete de contenido personalizado.
 
-![CG-Part-conpackfilter. png](media/cg-part-conpackfilter.png)  
+![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)  
 
 
 

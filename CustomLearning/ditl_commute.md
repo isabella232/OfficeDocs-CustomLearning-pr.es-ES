@@ -1,11 +1,17 @@
 ---
-título: ''
-ms.openlocfilehash: 3b244c3598d8abe940350297e2cfb15738bfa23e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: 'Día de la vida con Office 365: en el viaje'
+description: Pasos rápidos para estar preparados para el día a mano con Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 3224874ac3a9f4a7ce8bde213d11243a4eba184b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056073"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233672"
 ---
 # <a name="during-your-commute"></a>Durante su desplazamiento
 
@@ -33,7 +39,7 @@ Si está en una llamada en Microsoft Teams y necesita ponerse en marcha inmediat
 Usando la aplicación para móviles de Microsoft Teams puede ver su calendario de eventos.  Si se ha programado una reunión con Microsoft Teams, verá un botón "Ingresar" en la aplicación móvil. Estará conectado a la reunión a través de su red móvil.  Las funciones normales como el silencio, el altavoz y el chat funcionarán.  La visualización del contenido puede estar desactivada dependiendo de su conexión. También puede navegar hasta alguien de su lista de contactos en Teams y hacer una llamada 1:1 con ellos directamente. 
 
 ## <a name="connect-to-office-365-from-your-mobile-device"></a>Conectarse a Office 365 desde su dispositivo móvil
-[Las aplicaciones de Office 365](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)están disponibles para las principales plataformas, y puede utilizarlos para acceder a todos nuestros archivos ubicados en los sitios de SharePoint Online o OneDrive para la Empresa. Si su organización utiliza la autenticación de dos factores, es posible que necesite autenticarse por teléfono o con la aplicación de autenticación, que debe configurarse por adelantado.  
+[Las aplicaciones de Office 365](https://support.office.com/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US)están disponibles para las principales plataformas, y puede utilizarlos para acceder a todos nuestros archivos ubicados en los sitios de SharePoint Online o OneDrive para la Empresa. Si su organización utiliza la autenticación de dos factores, es posible que necesite autenticarse por teléfono o con la aplicación de autenticación, que debe configurarse por adelantado.  
 
 > [!NOTE]
 > Tenga en cuenta que el uso de las funciones de Internet en su teléfono puede acarrear gastos si utiliza la red de telefonía móvil Para la mejor experiencia y para asegurarse de que no incurrirá en ningún gasto extra, debería usar Wi-Fi siempre que sea posible.

@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: Preguntas más frecuentes sobre asociados
+title: Preguntas frecuentes de socios
 ms.date: 3/9/2019
 description: ¿Cómo se comparan los caminos de aprendizaje de Microsoft 365 con las ofertas de socios de las empresas que proporcionan servicios de formación empresarial?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247805"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234152"
 ---
 # <a name="partner-frequently-asked-questions"></a>Preguntas más frecuentes sobre asociados
 
@@ -23,7 +24,7 @@ La solución de contenido y la plantilla del sitio de aprendizaje personalizado 
 Aunque no es posible complementar la fuente directamente del servicio de aprovisionamiento de SharePoint Online, hay varios modelos de integración que los asociados pueden aprovechar para crear servicios alineados de valor agregado.
 
 1. **Servicios de implementación y personalización en nombre de los clientes** : los socios pueden realizar la instalación de la solución, la personalización de marca y la personalización de contenido para sus clientes. Los asociados también pueden proporcionar listas de reproducción personalizadas que hacen referencia al contenido de aprendizaje de agregar valor que crean. 
-2. **Personalización, remarcación, reempaquetado y servicios de implementación en nombre de los clientes: los** socios pueden personalizar plantillas de sitio y listas de reproducción de contenido según los requisitos de los clientes, y pueden volver a empaquetarlas e implementarlas dentro de los entornos del cliente. compilar en el marco de prácticas y patrones de SharePoint de código abierto. 
+2. **Personalización, remarcación, reempaquetado y servicios de implementación en nombre de los clientes: los** socios pueden personalizar plantillas de sitio y listas de reproducción de contenido según los requisitos de los clientes, y pueden volver a empaquetarlas e implementarlas dentro de los entornos del cliente mediante el marco de prácticas y patrones de SharePoint de código abierto. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>¿Cómo afecta esta solución a mi práctica de administración de cambios de adopción? 
 Los servicios de formación son un componente del espacio recomendado para la adopción y la administración de cambios. La solución de caminos de aprendizaje de Microsoft 365 cumple una necesidad específica para acelerar la capacidad de los socios y los clientes de tener acceso y personalizar el contenido de aprendizaje proporcionado por Microsoft. Los caminos de aprendizaje de Microsoft 365 no incluyen un diseño de cursos personalizado, diseño dirigido por instructor, Gamification, análisis de comportamiento de usuario, amplias características de contratación y comunicación o soporte en directo. Microsoft se basa en los socios de adopción y administración de cambios para satisfacer estos servicios para los clientes. 

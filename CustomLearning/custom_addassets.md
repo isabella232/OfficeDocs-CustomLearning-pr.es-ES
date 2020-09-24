@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Agregar activos a una lista de reproducción
 ms.date: 02/17/2019
 description: Adición de activos nuevos y existentes a una lista de reproducción de rutas de aprendizaje
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247645"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234692"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Agregar activos a una lista de reproducción personalizada
 
@@ -35,14 +36,14 @@ Con la opción **Crear página de activos** , proporcione un título para el act
 2. Para agregar un nuevo activo a una lista de reproducción, haga clic en **nuevo activo**. 
 3. Escriba un título. En este ejemplo, escriba "agregar activos a una lista de reproducción" y, a continuación, haga clic en **Crear página de activos**.
 
-![CG-addassetcreatenewpage. png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Haga clic en **abrir página**.
 5. Haga clic en el icono **Editar** y, a continuación, haga clic en **Editar elemento Web** en el área de título.
 6. En **diseño**, haga clic en **sin formato**. 
 7. Agregue una nueva sección de una columna y, a continuación, agregue texto de ejemplo a la página para que tenga un aspecto similar al del ejemplo siguiente. 
 
-![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Haga clic en **Publicar**.
 8. Volver a la página **Administración de aprendizaje personalizada** . 
@@ -55,11 +56,11 @@ Con la opción **escribir la dirección URL** , proporcione un título para el a
 2. Para agregar un nuevo activo a una lista de reproducción, haga clic en **nuevo activo**. 
 3. Escriba un título. En este ejemplo, escriba "Introducción a la lista de reproducción personalizada" y, a continuación, haga clic en **escribir dirección URL**. 
 
-![CG-newplaylistasseturl. png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Escriba la dirección URL de la página de SharePoint que ha creado en una sección anterior [crear páginas de SharePoint para listas de reproducción personalizadas](custom_createnewpage.md) y, a continuación, rellene el resto de los campos, tal como se muestra en la siguiente ilustración.
+4. Escriba la dirección URL de la página de SharePoint que ha creado en una sección anterior [crear páginas de SharePoint para listas de reproducción personalizadas ](custom_createnewpage.md) y, a continuación, rellene el resto de los campos, tal como se muestra en la siguiente ilustración.
 
-![CG-newplaylistassetdetails. png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. Haga clic en **Guardar activo**. 
 
@@ -69,12 +70,12 @@ Los activos existentes están formados por el aprendizaje proporcionado por Micr
 
 - En el cuadro de **búsqueda** , escriba una frase de búsqueda y, a continuación, seleccione un activo de los resultados de búsqueda. En este ejemplo, escriba "¿Qué es Excel?". para agregar un tema de introducción de Excel a la lista de reproducción.
 
-![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Editar, mover y eliminar activos
 Puede modificar los activos personalizados que cree, pero no los activos de Microsoft. Sin embargo, puede quitar todos los activos de una lista de reproducción y cambiar los activos del pedido. 
 
-![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Edición de un activo
 - Haga clic en el botón Editar de un activo, modifique el activo y, a continuación, haga clic en guardar activo. 
@@ -93,4 +94,4 @@ Ahora que ha agregado activos a una lista de reproducción, vamos a cerrar la li
 3. Actualice la página y, a continuación, haga clic en **primeros días** en **Introducción**.
 4. Haga clic en **Learning Pathways Starter Kit** para ver la primera lista de reproducción en acción. 
 
-![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

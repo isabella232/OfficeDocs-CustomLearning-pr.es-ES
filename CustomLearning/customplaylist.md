@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Personalizar y compartir listas de reproducción
 ms.date: 02/10/2019
 description: Crear listas de reproducción personalizadas a partir de contenido existente o de nuevas páginas de SharePoint
-ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.service: sharepoint online
+ms.openlocfilehash: 6258668b417ba496c7ac75e36ce2bc1f1dae27a5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056446"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233812"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizar y compartir listas de reproducción
 
@@ -23,17 +24,17 @@ La ventaja de agregar páginas de SharePoint es que puede crear páginas de Shar
 En este ejemplo, primero crearemos una página de SharePoint para agregarla a la lista de reproducción. Crearemos una página con un elemento Web de vídeo de YouTube y un elemento Web de texto.  En estas instrucciones se da por sentado que usa el servicio de SharePoint Online. 
 
 #### <a name="create-a-new-page"></a>Crear una nueva página
-1.  Seleccione el menú configuración > contenidos del sitio > páginas del sitio > nueva página del sitio de >.
+1.  Seleccione el menú configuración > contenidos del sitio > páginas del sitio > nueva > página del sitio.
 2.  En el área título, escriba usar el cuadro de comandos de Microsoft Teams.
 3.  Seleccione Agregar una sección nueva y, a continuación, seleccione dos columnas.
 
 ![agregar dos columnas](media/clo365addtwocolumn.png)
 
 4.  En el cuadro de la izquierda, seleccione Agregar un nuevo elemento Web y, a continuación, seleccione incrustar. 
-5.  En un explorador Web, vaya a esta dirección https://youtu.be/wYrRCRphrp0 URL y obtenga el código para insertar para el vídeo. 
+5.  En un explorador Web, vaya a esta dirección URL https://youtu.be/wYrRCRphrp0 y obtenga el código para insertar para el vídeo. 
 6.  En el elemento Web de SharePoint, seleccione Agregar código para insertar y, a continuación, péguelo en el cuadro insertar. 
 7.  En el cuadro derecho, seleccione Agregar un nuevo elemento Web y, a continuación, seleccione texto. 
-8.  En un explorador Web, vaya a esta dirección URL https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b : y copie el bloque de! Instrucciones de la página y pegarlas en el elemento Web de texto. La página debe tener un aspecto similar al siguiente. 
+8.  En un explorador Web, vaya a esta dirección URL: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b y copie el bloque de! Instrucciones de la página y pegarlas en el elemento Web de texto. La página debe tener un aspecto similar al siguiente. 
 
 ![Insertar página](media/clo365teamscommandbox.png)
 
@@ -42,13 +43,13 @@ En este ejemplo, primero crearemos una página de SharePoint para agregarla a la
 #### <a name="step-2-create-the-playlist"></a>Paso 2: crear la lista de reproducción
 
 1. Navegue a la página de **Administración de aprendizaje personalizada** en la experiencia del sitio.
-![custom_admin. png](media/custom_admin.png)
+![custom_admin.png](media/custom_admin.png)
 1. Asegurarse de que la **categoría** está seleccionada 
 1. Haga clic en la categoría en la que desea que aparezca la nueva lista de reproducción
-1. Junto al nombre de la categoría, haga clic en el ![símbolo más custom_addplay. png](media/custom_addplay.png)
+1. Junto al nombre de la categoría, haga clic en el símbolo más ![custom_addplay.png](media/custom_addplay.png)
 
-1. ReLlene los valores como se muestra en el ejemplo siguiente y seleccione **crear**. 
-![custom_details. png](media/custom_details.png)
+1. Rellene los valores como se muestra en el ejemplo siguiente y seleccione **crear**. 
+![custom_details.png](media/custom_details.png)
 - **Título** : nombre para mostrar de la lista de reproducción
 - **Descripción** : información sobre lo que se aprenderá
 - **Categoría** : preseleccionado en función de la selección inicial
@@ -61,21 +62,21 @@ En este ejemplo, primero crearemos una página de SharePoint para agregarla a la
 
 > [!TIP]
 > Puede personalizar la imagen del icono de la lista de reproducción.  Haga clic en el icono de imagen e inserte una dirección URL de una imagen previamente cargada.  Asegúrese de que la imagen se encuentra dentro de la colección de sitios de aprendizaje personalizada o en otra ubicación en la que todos los usuarios tendrán acceso al archivo.  
-![custom_image. png](media/custom_image.png)
+![custom_image.png](media/custom_image.png)
 
 #### <a name="step-3-add-assets-to-the-playlist"></a>Paso 3: agregar activos a la lista de reproducción
 En este paso, agregará los activos existentes de Microsoft y la página de SharePoint que ha creado a la lista de reproducción. 
 
 1. Una vez que haya guardado los detalles de la lista de reproducción, puede usar la búsqueda de activos existentes.
 1. **Escriba un término de búsqueda** para ver una lista de activos predefinidos que están disponibles desde otras listas de reproducción. **Haga clic en el nombre** de un activo para incluirlo en la nueva lista de reproducción.
-![custom_slist. png](media/custom_slist.png)
+![custom_slist.png](media/custom_slist.png)
 
 También puede Agregar la página de SharePoint que creó anteriormente o crear una a partir de cero en la experiencia.
 
 1. Haga clic en la opción **nuevo activo** en el cuadro de diálogo activos de la lista de reproducción
-1. Asigne un **título**al activo. Una vez escritas, las opciones ![adicionales mostrarán custom_newpage. png](media/custom_newpage.png)
+1. Asigne un **título**al activo. Una vez escritas, se mostrarán más opciones ![custom_newpage.png](media/custom_newpage.png)
 1. Ahora puede crear una nueva página de activos en SharePoint Online o especificar en la dirección URL de una página existente para agregarla a la lista de reproducción personalizada. 
-1. **** Los campos Category, **Sub Category** y **Technology** se rellenarán previamente en función de las selecciones anteriores de esta lista de reproducción.
+1. Los campos **Category**, **Sub Category** y **Technology** se rellenarán previamente en función de las selecciones anteriores de esta lista de reproducción.
 1. Realice las selecciones adecuadas para nivel y audiencia para este activo individual.  
 1. Haga clic en **Guardar activo** para agregarlo a la lista de reproducción personalizada
 1. Repita estos pasos, ya sea buscando o agregando páginas individuales, hasta que la lista de reproducción haya finalizado. 
@@ -97,6 +98,6 @@ Las listas de reproducción personalizadas se pueden usar para ayudar a los usua
 1. Haga clic en el icono que representa un vínculo
 1. Copiar la dirección URL a la lista de reproducción
 
-![Share. png](media/share.png) ahora, esta dirección URL puede insertarse en la navegación del sitio o usarse en otras comunicaciones para llevar a sus empleados directamente a esa lista de reproducción. 
+![share.png](media/share.png) esta dirección URL ahora puede insertarse en la navegación del sitio o usarse en otras comunicaciones para llevar a sus empleados directamente a esa lista de reproducción. 
 
-### <a name="next-steps---drive-adoptiondriveadoptionmd"></a>Pasos siguientes: [impulsar la adopción](driveadoption.md)
+### <a name="next-steps---drive-adoption"></a>Pasos siguientes: [impulsar la adopción](driveadoption.md)

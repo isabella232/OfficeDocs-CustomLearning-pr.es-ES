@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Personalización de caminos de aprendizaje
+title: Personalizar las formas de aprendizaje
 ms.date: 02/18/2019
-description: Personalización de caminos de aprendizaje
-ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+description: Personalizar las formas de aprendizaje
+ms.service: sharepoint online
+ms.openlocfilehash: 56027e48917cbdeeb2187f87497f3281fff3c23a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886643"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234232"
 ---
-# <a name="customize-learning-pathways"></a>Personalización de caminos de aprendizaje
+# <a name="customize-learning-pathways"></a>Personalizar las formas de aprendizaje
 
 Los caminos de aprendizaje de Microsoft 365 proporcionan una variedad de maneras en las que puede personalizar el contenido de su organización. Por ejemplo, puede:  
 - Modifique el sitio de SharePoint de rutas de aprendizaje: cambie el nombre del sitio, el logotipo y los mismos. Modifique la página formular preguntas y obtener ayuda para crear su propio centro de ayuda. 
@@ -19,7 +20,7 @@ Los caminos de aprendizaje de Microsoft 365 proporcionan una variedad de maneras
 - Crear listas de reproducción personalizadas y subcategorías diseñadas específicamente para las necesidades del usuario
 - Cree páginas de aterrizaje con contenido filtrado para apoyar resultados empresariales, como impulsar la adopción de Microsoft Teams, Outlook Mobile o trabajar de forma más colaborativa con Microsoft 365.
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="requirements-and-permissions"></a>Requisitos y permisos
 
@@ -37,7 +38,7 @@ Antes de empezar con la guía de personalización de las rutas de aprendizaje, a
 
 ### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>Permisos para usar el sitio de rutas de aprendizaje como usuario
 
-- Office 365 permisos de usuario/permisos de visitante de sitio de SharePoint o superior
+- Permisos de usuario de Microsoft Office 365 y permisos de visitante de sitio de SharePoint o superior
 
 ## <a name="get-started-with-customization"></a>Introducción a la personalización
 Una vez que haya asegurado de que dispone de los permisos necesarios para personalizar el sitio y el elemento Web, es el momento de empezar con el proceso de personalización. 

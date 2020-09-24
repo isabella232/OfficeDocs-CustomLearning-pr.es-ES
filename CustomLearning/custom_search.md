@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Búsqueda
 ms.date: 02/10/2019
 description: Búsqueda en caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247714"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234032"
 ---
 # <a name="search-for-microsoft-365-learning-pathways-content"></a>Búsqueda de contenido de caminos de aprendizaje de Microsoft 365
 
@@ -20,5 +21,5 @@ Los caminos de aprendizaje de Microsoft 365 permiten buscar contenido por subcat
 
 - Haga clic en el icono de **búsqueda** y escriba una frase de búsqueda. 
 
-![CG-Search. png](media/cg-search.png)
+![cg-search.png](media/cg-search.png)
 

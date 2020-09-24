@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Administración de actualizaciones de contenido de rutas de aprendizaje
 ms.date: 10/20/2019
 description: Administración de actualizaciones de contenido de rutas de aprendizaje
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956517"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234552"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>Administración de actualizaciones de contenido de rutas de aprendizaje
 El catálogo de Microsoft 365 Learning Pathways se actualiza cada trimestre. El contenido del catálogo, que es un conjunto de metadatos JSON que apuntan a recursos de aprendizaje hospedados en support.office.com, se almacena en una memoria caché global dentro del espacio empresarial de una organización. La memoria caché global se actualiza automáticamente cuando un propietario o administrador de la colección de sitios de rutas de aprendizaje abre la página Administración de rutas de aprendizaje. Además, la memoria caché global de rutas de aprendizaje se actualiza cada 24 horas. Las actualizaciones de contenido en el catálogo se mostrarán automáticamente para que los usuarios puedan enrutar las rutas de aprendizaje cuando se actualice la caché global. Un administrador de caminos de aprendizaje puede ocultar subcategorías o listas de reproducción si no quiere que el nuevo contenido esté disponible para los usuarios.

@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Día de la vida con Office 365-reunión en la oficina
+description: Pasos rápidos para estar preparados para el día a mano con Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056123"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233642"
 ---
 # <a name="meeting-at-the-office"></a>Reunión en la oficina
 
@@ -63,4 +69,4 @@ Si agrega elementos de acción directamente a un plan del proyecto, se ahorrará
 ![Tarea de Planner](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>Finalizar la reunión
-Cuando se haya analizado todo lo que consta en la agenda, finalice la reunión, independientemente de la hora que sea. Asigne y envíe elementos de acción a todos los participantes. Si está colaborando en Microsoft Teams, puede compartir fácilmente los elementos de acción en el canal correspondiente. Los elementos de acción también pueden especificarse y asignarse durante la reunión en Planner, lo que permite hacer un seguimiento rápido para su finalización, a lo que también se puede [acceder en Microsoft Teams](https://support.office.com/es-ES/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+Cuando se haya analizado todo lo que consta en la agenda, finalice la reunión, independientemente de la hora que sea. Asigne y envíe elementos de acción a todos los participantes. Si está colaborando en Microsoft Teams, puede compartir fácilmente los elementos de acción en el canal correspondiente. Los elementos de acción también pueden especificarse y asignarse durante la reunión en Planner, lo que permite hacer un seguimiento rápido para su finalización, a lo que también se puede [acceder en Microsoft Teams](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 

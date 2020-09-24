@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Opción de instalación para rutas de aprendizaje
 ms.date: 07/16/2020
 description: Opción de instalación para rutas de aprendizaje
-ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.service: sharepoint online
+ms.openlocfilehash: 3246434cf450a17d324ce5b5afed5b9d7a4339ec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043222"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233972"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Opciones de instalación para rutas de aprendizaje multilingües
 Con el lanzamiento de características multilingües para los sitios de comunicaciones de SharePoint Online, los caminos de aprendizaje ahora ofrecen compatibilidad para varios idiomas. Puede configurar rutas de aprendizaje en diferentes tipos de formas para satisfacer las necesidades de su organización. Para ayudarle a decidir cuál es la mejor ruta de acceso para su organización, hemos descrito las opciones de instalación. 

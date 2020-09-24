@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Actualizaciones de contenido de noviembre de 2019
 ms.date: 10/20/2019
 description: Actualización de contenido de caminos de aprendizaje de Microsoft 365
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142214"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234712"
 ---
 # <a name="november-2019-content-updates"></a>Actualizaciones de contenido de noviembre de 2019
 Bienvenido a la actualización de contenido de caminos de aprendizaje de Microsoft 365. A partir de nuestra actualización del 2019 de noviembre, proporcionaremos un inventario actualizado del catálogo de caminos de aprendizaje cada trimestre. Para la actualización de noviembre de 2019, se han agregado las siguientes subcategorías y listas de reproducción de contenido al catálogo de caminos de aprendizaje. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md).    
@@ -65,7 +66,7 @@ Se ha agregado la subcategoría de contenido de Sway con las siguientes listas d
 - Agregar contenido a Sway (11 activos)
 - Personalización de Sway (5 activos)
 
-## <a name="access"></a>Access
+## <a name="access"></a>Acceso
 - Inicio rápido de Access (4 activos)
 - Introducción a Access (3 activos)
 - Crear una base de datos de Access (2 activos)

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Copiar una lista de reproducción
 ms.date: 02/18/2019
 description: Cómo copiar una lista de reproducción
-ms.openlocfilehash: 0dce25a5ce9922d9a6a534144b29fc5b7ae90da6
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956536"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234542"
 ---
 # <a name="copy-a-playlist"></a>Copiar una lista de reproducción
 Con bastante frecuencia, las organizaciones necesitan modificar una lista de reproducción proporcionada por Microsoft quitando o reemplazando un activo por un activo creado por la organización. Por ejemplo, es posible que quiera quitar un paso del principio con seis sencillos lista de reproducción de pasos. Ahora puede usar la característica copiar lista de reproducción de rutas de aprendizaje para copiar fácilmente los seis pasos sencillos de lista de reproducción y quitar un activo, reemplazar un activo o agregar activos nuevos. 
@@ -21,7 +22,7 @@ Con bastante frecuencia, las organizaciones necesitan modificar una lista de rep
 3. En **primeros días**, haga clic en la lista **de reproducción pasos sencillos-bienvenido a Office 365** y, a continuación, haga clic en **copiar lista de reproducción**. 
 4. Haga clic en **Editar detalle**y, a continuación, rellene los campos **título** y **Descripción** tal y como se muestra en el siguiente ejemplo y, a continuación, haga clic en **Guardar detalle**.  
  
-![CG-copyplaylist5steps. png](media/cg-copyplaylist5steps.png)
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
 ## <a name="add-or-remove-assets-from-a-playlist"></a>Agregar o quitar activos de una lista de reproducción
 Con las listas de reproducción personalizadas, puede:

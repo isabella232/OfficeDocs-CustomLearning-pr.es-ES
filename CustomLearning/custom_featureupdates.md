@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Actualizaciones de características de rutas de aprendizaje
 ms.date: 10/20/2019
 description: Actualizaciones de características de rutas de aprendizaje
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199340"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234432"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Actualizaciones de características de julio de 2020 versión 4,0 
 
@@ -17,7 +18,7 @@ Se han agregado las siguientes nuevas características a Microsoft 365 Learning 
 
 ## <a name="multilingual-support-for-learning-pathways"></a>Soporte multilingüe para formas de aprendizaje 
 La compatibilidad multilingüe para rutas de aprendizaje ahora está disponible en nueve idiomas.  
-- English     
+- Inglés     
 - Chino (simplificado) 
 - Francés 
 - Alemán 
@@ -25,7 +26,7 @@ La compatibilidad multilingüe para rutas de aprendizaje ahora está disponible 
 - Japonés (Japón) 
 - Portugués (Brasil) 
 - Ruso (Ruso) 
-- Spanish 
+- Español 
 
 Para obtener más información, consulte [Introducción a las rutas multilingües de aprendizaje](custom_overview.md). 
 

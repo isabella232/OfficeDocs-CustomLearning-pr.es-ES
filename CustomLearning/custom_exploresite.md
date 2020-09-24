@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Explorar el sitio y el contenido predeterminado
 ms.date: 02/10/2019
 description: Explorar el sitio de caminos de aprendizaje y el contenido predeterminado
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956547"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234452"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Explorar el sitio de caminos de aprendizaje
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956547"
 
 ## <a name="sign-in-to-office-365"></a>Iniciar sesión en Office 365 
 
-1.  Abra el explorador Web y vaya a office.com o a la ubicación de inicio de sesión de su organización. 
+1.  Abra el explorador web y vaya a office.com o a la ubicación del inicio de sesión de su organización. 
 2.  Inicie sesión con su nombre de usuario y contraseña.
 3.  Navegue a la ubicación del sitio con la dirección URL proporcionada por el administrador del espacio empresarial o seleccione SharePoint en la página de inicio de Office 365 y, a continuación, seleccione el sitio. 
 
-![CG-exploresite. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Explorar caminos de aprendizaje de Microsoft 365
 

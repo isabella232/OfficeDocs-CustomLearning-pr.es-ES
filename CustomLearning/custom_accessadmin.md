@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Administración de rutas de aprendizaje
 ms.date: 02/15/2019
 description: Cómo obtener acceso a la página de administración de aprendizaje personalizada desde el elemento Web o el menú
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886951"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233332"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Acceso a la página de administración de caminos de aprendizaje
 
@@ -24,11 +25,11 @@ La apertura de la página de administración desde el elemento Web es el método
 1. En la página **principal** de los caminos de aprendizaje de Microsoft 365, haga clic en el icono de **aprendizaje de Office 365** .
 2. Haga clic en el icono **Administración** en el elemento Web como se muestra en el siguiente ejemplo  
 
-![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Acceso desde el elemento de menú Inicio
 En lugar de ir a una página con un elemento Web, los administradores pueden tener acceso a la página de administración desde el elemento de menú **principal** de SharePoint. 
 
 - En la Página principal de Microsoft 365 Learning Pathways, haga clic en el menú **Inicio** y, a continuación, haga clic en **Administración de Microsoft Learning**.
 
-![CG-adminaccmenu. png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
