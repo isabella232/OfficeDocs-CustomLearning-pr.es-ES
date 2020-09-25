@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Introducción a los caminos de aprendizaje de Microsoft 365
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233492"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261662"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Formas de aprendizaje de Microsoft 365 
 Microsoft 365 Learning Pathways es una solución de aprendizaje personalizada y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    
 
 > [!IMPORTANT]
-> En respuesta a los comentarios de los clientes, los caminos de aprendizaje ofrecen ahora compatibilidad multilingüe para nueve idiomas. Para obtener información e instrucciones sobre cómo habilitar la compatibilidad multilingüe para rutas de aprendizaje, lea los siguientes temas: 
->- [Información general sobre la compatibilidad multilingüe con rutas de aprendizaje](custom_overview_ml.md) 
->- [Opciones de configuración para formas de aprendizaje](custom_setupoptions.md)  
+> Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. A partir de 9/24/2020, hemos actualizado el contenido de las rutas de aprendizaje para nuestra actualización del contenido de septiembre. Para obtener más información acerca de la actualización de contenido de septiembre de 2020, consulte [actualizaciones de contenido](custom_contentupdates.md). Para obtener información sobre cómo se aplican las actualizaciones de contenido y cómo administrarlas contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formación personalizada y a petición de Microsoft
 
@@ -34,7 +32,7 @@ Microsoft 365 Learning Pathways ofrece:
 ## <a name="sharepoint-look-book-service"></a>Servicio de libro de apariencia de SharePoint
 Las rutas de aprendizaje se pueden aprovisionar desde el servicio de libro de apariencia de SharePoint. Cuando se aprovisionan las rutas de aprendizaje de Microsoft 365, las organizaciones obtienen un sitio de comunicación de SharePoint Online diseñado para ser un portal de aprendizaje, junto con un elemento Web caminos de aprendizaje conectado a un catálogo en línea de contenido de aprendizaje. 
 
-![cg-provision.png](media/cg-provision.png)
+![Página de aprovisionamiento de libro de apariencia de SharePoint](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 pasos sencillos
 Comencemos a crear una experiencia de rutas de aprendizaje para su entorno.

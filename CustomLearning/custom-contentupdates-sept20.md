@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Caminos de aprendizaje actualizaciones de contenido de septiembre de 2020
 ms.date: 9/21/2020
 description: Caminos de aprendizaje actualizaciones de contenido de septiembre de 2020
-ms.service: sharepoint online
-ms.openlocfilehash: d8f651515d22568f4ad0701d28f4c10a1104628a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 34f02a5edd691590d96058312213bc85083b2d56
+ms.sourcegitcommit: 769aad80e9bb63304550e416d438e809a7d78ab3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234812"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268512"
 ---
-# <a name="september-2020-content-updates"></a>Actualizaciones de contenido de septiembre de 2020
+# <a name="learning-pathways-september-2020-content-updates"></a>Caminos de aprendizaje actualizaciones de contenido de septiembre de 2020
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md). A continuación se enumeran las actualizaciones de contenido de septiembre 2020 Microsoft 365. 
 
 ## <a name="security"></a>Seguridad

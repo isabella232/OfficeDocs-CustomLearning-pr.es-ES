@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Actualizaciones de contenido de caminos de aprendizaje
+title: Aprendizaje de las rutas de aprendizaje actualizaciones del contenido de abril
 ms.date: 3/30/2020
 description: Caminos de aprendizaje de abril de 2020 actualizaciones de contenido
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234816"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261682"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways para abril
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. La lista siguiente muestra las actualizaciones de contenido de abril de 2020.
 
 ## <a name="april-2020-content-updates"></a>Actualizaciones de contenido de abril de 2020
@@ -29,7 +29,7 @@ Se han agregado o actualizado las siguientes listas de reproducción.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Trabajar de forma remota (2 nuevas listas de reproducción/11 nuevos activos)
 Se ha agregado una nueva Subcategoría trabajo de forma remota a las rutas de aprendizaje que incluye las siguientes listas de reproducción y activos: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![caminos de aprendizaje trabajar en la lista de reproducción de forma remota](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Trabajar de forma remota (5 nuevos activos)
 - Trabajar de forma remota con Office 365
