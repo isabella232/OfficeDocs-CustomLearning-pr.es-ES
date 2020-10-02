@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: Actualizaciones de contenido de caminos de aprendizaje
 ms.date: 3/30/2020
 description: Actualizaciones de contenido de caminos de aprendizaje
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261699"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336408"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. A continuación, se enumeran las actualizaciones de contenido de septiembre de 2020.
 
 ## <a name="september-2020-content-updates"></a>Actualizaciones de contenido de septiembre de 2020
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> La actualización del contenido de septiembre se ha lanzado para el inglés. Pronto estarán disponibles las actualizaciones de contenido para chino (simplificado), Francés, alemán, Italiano, Japonés, Portugués (brasileño), Ruso y español.  
 
 ### <a name="security"></a>Seguridad
 Se ha agregado una nueva Subcategoría seguridad con listas de reproducción y recursos para ayudar a los usuarios a trabajar de forma más segura en la oficina y en el hogar. 
@@ -314,7 +317,7 @@ Se ha agregado la subcategoría de contenido de Sway con las siguientes listas d
 - Agregar contenido a Sway (11 activos)
 - Personalización de Sway (5 activos)
 
-### <a name="access"></a>Acceso
+### <a name="access"></a>Access
 - Inicio rápido de Access (4 activos)
 - Introducción a Access (3 activos)
 - Crear una base de datos de Access (2 activos)
