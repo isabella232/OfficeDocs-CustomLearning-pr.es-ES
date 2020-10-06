@@ -5,12 +5,12 @@ title: Actualizaciones de contenido de caminos de aprendizaje
 ms.date: 3/30/2020
 description: Actualizaciones de contenido de caminos de aprendizaje
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336408"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361100"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. A continuación, se enumeran las actualizaciones de contenido de septiembre de 2020.
@@ -19,7 +19,7 @@ Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de 
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md). 
 
 > [!IMPORTANT]
-> La actualización del contenido de septiembre se ha lanzado para el inglés. Pronto estarán disponibles las actualizaciones de contenido para chino (simplificado), Francés, alemán, Italiano, Japonés, Portugués (brasileño), Ruso y español.  
+> La actualización del contenido de septiembre se ha lanzado para inglés, Chino (simplificado), Francés, alemán, Italiano, Japonés, Portugués (brasileño), Ruso y español.  
 
 ### <a name="security"></a>Seguridad
 Se ha agregado una nueva Subcategoría seguridad con listas de reproducción y recursos para ayudar a los usuarios a trabajar de forma más segura en la oficina y en el hogar. 
@@ -168,7 +168,7 @@ Se ha agregado una nueva Subcategoría trabajo de forma remota a las rutas de ap
 - Almacenar los archivos de trabajo
 - Alternativas avanzadas
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Procedimientos recomendados para colaborar con Office 365 (6 nuevos activos)
-- Introducción
+- Comenzar
 - Compartir
 - Coautoría
 - Chatear en archivos
@@ -202,7 +202,7 @@ Se han realizado varias actualizaciones en el contenido de Teams.
 ### <a name="office-for-the-web"></a>Office para la web
 Office para la web proporciona un conjunto de listas de reproducción para escenarios en los que los usuarios desean crear, compartir y colaborar con Office en la Web. Este conjunto de contenido también es útil para las organizaciones que realizan el cambio de Google G Suite a Microsoft 365.
 #### <a name="get-started-5-new-assets"></a>Introducción (5 nuevos activos)
-- Introducción
+- Comenzar
 - Buscar con buscar
 - Crear nuevos documentos
 - Volver al trabajo
