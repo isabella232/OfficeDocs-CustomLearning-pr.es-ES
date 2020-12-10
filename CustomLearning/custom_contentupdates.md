@@ -5,12 +5,12 @@ title: Actualizaciones de contenido de caminos de aprendizaje
 ms.date: 3/30/2020
 description: Actualizaciones de contenido de caminos de aprendizaje
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361100"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614638"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
 Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. A continuación, se enumeran las actualizaciones de contenido de septiembre de 2020.
@@ -30,13 +30,13 @@ Se ha agregado una nueva Subcategoría seguridad con listas de reproducción y r
 - Protéjase de la suplantación de identidad
 - Evitar estafas de soporte técnico
 - Trabajar desde casa de forma más segura
-- Mantenga su PC actualizado
+- Mantén tu PC al día
 - Manténgase protegido con la seguridad de Windows
 
 #### <a name="security-at-home-playlist"></a>Lista de reproducción "seguridad en casa"
 - Sugerencias para mantener seguros sus datos
 - Mantener el equipo seguro en casa
-- Ayude a proteger a su familia en línea con la seguridad de Windows: ¿está aquí por accidente?
+- Ayudar a proteger a su familia en línea con la seguridad de Windows   
 
 #### <a name="security-at-work-playlist"></a>Lista de reproducción "seguridad en el trabajo"
 - Mantener el equipo protegido en el trabajo
@@ -146,7 +146,7 @@ Los siguientes activos se han actualizado o agregado a las listas de reproducci�
 Se han actualizado las guías de inicio rápido de Office para todos los productos de Office. 
 
 ## <a name="april-2020-content-updates"></a>Actualizaciones de contenido de abril de 2020
- En respuesta a eventos actuales, la actualización de contenido de abril de 2020 proporciona información sobre listas de reproducción y recursos diseñados para habilitar el trabajo remoto en su organización. Hemos agregado un nuevo conjunto de listas de reproducción remotas de trabajo, actualizado significativamente el contenido de Microsoft Teams, sobre todo para las reuniones de Microsoft Teams, se ha agregado un nuevo conjunto de listas de reproducción para la web y se han agregado activos nuevos de Microsoft Forms. Como parte de la actualización, también hemos proporcionado una lista de recursos de trabajo remoto para los administradores.  
+ En respuesta a eventos actuales, la actualización de contenido de abril de 2020 proporciona información sobre listas de reproducción y recursos diseñados para habilitar el trabajo remoto en su organización. Hemos agregado un nuevo conjunto de listas de reproducción de forma remota y actualizado el contenido de Microsoft Teams, sobre todo para las reuniones de Microsoft Teams. También se ha agregado un nuevo conjunto de Office para las listas de reproducción web y se han agregado activos nuevos de Microsoft Forms. También se ha incluido una lista de recursos de trabajo remoto para los administradores.  
  
  Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md). A continuación se enumeran las actualizaciones de contenido de abril de 2020 de Microsoft 365. 
 
@@ -161,34 +161,34 @@ Se ha agregado una nueva Subcategoría trabajo de forma remota a las rutas de ap
 
 ![trabajo de ruta de aprendizaje trabajar en la lista de reproducción remota](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>Trabajar de forma remota (5 nuevos activos)
+##### <a name="work-remotely-five-new-assets"></a>Trabajar de forma remota (cinco nuevos activos)
 - Trabajar de forma remota con Office 365
 - Introducción a Office.com
 - Comunicarse o reunirse
 - Almacenar los archivos de trabajo
 - Alternativas avanzadas
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Procedimientos recomendados para colaborar con Office 365 (6 nuevos activos)
-- Comenzar
+- Introducción
 - Compartir
 - Coautoría
 - Chatear en archivos
 - Cumplir
 - Móvil
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 nuevos activos/6 activos actualizados)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (nueve activos nuevos/seis activos actualizados)
 Se han realizado varias actualizaciones en el contenido de Teams. 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Colaborar en los equipos y canales (1 nuevo/1 activo actualizado)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Colaborar en Microsoft Teams y Channels (un activo actualizado nuevo o uno)
 - Crear y usar canales privados (nueva)
 - Mostrar u ocultar canales (actualización)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>Iniciar chats y llamadas (2 nuevos/1 actualizados)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>Iniciar chats y llamadas (se actualizaron dos nuevos/uno)
 - Iniciar y anclar chats (nuevo)
 - Ocultar chats, eliminar mensajes (nuevo)
 - Realizar llamadas (actualizadas)
-#### <a name="explore-apps-and-tools-1-new"></a>Explorar aplicaciones y herramientas (1 nuevo)
+#### <a name="explore-apps-and-tools-one-new"></a>Explorar aplicaciones y herramientas (una nueva)
 - Usar aplicaciones (nuevo)
 #### <a name="work-with-posts-and-messages"></a>Trabajar con publicaciones y mensajes
 - Publicar un mensaje en varios canales (nuevo)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>Administración de reuniones (3 nuevos/4 activos actualizados)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>Administración de reuniones (tres nuevos/cuatro activos actualizados)
 - Unirse a una reunión de Microsoft Teams (nueva)
 - Crear reuniones instantáneas con reunirse ahora (actualizada)
 - Reunirse en un canal (nuevo)
@@ -196,13 +196,13 @@ Se han realizado varias actualizaciones en el contenido de Teams.
 - Mostrar la pantalla durante una reunión (actualizada)
 - Mostrar diapositivas de PowerPoint (actualizado)
 - Desplazarse durante una reunión de Teams (actualizada)
-#### <a name="work-with-post-and-messages-1-new"></a>Trabajar con publicaciones y mensajes (1 nuevo)
+#### <a name="work-with-post-and-messages-one-new"></a>Trabajar con publicaciones y mensajes (uno nuevo)
 - Publicar un mensaje en varios canales (nuevo)
 
 ### <a name="office-for-the-web"></a>Office para la web
 Office para la web proporciona un conjunto de listas de reproducción para escenarios en los que los usuarios desean crear, compartir y colaborar con Office en la Web. Este conjunto de contenido también es útil para las organizaciones que realizan el cambio de Google G Suite a Microsoft 365.
-#### <a name="get-started-5-new-assets"></a>Introducción (5 nuevos activos)
-- Comenzar
+#### <a name="get-started-five-new-assets"></a>Introducción (cinco nuevos activos)
+- Introducción
 - Buscar con buscar
 - Crear nuevos documentos
 - Volver al trabajo
@@ -244,7 +244,7 @@ Office para la web proporciona un conjunto de listas de reproducción para escen
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 Por solicitud, también hay algunos activos de formularios nuevos. 
-#### <a name="forms-4-new-assets"></a>Formularios (4 nuevos activos) 
+#### <a name="forms-four-new-assets"></a>Formularios (cuatro activos nuevos) 
 - Crear un formulario 
 - Compartir un formulario 
 - Ver los resultados de un formulario 
@@ -268,26 +268,25 @@ Bienvenido a la actualización de contenido de caminos de aprendizaje de Microso
 
 ### <a name="teams"></a>Teams
 Se han agregado varias listas de reproducción nuevas a la subcategoría de Teams.
-- Trabajar con publicaciones y mensajes (3 activos)
-- Cargar y buscar archivos (2 activos)
-- Configurar y asistir a eventos en directo (4 activos)
-- Administrar la fuente de actividades (2 activos)
-- Equipos en marcha (2 activos)
+- Trabajar con publicaciones y mensajes (cuatro activos)
+- Cargar y buscar archivos (dos activos)
+- Configurar y asistir a eventos en directo (cuatro activos)
+- Administrar la fuente de actividades (dos activos)
+- Teams Go (dos activos)
 
 ### <a name="microsoft-365-success-center"></a>Centro de éxito de Microsoft 365
 Hemos agregado una subcategoría del centro de éxito de caminos de aprendizaje de Microsoft 365 a la experiencia de rutas de aprendizaje. El centro de éxito proporciona las siguientes listas de reproducción.
-- Novedades, qué ha cambiado (3 activos)
-- Planeación del contenido de aprendizaje (2 activos)
-- Personalización de caminos de aprendizaje (8 activos)
-- Impulsar la adopción de caminos de aprendizaje (1 activo)
-- Medir el impacto de las vías de aprendizaje (1 activo)
+- Novedades, qué ha cambiado (tres activos)
+- Planeación del contenido de aprendizaje (dos activos)
+- Personalización de rutas de aprendizaje (ocho activos)
+- Impulsar la adopción de caminos de aprendizaje (un activo)
+- Medir el impacto de las rutas de aprendizaje (un activo)
 
 ### <a name="outlook"></a>Outlook
 Las listas de reproducción siguientes se han agregado a la subcategoría de Outlook. 
-- Outlook Mobile: administrar la bandeja de entrada (4 activos)
-- Outlook Mobile: administre su tiempo (8 activos)
-- Outlook Mobile: contactos y conexiones (5 activos)
-- Outlook Mobile: buscar y compartir (4 activos)
+- Outlook Mobile: administrar la bandeja de entrada (ocho activos)
+- Outlook Mobile: personas y conexiones (cinco activos)
+- Outlook Mobile: buscar y compartir (cuatro activos)
 
 ### <a name="onedrive"></a>OneDrive
 Se han agregado los siguientes activos de vídeo para OneDrive. 
@@ -296,36 +295,33 @@ Se han agregado los siguientes activos de vídeo para OneDrive.
 
 ### <a name="planner"></a>Planner
 Las listas de reproducción y los activos siguientes se han agregado al catálogo.  
-- Inicio rápido de Planner (6 activos)
-- Usar Planner (8 activos)
+- Inicio rápido de Planner (seis activos)
+- Uso de Planner (ocho activos)
 
 ### <a name="accessibility"></a>Accesibilidad
 Se ha agregado la subcategoría de accesibilidad del contenido con las siguientes listas de reproducción. 
-- Recursos y visión general de accesibilidad de Microsoft 365 (3 activos)
-- Crear mensajes de correo electrónico más accesibles en Outlook (3 activos)
-- Crear documentos de Word más accesibles (8 activos)
-- Crear libros de Excel más accesibles (3 activos)
-- Crear diapositivas más accesibles en PowerPoint (5 activos)
-
-### <a name="onedrive"></a>OneDrive
-Nota: los cambios deben agregarse aquí.....
+- Recursos y visión general de accesibilidad de Microsoft 365 (tres activos)
+- Crear mensajes de correo electrónico más accesibles en Outlook (tres activos)
+- Crear documentos de Word más accesibles (ocho activos)
+- Crear libros de Excel más accesibles (tres activos)
+- Crear diapositivas más accesibles en PowerPoint (cinco activos)
 
 ### <a name="sway"></a>Sway
 Se ha agregado la subcategoría de contenido de Sway con las siguientes listas de reproducción. 
-- Inicio rápido de Sway (4 activos)
-- Compartir y acceder a Sway (5 activos)
+- Inicio rápido de Sway (cuatro activos)
+- Compartir y acceder a Sway (cinco activos)
 - Agregar contenido a Sway (11 activos)
-- Personalización de Sway (5 activos)
+- Personalización de Sway (cinco activos)
 
-### <a name="access"></a>Access
-- Inicio rápido de Access (4 activos)
-- Introducción a Access (3 activos)
-- Crear una base de datos de Access (2 activos)
-- Agregar tablas (2 activos)
-- Usar relaciones (5 activos)
-- Adición y edición de datos (2 activos)
-- Administración de datos con consultas (5 activos)
-- Crear formularios (1 activo)
-- Crear informes (2 activos)
-- Protección de bases de datos (1 activo)
+### <a name="access"></a>Acceso
+- Inicio rápido de Access (cuatro activos)
+- Introducción a Access (tres activos)
+- Crear una base de datos de Access (dos activos)
+- Agregar tablas (dos activos)
+- Usar relaciones (cinco activos)
+- Adición y edición de datos (dos activos)
+- Administración de datos con consultas (cinco activos)
+- Crear formularios (un activo)
+- Crear informes (dos activos)
+- Protección de bases de datos (un activo)
 
