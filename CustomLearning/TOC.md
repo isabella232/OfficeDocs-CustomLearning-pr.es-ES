@@ -14,6 +14,7 @@
 ## [Traducir listas de reproducción personalizadas de formas de aprendizaje](custom_translate_pl_ml.md)
 ## [Traducir nombre del sitio, navegación y pies de página](custom_sitenamenav_ml.md)
 # [Centro de éxito de administradores](custom_successcenter.md)
+## [Usar el Asesor de Teams con los cursos de aprendizaje para ayudar a implementar Microsoft Teams](custom_teamsadvisor.md)
 ## Planificar contenido de aprendizaje 
 ### [Planificar su contenido del aprendizaje](custom_plancontent.md)
 ### [Recursos de apoyo para sus recursos remotos ](custom_plancontent_remoteresources.md)
