@@ -1,49 +1,49 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Introducción a los caminos de aprendizaje de Microsoft 365
+title: Información general sobre las rutas de aprendizaje de Microsoft 365
 ms.date: 9/24/2020
-description: Obtenga información sobre cómo los caminos de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de los servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un moderno sitio de aprendizaje de comunicaciones de SharePoint Online que se aprovisiona fácilmente en su inquilino de Microsoft 365.
+description: Obtenga información sobre cómo las rutas de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un sitio de aprendizaje de comunicaciones de SharePoint Online moderno que se aprovisiona fácilmente a su inquilino de Microsoft 365.
 ms.service: o365-solutions
-ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49614628"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573412"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Formas de aprendizaje de Microsoft 365 
-Microsoft 365 Learning Pathways es una solución de aprendizaje personalizada y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    
+Las rutas de aprendizaje de Microsoft 365 son una solución de aprendizaje personalizable y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    
 
 > [!IMPORTANT]
-> Caminos de aprendizaje se esfuerza en adherirse a un ciclo de actualización de contenido trimestral. A partir de 9/24/2020, hemos actualizado el contenido de las rutas de aprendizaje para nuestra actualización del contenido de septiembre. Para obtener más información acerca de la actualización de contenido de septiembre de 2020, consulte [actualizaciones de contenido](custom_contentupdates.md). Para obtener información sobre cómo se aplican las actualizaciones de contenido y cómo administrarlas contenido, consulte [Manage Content updates](custom_contentupdatesmanage.md).  
+> Las rutas de aprendizaje se esfuerzan por cumplir un ciclo de actualización de contenido trimestral. A partir del 1/3/2021, hemos actualizado el contenido de las rutas de aprendizaje para nuestra actualización de contenido de marzo. Para obtener más información sobre la actualización de contenido de marzo, vea [Actualizaciones de contenido](custom_contentupdates.md). Para obtener información sobre cómo se aplican las actualizaciones de contenido y cómo administrarlas, vea [Administrar actualizaciones de contenido.](custom_contentupdatesmanage.md)  
 
-## <a name="on-demand-custom-training-from-microsoft"></a>Formación personalizada y a petición de Microsoft
+## <a name="on-demand-custom-training-from-microsoft"></a>Aprendizaje personalizado a petición de Microsoft
 
-Microsoft 365 Learning Pathways ofrece:
+Las rutas de aprendizaje de Microsoft 365 ofrecen:
 
-- **Un sitio de comunicación de SharePoint Online completamente personalizable** : el portal de aprendizaje de las rutas de aprendizaje se puede personalizar para agregar la ayuda, soporte técnico y contenido de la comunidad de su organización.
-- Aprovisionamiento **sencillo** : aprovisione rutas de aprendizaje del servicio de aprovisionamiento de SharePoint Online con tan solo unos pasos sencillos
-- **La capacidad de crear sus propias listas de reproducción de formación** (con caminos de aprendizaje), puede crear listas de reproducción de aprendizaje dirigidas para satisfacer las necesidades específicas de su entorno.
-- Los caminos actualizados de aprendizaje de **contenido** proporcionan contenido a través de un catálogo de contenido de Microsoft online, por lo que el contenido de su sitio se actualiza periódicamente
+- **Un sitio de comunicación de SharePoint Online** totalmente personalizable: el portal de aprendizaje de caminos de aprendizaje se puede personalizar para agregar la ayuda, el soporte técnico y el contenido de la comunidad de la organización.
+- **Aprovisionamiento fácil:** aprovisionar rutas de aprendizaje desde el servicio de aprovisionamiento de SharePoint Online con solo unos pasos sencillos
+- **La capacidad de crear tus propias listas** de reproducción de aprendizaje: con las rutas de aprendizaje, puedes crear listas de reproducción de aprendizaje dirigidas para satisfacer las necesidades únicas de tu entorno
+- **Contenido actualizado:** las rutas de aprendizaje proporcionan contenido a través de un catálogo de contenido en línea de Microsoft, por lo que el contenido de su sitio se actualiza periódicamente
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-look-book-service"></a>Servicio de libro de apariencia de SharePoint
-Las rutas de aprendizaje se pueden aprovisionar desde el servicio de libro de apariencia de SharePoint. Cuando se aprovisionan las rutas de aprendizaje de Microsoft 365, las organizaciones obtienen un sitio de comunicación de SharePoint Online diseñado para ser un portal de aprendizaje, junto con un elemento Web caminos de aprendizaje conectado a un catálogo en línea de contenido de aprendizaje. 
+## <a name="sharepoint-look-book-service"></a>Servicio de libreta de apariencias de SharePoint
+Las rutas de aprendizaje se pueden aprovisionar desde el servicio de libreta de apariencias de SharePoint. Cuando se aprovisionan las rutas de aprendizaje de Microsoft 365, las organizaciones obtienen un sitio de comunicación de SharePoint Online diseñado para ser un portal de aprendizaje personalizado, junto con un elemento web de caminos de aprendizaje conectado a un catálogo en línea de contenido de aprendizaje. 
 
-![Página de aprovisionamiento de libro de apariencia de SharePoint](media/cg-provision.png)
+![Página de aprovisionamiento de libros de apariencias de SharePoint](media/cg-provision.png)
 
-## <a name="4-easy-steps"></a>4 pasos sencillos
-Comencemos a crear una experiencia de rutas de aprendizaje para su entorno.
-1. Lea la [información general sobre la compatibilidad multilingüe para rutas de aprendizaje](custom_overview_ml.md). 
-2. Elija una [opción de configuración](custom_setupoptions.md) y aprovisione los caminos de aprendizaje de Microsoft 365.  
-3. Personalización de caminos de aprendizaje para su entorno.
-4. Comparta caminos de aprendizaje con sus usuarios mediante nuestras [herramientas de adopción](driveadoption.md).
+## <a name="4-easy-steps"></a>4 pasos fáciles
+Empecemos a crear una experiencia de caminos de aprendizaje para su entorno.
+1. Lea overview [of multilingual support for learning pathways](custom_overview_ml.md). 
+2. Elija una [opción de configuración y](custom_setupoptions.md) aprovisione las rutas de aprendizaje de Microsoft 365.  
+3. Adapte las rutas de aprendizaje para su entorno.
+4. Compartir rutas de aprendizaje con los usuarios mediante nuestras [herramientas de adopción.](driveadoption.md)
 
 ## <a name="feedback-and-support"></a>Comentarios y soporte técnico
 
-Microsoft 365 Learning Pathways es un proyecto de código abierto compatible con nuestra [lista de problemas en línea](https://aka.ms/CustomLearningHelp) en github. La solución de vías de aprendizaje y sus componentes no están cubiertos por ningún contrato de soporte técnico de Microsoft existente.  
+Las rutas de aprendizaje de Microsoft 365 es un proyecto de código abierto admitido a través de nuestra lista de problemas [en línea](https://aka.ms/CustomLearningHelp) en GitHub. La solución de caminos de aprendizaje y sus componentes no están cubiertos por ningún contrato de soporte técnico de Microsoft existente.  
 
 ## <a name="additional-resources"></a>Recursos adicionales
-Puede usar el sitio de caminos de aprendizaje de Microsoft 365 para proporcionar vínculos a los foros de la comunidad de usuarios nuevos o existentes. Considere la posibilidad de iniciar un grupo de usuarios internos, si aún no dispone de uno, para permitir que los usuarios compartan su éxito y aprendan unos de otros.  Si no tiene tiempo para cultivar a un grupo de usuarios internos, usted y sus empleados pueden unirse a [Microsoft Office 365 Champion Community](https://aka.ms/O365Champions) para obtener formación mensual, pertenencia a la comunidad en línea y acceso anticipado a herramientas y recursos para Office 365.
+Puede usar el sitio de rutas de aprendizaje de Microsoft 365 para proporcionar vínculos a cualquier foro de la comunidad de usuarios nuevo o existente. Considere la posibilidad de iniciar un grupo de usuarios interno, si aún no lo tiene, para permitir que las personas compartan su éxito y aprendan entre sí.  Si no tiene tiempo para nutrir un grupo de usuarios interno, usted y sus empleados pueden unirse a la comunidad de campeones de [Microsoft Office 365](https://aka.ms/O365Champions) para obtener formación mensual, pertenecer a la comunidad en línea y acceso anticipado a herramientas y recursos para Office 365.
