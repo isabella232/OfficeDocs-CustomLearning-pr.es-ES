@@ -5,67 +5,67 @@ title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
 ms.service: sharepoint online
-ms.openlocfilehash: feebef7f351aab4cd1efe7f87596dad98dba7536
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233762"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162927"
 ---
 # <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado
 
-Con el servicio de aprovisionamiento de SharePoint Online, un administrador de inquilinos de Office 365 puede iniciar el proceso de aprovisionamiento con unos pocos clics sencillos. El servicio de aprovisionamiento es la forma recomendada para aprovisionar aprendizaje personalizado. Es rápido y sencillo, y tarda solo unos minutos en iniciar el proceso. Sin embargo, antes de empezar con el servicio de aprovisionamiento, asegúrese de que cumple con los requisitos previos para el aprovisionamiento.
+Con el Servicio de aprovisionamiento de SharePoint Online, un administrador de inquilinos de Office 365 puede iniciar el proceso de aprovisionamiento con unos clics sencillos. El servicio de aprovisionamiento es la forma recomendada de aprovisionar aprendizaje personalizado. Es rápido, fácil y tarda solo unos minutos en iniciar el proceso. Sin embargo, antes de empezar a usar el servicio de aprovisionamiento, asegúrese de que ha cumplido los requisitos previos para el aprovisionamiento.
 
 ## <a name="prerequisites"></a>Requisitos previos
  
-Para configurar correctamente el aprendizaje personalizado con el servicio de aprovisionamiento de [SharePoint Online provisioning](https://provisioning.sharepointpnp.com), la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos: 
+Para configurar correctamente aprendizaje personalizado con el servicio de aprovisionamiento de [SharePoint Online Service,](https://provisioning.sharepointpnp.com)la persona que realiza el aprovisionamiento debe cumplir los siguientes requisitos previos: 
  
-- La persona que aprovisiona el aprendizaje personalizado debe ser un administrador de inquilinos del inquilino en el que se aprovisionará el aprendizaje personalizado.  
-- Un catálogo de aplicaciones del espacio empresarial debe estar disponible en la opción de aplicaciones del centro de administración de SharePoint. Si su organización no tiene un catálogo de aplicaciones del espacio empresarial de SharePoint, consulte la [documentación de SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) para crear uno.  
-- La persona que aprovisiona el aprendizaje personalizado debe ser un propietario de la colección de sitios del catálogo de aplicaciones del espacio empresarial. Si la persona que aprovisiona el aprendizaje personalizado no es un propietario de la colección de sitios del catálogo de aplicaciones, [complete estas instrucciones](addappadmin.md) y continúe. 
+- La persona que aprovisiona Aprendizaje personalizado debe ser un administrador de inquilinos del espacio empresarial en el que se aprovisionará Aprendizaje personalizado.  
+- Un catálogo de aplicaciones de inquilino debe estar disponible en la opción Aplicaciones del Centro de administración de SharePoint. Si su organización no tiene un catálogo de aplicaciones de inquilino de SharePoint, consulte la [documentación de SharePoint Online](/sharepoint/use-app-catalog) para crear uno.  
+- La persona que aprovisiona Aprendizaje personalizado debe ser el propietario de una colección de sitios del Catálogo de aplicaciones de inquilino. Si la persona que aprovisiona Aprendizaje personalizado no es un propietario de la colección de sitios del Catálogo de [aplicaciones, complete estas instrucciones](addappadmin.md) y continúe. 
 
 ### <a name="to-provision-custom-learning"></a>Para aprovisionar aprendizaje personalizado
 
-1. Vaya a http://provisioning.sharepointpnp.com e **inicie sesión** desde la esquina superior derecha de la Página principal.  Inicie sesión con las credenciales del inquilino de destino donde tiene previsto instalar la plantilla de sitio.
+1. Vaya a e inicie sesión desde la esquina superior http://provisioning.sharepointpnp.com derecha de la página principal.   Inicie sesión con las credenciales del inquilino de destino donde tiene previsto instalar la plantilla de sitio.
 
 ![pnphome.png](media/inst_signin.png)
 
-2. Borre el **consentimiento en nombre de su organización** y seleccione **Aceptar**.
+2. Desactive el **consentimiento en nombre de su organización** y seleccione **Aceptar**.
 
-![a](media/inst_perms.png)
+![en ](media/inst_perms.png)
 
-3. Seleccione **aprendizaje personalizado para Office 365** en la galería de soluciones.
+3. Seleccione **Aprendizaje personalizado para Office 365** en la galería de soluciones.
 
-![a](media/inst_select.png)
+![en ](media/inst_select.png)
 
-4. En la Página principal de la solución, seleccione **Agregar al espacio empresarial** .
+4. En la página principal de la solución, **seleccione Agregar a su inquilino**
 
 ![inst_select.png](media/inst_add.png)
 
-5. Rellene los campos de la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico donde desea obtener las notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino para el que se va a aprovisionar el sitio.  
+5. Rellene los campos de la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico en la que desea obtener notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino del sitio al que se aprovisionará.  
 > [!NOTE]
-> Haga que la dirección URL de destino del sitio sea descriptiva para los empleados, como "/sites/MyTraining" o "/teams/LearnOffice365".
+> Haga que la dirección URL de destino del sitio sea algo descriptivo para sus empleados, como "/sites/MyTraining" o "/teams/LearnOffice365".
 
 ![inst_options.png](media/inst_options.png)
 
-6. Seleccione **provisión** cuando esté listo para instalar aprendizaje personalizado en su entorno de espacio empresarial.  El proceso de aprovisionamiento tardará 15 minutos como máximo. Recibirá una notificación por correo electrónico (en la dirección que haya introducido en la página de aprovisionamiento para recibir notificaciones) cuando el sitio esté preparado para el acceso.
+6. Seleccione **Aprovisionar** cuando esté listo para instalar Aprendizaje personalizado en el entorno de inquilino.  El proceso de aprovisionamiento tardará 15 minutos como máximo. Recibirá una notificación por correo electrónico (en la dirección que haya introducido en la página de aprovisionamiento para recibir notificaciones) cuando el sitio esté preparado para el acceso.
 
 > [!IMPORTANT]
-> El administrador de inquilinos que aprovisiona el sitio de aprendizaje personalizado debe ir al sitio y, a continuación, abrir CustomLearningAdmin. aspx para inicializar las propiedades de administración de aprendizaje personalizadas. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
+> El administrador de inquilinos que aprovisiona el sitio de aprendizaje personalizado debe ir al sitio y, a continuación, abrir CustomLearningAdmin.aspx para inicializar las propiedades del administrador de aprendizaje personalizado. En este momento, el administrador de inquilinos también debe asignar propietarios al sitio. 
 
 ## <a name="validate-provisioning-success"></a>Validar el éxito del aprovisionamiento
 
-Cuando el aprovisionamiento haya finalizado, el administrador de inquilinos recibirá un correo electrónico del servicio de aprovisionamiento de PnP. El administrador puede copiar el vínculo en el sitio proporcionado en el correo electrónico y, a continuación, seguir las instrucciones para ir al sitio. Como alternativa, el administrador de inquilinos puede navegar a <su-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx. Esto inicializa el elemento de lista CustomConfig que configura el aprendizaje personalizado para su primer uso. La persona que abre la página por primera vez debe ser un administrador de inquilinos, un administrador de la colección de sitios o el propietario del sitio. Debería ver una página similar a la siguiente: 
+Una vez completado el aprovisionamiento, el administrador de inquilinos recibe un correo electrónico del servicio de aprovisionamiento pnP. El administrador puede copiar el vínculo al sitio proporcionado en el correo electrónico y, a continuación, seguir las instrucciones para ir al sitio. Como alternativa, el administrador de inquilinos puede navegar hasta <your-site-collection-url>/SitePages/CustomLearningAdmin.aspx. Esto inicializa el elemento de lista CustomConfig que configura El aprendizaje personalizado para su primer uso. La persona que abre esta página por primera vez debe ser un administrador de inquilinos, un administrador de la colección de sitios o el propietario del sitio. Debería ver una página con este aspecto: 
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
-Como administrador de inquilinos, es poco probable que sea la persona que va a personalizar el sitio, por lo que necesitará asignar propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y remarcar el sitio. También tienen la posibilidad de ocultar y mostrar contenido entregado a través del elemento Web de aprendizaje personalizado. También tendrán la capacidad de crear una lista de reproducción personalizada y asignarlas a subcategorías personalizadas.  
+Como administrador de inquilinos, es poco probable que seas la persona que personalización del sitio, por lo que tendrás que asignar propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y cambiar el nombre del sitio. También tienen la capacidad de ocultar y mostrar el contenido entregado a través del elemento web aprendizaje personalizado. También tendrán la capacidad de crear listas de reproducción personalizadas y asignarlas a subcategorías personalizadas.  
 
-1. En el menú **configuración** de SharePoint, haga clic en **permisos del sitio**.
-2. Haga clic en **Configuración avanzada de permisos**.
-3. Haga clic en **aprendizaje personalizado para los propietarios de Office 365**.
-4. Haga clic en **nuevo**  >  **Agregar usuarios a este grupo**, agregue a los usuarios que desea que sean propietarios y, a continuación, haga clic en **compartir**.
+1. En el menú Configuración **de** SharePoint, haga clic **en Permisos del sitio**.
+2. Haga **clic en Configuración avanzada de permisos**.
+3. Haga **clic en Aprendizaje personalizado para propietarios de Office 365.**
+4. Haga **clic en** Agregar nuevos usuarios a este grupo, agregue las personas que desea que sean  >  propietarios y, a continuación, haga clic en **Compartir**.
 
-8. Haga clic en la **siguiente** opción en la esquina superior derecha de la página para seguir el sitio.  
+8. Haga clic **en la opción** Siguiente en la esquina superior derecha de la página para seguir el sitio.  
 
 ### <a name="next-steps"></a>Siguientes pasos
-- Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento Web.
+- Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento web.

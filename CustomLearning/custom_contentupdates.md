@@ -5,12 +5,12 @@ title: Rutas de aprendizaje Actualizaciones de contenido
 ms.date: 3/30/2020
 description: Rutas de aprendizaje Actualizaciones de contenido
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573422"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163087"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways
 Las rutas de aprendizaje se esfuerzan por cumplir un ciclo de actualización de contenido trimestral. Para obtener más información sobre cómo se aplican las actualizaciones de contenido y cómo administrar las actualizaciones de [contenido,](custom_contentupdatesmanage.md)vea Manage Content Updates . 
@@ -373,12 +373,12 @@ Por solicitud, también hay algunos activos de Formularios nuevos.
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>Recursos de apoyo para sus recursos remotos 
 Puede usar las rutas de aprendizaje para crear una página de aterrizaje en el sitio de rutas de aprendizaje para admitir trabajadores remotos. También puede agregar el elemento web Caminos de aprendizaje a una página de soporte técnico existente en el sitio de rutas de aprendizaje y filtrar el elemento web para mostrar las listas de reproducción Trabajar de forma remota. Esta es una lista de algunos de los principales recursos de Microsoft para admitir el trabajo remoto en su organización. 
-- [Cómo implementar Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Reuniones y conferencias en Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Admitir trabajadores remotos con Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [Preguntas más frecuentes: Soporte para los trabajadores remotos](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Cómo implementar Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Reuniones y conferencias en Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Admitir trabajadores remotos con Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
+- [Preguntas más frecuentes: Soporte para los trabajadores remotos](/microsoftteams/faq-support-remote-workforce)
 - [Las 9 formas principales en que Microsoft TI está habilitando el trabajo remoto para sus empleados](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Aprendizaje de Microsoft Teams](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Aprendizaje de Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
 - [Educación: Microsoft Education Center](https://education.microsoft.com) 
 - [Educación: introducción al aprendizaje remoto](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -445,4 +445,3 @@ La subcategoría de contenido Sway se ha agregado con las siguientes listas de r
 - Crear formularios (un activo)
 - Crear informes (dos activos)
 - Proteger bases de datos (un activo)
-
