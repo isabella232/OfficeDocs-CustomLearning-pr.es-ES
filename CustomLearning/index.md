@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Información general sobre las rutas de aprendizaje de Microsoft 365
 ms.date: 9/24/2020
 description: Obtenga información sobre cómo las rutas de aprendizaje de Microsoft 365 pueden acelerar el uso y la adopción de servicios de Microsoft 365 en su organización. Las rutas de aprendizaje incluyen un elemento web personalizado de SharePoint Online y un sitio de aprendizaje de comunicaciones de SharePoint Online moderno que se aprovisiona fácilmente a su inquilino de Microsoft 365.
+audience: itpro
 ms.service: o365-solutions
-ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.topic: article
+ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573412"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749358"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Formas de aprendizaje de Microsoft 365 
 Las rutas de aprendizaje de Microsoft 365 son una solución de aprendizaje personalizable y a petición diseñada para aumentar el uso y la adopción de los servicios de Microsoft 365 en su organización.    

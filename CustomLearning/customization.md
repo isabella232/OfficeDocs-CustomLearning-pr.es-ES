@@ -1,52 +1,55 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Personalización de la experiencia de aprendizaje
+title: Personalizar la experiencia de aprendizaje
 ms.date: 02/10/2019
-description: Obtenga información sobre la variedad de personalizaciones disponibles con aprendizaje personalizado para Office 365
-ms.service: sharepoint online
-ms.openlocfilehash: 9869fa83625dfa1d9180e9e7561a40a1c5e3af53
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Obtenga información sobre la variedad de personalizaciones disponibles con Custom Learning para Office 365
+manager: alexb
+audience: itpro
+ms.topic: article
+ms.service: o365-administration
+ms.openlocfilehash: 5279c8afce9bc3c536b6af15bd4443b3a2e5594a
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233742"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749398"
 ---
-# <a name="customize-the-training-experience"></a>Personalización de la experiencia de aprendizaje
+# <a name="customize-the-training-experience"></a>Personalizar la experiencia de aprendizaje
 
-Se trata de una prueba de cuatro. De forma predeterminada, la experiencia del sitio y el elemento Web incluyen contenido para todos los servicios de Office 365 y Windows 10.  Si solo todos o algunos de estos servicios están disponibles en su empresa, puede ajustar el contenido que estará disponible para los usuarios.  
+Esta es una prueba cuatro. De forma predeterminada, tanto la experiencia del sitio como el elemento web incluyen contenido para todos los servicios de Office 365 y Windows 10.  Si solo todos o algunos de estos servicios están disponibles en su empresa, puede ajustar el contenido que está disponible para los usuarios.  
 
-Hay varios tipos de personalizaciones disponibles para los propietarios de este sitio. 
+Hay varios tipos de personalizaciones que están disponibles para los propietarios de este sitio. 
 
-- [Personalización de páginas web](#customizing-web-pages)
-- [Personalización de los servicios disponibles](#customize-available-services)
+- [Personalizar páginas web](#customizing-web-pages)
+- [Personalizar los servicios disponibles](#customize-available-services)
 - [Personalizar y compartir listas de reproducción](customplaylist.md)
 
 Algunas o todas estas personalizaciones se pueden completar antes de iniciar el sitio en la comunidad de usuarios.  
 
 > [!TIP]
-> Recopilar comentarios de los empleados y completar periódicamente personalizaciones adicionales.  Agregue listas de reproducción, las páginas web de destino a roles específicos o Active el nuevo contenido de aprendizaje al iniciar nuevos servicios. 
+> Recopila los comentarios de los empleados y complete periódicamente personalizaciones adicionales.  Agrega listas de reproducción, páginas web de destino a roles específicos o activa nuevo contenido de aprendizaje al iniciar nuevos servicios. 
 
 ## <a name="customizing-web-pages"></a>Personalización de páginas web
 
-Puede personalizar completamente el sitio web de aprendizaje personalizado. Si no está familiarizado con la creación de páginas en sitios modernos de SharePoint Online, le sugerimos que revise [el artículo personalizar el sitio de SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) en support.Office.com. 
+Puede personalizar completamente el sitio web de aprendizaje personalizado. Si no está familiarizado con la creación de páginas en sitios modernos de SharePoint Online, le recomendamos que revise Personalizar el artículo de sitio de [SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) en support.office.com. 
 
-### <a name="customize-the-ask-questions-and-get-help-page"></a>Personalizar la página **preguntas y obtener ayuda**
+### <a name="customize-the-ask-questions-and-get-help-page"></a>Personalizar la **página Hacer preguntas y obtener** ayuda
 
-Como punto de partida para personalizar el sitio, seleccione formular preguntas y obtener ayuda en la barra de menús y, a continuación, haga clic en el botón Editar de SharePoint y cambie las imágenes y los vínculos. 
+Como punto de partida para personalizar el sitio, seleccione Hacer preguntas y obtener ayuda en la barra de menús y, a continuación, haga clic en el botón Editar de SharePoint y cambie las imágenes y los vínculos. 
 
-![custom_ask.png](media/custom_ask.png)
+![Hacer preguntas y obtener la ventana de ayuda](media/custom_ask.png)
 
-## <a name="customize-available-services"></a>Personalización de los servicios disponibles
+## <a name="customize-available-services"></a>Personalizar los servicios disponibles
 
-1.  Vaya a la página Administración de aprendizaje personalizada en el sitio Web ![custom_admin.png](media/custom_admin.png)
-1. Seleccione **tecnología** para ver la lista completa de servicios incluidos en la solución.
+1.  Vaya a la página Administración de aprendizaje personalizado en el sitio web ![ Seleccionar administración de aprendizaje personalizada](media/custom_admin.png)
+1. Seleccione **Tecnología** para ver la lista completa de servicios que se incluyen en la solución
 1. Seleccione una tecnología y **haga clic en el símbolo del ojo** para ocultar este contenido.  Vuelva a hacer clic en el símbolo del ojo para mostrar el contenido de la experiencia. 
-![customiza](media/custom_techlist.png)
+![personalizado](media/custom_techlist.png)
 
-El mismo proceso puede repetirse en las categorías de listas de reproducción de la experiencia.  Simplemente, seleccione la opción categoría para mostrar u ocultar las listas de reproducción. 
+El mismo proceso se puede repetir para categorías de listas de reproducción dentro de la experiencia.  Simplemente selecciona la opción Categoría para mostrar u ocultar listas de reproducción. 
 
-![custom_cat.png](media/custom_cat.png)
+![Seleccionar categoría](media/custom_cat.png)
 
 ### <a name="next-steps"></a>Siguientes pasos
 

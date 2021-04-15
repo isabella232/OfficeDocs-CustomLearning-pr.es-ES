@@ -3,20 +3,23 @@ author: pkrebs
 ms.author: pkrebs
 title: Instalación manual de caminos de aprendizaje
 ms.date: 02/18/2019
+manager: bpardi
 description: Instalación manual de caminos de aprendizaje
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162847"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749318"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Instalación y configuración manual de Aprendizaje personalizado para Office 365
 
 El elemento web de aprendizaje personalizado de Microsoft se compila con la versión 1.7.1 de [SharePoint Framework.](/sharepoint/dev/spfx/sharepoint-framework-overview)
 
-Para instalar y configurar manualmente el elemento web y la colección de sitios, deberá completar los siguientes pasos:
+Para instalar y configurar manualmente el elemento web y la colección de sitios, deberá completar los pasos siguientes:
 
 1. Valide que ha cumplido todos los requisitos previos.
 1. Instale el archivo customlearning.sppkg en el Catálogo de aplicaciones de inquilinos de Office 365.
@@ -26,11 +29,11 @@ Para instalar y configurar manualmente el elemento web y la colección de sitios
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Debe haber configurado y configurado el Catálogo de aplicaciones para todo el espacio empresarial. Consulte [Configurar el inquilino de Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) y siga la sección Crear sitio de catálogo de aplicaciones. Si el Catálogo de aplicaciones de todo el espacio empresarial ya se ha aprovisionado, necesitarás acceso a una cuenta que tenga derechos para cargar un paquete en él para completar este proceso de configuración. Por lo general, se trata de una cuenta con el rol de administrador de SharePoint. Si una cuenta con ese rol no funciona, vaya al Centro de administración de SharePoint y busque los administradores de la colección de sitios para la colección de sitios del catálogo de aplicaciones e inicie sesión como uno de los administradores de la colección de sitios o agregue la cuenta de administrador de SharePoint que no pudo con los administradores de la colección de sitios. También necesitará acceso a una cuenta que sea administrador de inquilinos de SharePoint.
+Debe haber configurado y configurado el Catálogo de aplicaciones para todo el espacio empresarial. Consulte [Configurar el inquilino de Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) y siga la sección Crear sitio del catálogo de aplicaciones. Si el Catálogo de aplicaciones de todo el espacio empresarial ya se ha aprovisionado, necesitarás acceso a una cuenta que tenga derechos para cargar un paquete en él para completar este proceso de configuración. Por lo general, esta cuenta tiene el rol de administrador de SharePoint. Si una cuenta con ese rol no funciona, vaya al Centro de administración de SharePoint y busque los administradores de la colección de sitios para la colección de sitios del catálogo de aplicaciones e inicie sesión como uno de los administradores de la colección de sitios o agregue la cuenta de administrador de SharePoint que no pudo con los administradores de la colección de sitios. También necesitará acceso a una cuenta que sea administrador de inquilinos de SharePoint.
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Cargar el elemento web en el Catálogo de aplicaciones de inquilino
 
-Para configurar Custom Learning para Office 365, cargue el archivo customlearning.sppkg en el Catálogo de aplicaciones de todo el espacio empresarial e impleméntelo. Consulte [Use the App Catalog to make custom business apps available for your SharePoint Online environment](/sharepoint/use-app-catalog) para obtener instrucciones detalladas sobre cómo agregar una aplicación al catálogo de aplicaciones.
+Para configurar Custom Learning para Office 365, cargue el archivo customlearning.sppkg en el Catálogo de aplicaciones de todo el espacio empresarial e impleméntelo. Vea [Use the App Catalog to make custom business apps available for your SharePoint Online environment](/sharepoint/use-app-catalog) para obtener instrucciones detalladas sobre cómo agregar una aplicación al catálogo de aplicaciones.
 
 ## <a name="provisionidentify-modern-communication-site"></a>Aprovisionar e identificar sitio de comunicación moderna
 
@@ -44,11 +47,11 @@ Agregue Aprendizaje personalizado para Office 365 App a la colección de sitios.
 
 ## <a name="execute-powershell-configuration-script"></a>Ejecutar script de configuración de PowerShell
 
-Se incluye un script de PowerShell que deberá ejecutar para crear tres `CustomLearningConfiguration.ps1` propiedades [de inquilino](/sharepoint/dev/spfx/tenant-properties) que usa la solución. Además, el script crea [dos](/sharepoint/dev/spfx/web-parts/single-part-app-pages) páginas de aplicación de un solo elemento en la biblioteca de páginas del sitio para hospedar los elementos web de administrador y usuario en una ubicación conocida.
+Se incluye un script de PowerShell que deberá ejecutar para crear tres `CustomLearningConfiguration.ps1` propiedades [de inquilino](/sharepoint/dev/spfx/tenant-properties) que usa la solución. Además, el script crea dos [páginas](/sharepoint/dev/spfx/web-parts/single-part-app-pages) de aplicación de un solo elemento en la biblioteca de páginas del sitio para hospedar los elementos web de administrador y usuario en una ubicación conocida.
 
 ### <a name="disabling-telemetry-collection"></a>Deshabilitar la colección de telemetría
 
-Parte de esta solución incluye la opción de seguimiento de telemetría anonimizada, que de forma predeterminada está establecida en on. Si realiza una instalación manual y desea desactivar el seguimiento de telemetría, cambie el script para establecer la variable $optInTelemetry en `CustomlearningConfiguration.ps1` $false.
+Parte de esta solución incluye la suscripción de seguimiento de telemetría anonimizada, que de forma predeterminada está establecida en on. Si realiza una instalación manual y desea desactivar el seguimiento de telemetría, cambie el script para establecer la variable $optInTelemetry `CustomlearningConfiguration.ps1` en $false.
 
 Si no realiza una instalación manual y desea desactivar el seguimiento de telemetría, se ha incluido un script independiente que al ejecutarse deshabilitará el seguimiento `TelemetryOptOut.ps1` de telemetría.
 

@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: Actualizaciones de características de caminos de aprendizaje
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: Actualizaciones de características de caminos de aprendizaje
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573392"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755286"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>Actualizaciones de características de caminos de aprendizaje versión 4.0
 A continuación se incluyen actualizaciones de características para las rutas de aprendizaje, versión 4.0.  
@@ -48,7 +48,8 @@ Ahora, la compatibilidad multilingüe para las rutas de aprendizaje incluye neer
 - Japonés (Japón) 
 - Portugués (Brasil) 
 - Ruso (ruso) 
-- Español 
+- Español
+- Neerlandés 
 
 
 Para obtener más información, vea [Learning pathways multilingual overview](custom_overview.md). 
@@ -62,12 +63,9 @@ Para obtener más información, vea [Ordenar subcategorías y listas de reproduc
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selector de imágenes para subcategorías personalizadas de caminos de aprendizaje 
 Las rutas de aprendizaje ahora proporcionan un selector de imágenes fácil de usar para listas de reproducción y subcategorías personalizadas.  En versiones anteriores, podrías cambiar la imagen de una lista de reproducción, pero no una subcategoría.  
 
-Para más información, consulte:
+Para obtener más información, vea:
 - [Crear una lista de reproducción personalizada.](custom_createnewplaylist.md) 
 - [Crear una subcategoría](custom_createnewcat.md)
-
-> [!NOTE]
-> La compatibilidad con el idioma neerlandés no se incluirá en la próxima versión de compatibilidad con varios idiomas para las rutas de aprendizaje. Seguiremos evaluando nuevas opciones de idioma en el futuro.
 
 ## <a name="november-2019-version-30-feature-updates"></a>Actualizaciones de características de la versión 3.0 de noviembre de 2019
 Basándose en gran medida en los comentarios de los clientes, se han agregado las siguientes nuevas características a las rutas de aprendizaje de Microsoft 365 versión 3.0.

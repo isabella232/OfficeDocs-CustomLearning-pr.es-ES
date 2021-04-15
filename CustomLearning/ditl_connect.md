@@ -1,23 +1,25 @@
 ---
-title: 'Día de la vida con Office 365: conexión a través de la compañía'
-description: Pasos rápidos para estar preparados para el día a mano con Office 365
+title: 'Día en la vida con Office 365: conectarse a través de la empresa'
+description: Pasos para estar listo para su día laboral con Office 365
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 09cd657c1e5d1de4d794e03d36ee6c38ffbff6a0
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: ad08a3076eb4aa042a7eb2c65608f3a36a5b4513
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233662"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749418"
 ---
 # <a name="connecting-across-the-company"></a>Una conexión a través de toda la compañía
 
 ![Conectar objeto visual](media/ditl_crosscompany.png)
 
-Ha sido un día muy ocupado, pero antes de salir de la oficina, debe asegurarse de que todas las personas interesadas en su trabajo estén informadas sobre lo que está sucediendo. Una parte importante de su trabajo es asegurarse de que todas las partes interesadas (dentro y fuera de su equipo) entiendan sus objetivos, progreso y resultados.  
+Ha sido un día muy ocupado, pero antes de salir de la oficina, debe asegurarse de que todas las personas interesadas en su trabajo estén informadas sobre lo que está sucediendo. Asegurarse de que todas las partes interesadas(dentro y fuera de su equipo) comprendan sus objetivos, progreso y resultados es una parte importante de lo que hace.  
 
 ## <a name="tools"></a>Herramientas
 - SharePoint
@@ -29,7 +31,7 @@ Ha sido un día muy ocupado, pero antes de salir de la oficina, debe asegurarse 
 - Entender a su audiencia y sus métodos de comunicación
 - Los mensajes importante deben estar dirigidos a destinatarios según sus roles, por ejemplo, partes interesadas del proyecto, miembros del equipo o empleados
 - Elegir herramientas de comunicación que se complementen entre sí, por ejemplo, si redacta una publicación para su comunidad de Yammer, envíe una alerta por correo electrónico  
-- Redactar la información trabajando en coautoría con otras personas de su equipo
+- Coautor de la información con otras personas de su equipo
 - Publicar la información y enviar una notificación a todas las partes interesadas 
  
 ## <a name="select-your-communication-method"></a>Seleccionar su método de comunicación
@@ -39,19 +41,19 @@ Use la siguiente información para decidir cuál es la mejor forma de comunicars
 
 ![Publicaciones en las redes sociales](media/ditl_IT-Service-News.png)
 
-**SharePoint**: si desea ponerse en contacto con personas de fuera de su grupo de trabajo, considere la posibilidad de redactar un breve artículo sobre su estatuto y progreso que esté disponible en SharePoint Online a lo largo de lo que dure el proyecto. Use una página moderna en un sitio de grupo de SharePoint o, para programas más grandes, considere la posibilidad de crear un sitio de comunicación de SharePoint. 
+**SharePoint**: si desea ponerse en contacto con personas de fuera de su grupo de trabajo, considere la posibilidad de redactar un breve artículo sobre su estatuto y progreso que esté disponible en SharePoint Online a lo largo de lo que dure el proyecto. Use una página moderna en un sitio de grupo de SharePoint o para programas más grandes, considere la posibilidad de crear un sitio de comunicación de SharePoint. 
 
 Los sitios de comunicación de SharePoint ofrecen artículos de noticias que son visuales y flexibles y le permiten combinar imágenes, paneles y texto. La información estará disponible a través de cualquier explorador o a través de la aplicación móvil de SharePoint. Este video le dará una rápida introducción acerca de lo que estos potentes sitios pueden hacer. Para asegurarse de tener la mejor visibilidad posible, ancle el sitio de comunicación como una pestaña para el grupo de trabajo en Microsoft Teams.
 
 ![Ejemplo de un sitio de comunicación en SharePoint Online](media/ditl_Comm-Site.png)
 
-**Microsoft Teams**: si este amplio grupo de personas ya forma parte de su grupo de trabajo en Microsoft Teams, ¿por qué no publicar una nota en su Canal general con los hechos clave y un vínculo a una página wiki con la actualización más detallada?  Las páginas wiki las pueden crear varias personas y mantenerse durante lo que dure el equipo. 
+**Microsoft Teams**: si este amplio grupo de personas ya forma parte de su grupo de trabajo en Microsoft Teams, ¿por qué no publicar una nota en su Canal general con los hechos clave y un vínculo a una página wiki con la actualización más detallada?  Varias personas pueden coautorar las páginas wiki y persistir durante la vida de ese equipo. 
 
 ![captura de pantalla de una página wiki en Microsoft Teams](media/ditl_Teams-Wiki.png)
 
 ## <a name="tip-to-modernize-your-communication"></a>Sugerencia para modernizar la comunicación
 
-**Para los colegas que se enfocan más en el correo electrónico**: suscríbalos a las alertas de su grupo de Yammer o de la fuente de noticias de SharePoint.  Así recibirán una notificación en su correo electrónico cuando usted haya publicado nueva información y con un clic podrán llegar a la información de origen sin que usted tenga crear un correo electrónico diferente.  ¿Quiere ser chic?  Personalice las notificaciones con Microsoft Flow o PowerApps. Considere la posibilidad de hacer un almuerzo de trabajo para mostrarles a estos usuarios cómo usar Microsoft Teams, SharePoint o Yammer en sus dispositivos móviles. 
+**Para sus compañeros centrados en** el correo electrónico: suscríbalos a alertas de su grupo de Yammer o de la fuente de noticias de SharePoint.  Así recibirán una notificación en su correo electrónico cuando usted haya publicado nueva información y con un clic podrán llegar a la información de origen sin que usted tenga crear un correo electrónico diferente.  ¿Quiere ser chic?  Personalice las notificaciones con Microsoft Flow o PowerApps. Considere la posibilidad de tener un brownbag para mostrar a estos usuarios cómo usar Microsoft Teams, SharePoint o Yammer en sus dispositivos móviles. 
 
 **¡Que todos hablen!** Fomente la participación activando los comentarios en las páginas del sitio de comunicación de SharePoint.  Si usa Yammer, asegúrese de que los usuarios participen en su comunidad chequeando periódicamente para responder las preguntas que pueda. 
 
