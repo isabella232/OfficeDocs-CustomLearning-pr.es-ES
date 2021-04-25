@@ -1,23 +1,23 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Ocultar y mostrar listas de reproducción multilingües de caminos de aprendizaje
+title: Ocultar y mostrar listas de reproducción multilingües de rutas de aprendizaje
 ms.date: 10/27/2019
 description: Ocultar y mostrar listas de reproducción
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 7ea1ac68d1abb82ac4c356934037e558b39e1f36
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 9d0169c6b13930ebd66e6994d4782c91142d4a16
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234352"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999696"
 ---
-# <a name="hide-and-show-learning-pathways-multilingual-content"></a>Ocultar y Mostrar rutas de aprendizaje contenido multilingüe 
+# <a name="hide-and-show-learning-pathways-multilingual-content"></a>Ocultar y mostrar el contenido multilingüe de las rutas de aprendizaje 
 
-Para personalizar las rutas de aprendizaje para el entorno, puede ocultar las subcategorías y las listas de reproducción. Para ocultar contenido, use la página Administración de rutas de aprendizaje. La página de administración siempre está en el idioma predeterminado de inglés. Al ocultar y mostrar contenido, la configuración se aplica a todos los idiomas admitidos. No se requiere trabajo de traducción. 
+Para adaptar las rutas de aprendizaje a su entorno, puede ocultar subcategorías y listas de reproducción. Para ocultar el contenido, use la página Administración de caminos de aprendizaje. La página Administración siempre está en el idioma predeterminado de inglés. Al ocultar y mostrar contenido, la configuración se aplica a todos los idiomas admitidos. No se requiere ningún trabajo de traducción. 
 
-- Para obtener más información sobre cómo ocultar y mostrar contenido, vea ocultar y mostrar subcategorías y ocultar y mostrar listas de reproducción. 
+- Para obtener más información sobre cómo ocultar y mostrar contenido, consulta Ocultar y mostrar subcategorías y Ocultar y mostrar listas de reproducción. 
 
 
 

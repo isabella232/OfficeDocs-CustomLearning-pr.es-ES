@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Aprovisionar el sitio de aprendizaje personalizado
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de aprendizaje personalizado para Office 365 a través del motor de aprovisionamiento de SharePoint
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162927"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000326"
 ---
 # <a name="provision-custom-learning"></a>Aprovisionar aprendizaje personalizado
 
@@ -27,26 +30,22 @@ Para configurar correctamente aprendizaje personalizado con el servicio de aprov
 ### <a name="to-provision-custom-learning"></a>Para aprovisionar aprendizaje personalizado
 
 1. Vaya a e inicie sesión desde la esquina superior http://provisioning.sharepointpnp.com derecha de la página principal.   Inicie sesión con las credenciales del inquilino de destino donde tiene previsto instalar la plantilla de sitio.
-
-![pnphome.png](media/inst_signin.png)
+![Página principal del servicio de aprovisionamiento.](media/inst_signin.png)
 
 2. Desactive el **consentimiento en nombre de su organización** y seleccione **Aceptar**.
-
-![en ](media/inst_perms.png)
+![Pantalla de consentimiento](media/inst_perms.png)
 
 3. Seleccione **Aprendizaje personalizado para Office 365** en la galería de soluciones.
+![Pantalla donde selecciona Aprendizaje personalizado para Office 365.](media/inst_select.png)
 
-![en ](media/inst_select.png)
-
-4. En la página principal de la solución, **seleccione Agregar a su inquilino**
-
-![inst_select.png](media/inst_add.png)
+4. En la página principal de la solución, seleccione **Agregar a la pantalla de** inquilino donde seleccione Agregar a su espacio 
+ ![ empresarial.](media/inst_add.png)
 
 5. Rellene los campos de la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, escriba la dirección de correo electrónico en la que desea obtener notificaciones sobre el proceso de aprovisionamiento y la dirección URL de destino del sitio al que se aprovisionará.  
-> [!NOTE]
-> Haga que la dirección URL de destino del sitio sea algo descriptivo para sus empleados, como "/sites/MyTraining" o "/teams/LearnOffice365".
+   > [!NOTE]
+   > Haga que la dirección URL de destino del sitio sea algo descriptivo para sus empleados, como "/sites/MyTraining" o "/teams/LearnOffice365".
 
-![inst_options.png](media/inst_options.png)
+   ![Pantalla en la que se proporcionan detalles de aprovisionamiento.](media/inst_options.png)
 
 6. Seleccione **Aprovisionar** cuando esté listo para instalar Aprendizaje personalizado en el entorno de inquilino.  El proceso de aprovisionamiento tardará 15 minutos como máximo. Recibirá una notificación por correo electrónico (en la dirección que haya introducido en la página de aprovisionamiento para recibir notificaciones) cuando el sitio esté preparado para el acceso.
 
@@ -66,6 +65,3 @@ Como administrador de inquilinos, es poco probable que seas la persona que perso
 4. Haga **clic en** Agregar nuevos usuarios a este grupo, agregue las personas que desea que sean  >  propietarios y, a continuación, haga clic en **Compartir**.
 
 8. Haga clic **en la opción** Siguiente en la esquina superior derecha de la página para seguir el sitio.  
-
-### <a name="next-steps"></a>Siguientes pasos
-- Explore el [contenido predeterminado](sitecontent.md) incluido en el elemento web.

@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Guía de integración de socios
 ms.date: 3/9/2019
 description: Guía de incorporación de partners para caminos de aprendizaje de Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163037"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999426"
 ---
 # <a name="partner-onboarding-guide"></a>Guía de integración de socios
 Para empezar con las rutas de aprendizaje, siga los tres pasos descritos a continuación. Con los tres pasos, puedes crear una demostración atractiva que puedas usar para atraer presentaciones con clientes. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![El gráfico ilustra el proceso de incorporación de cinco pasos.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Crear un entorno de demostración de Microsoft 365
 Puede usar demos.microsoft.com para crear un entorno de demostración donde pueda aprovisionar el servicio, validarlo y usarlo para presentar rutas de aprendizaje a los clientes. Todos los partners tienen acceso https://demos.microsoft.com a estos fines. Puede usar la Guía demos.microsoft.com **introducción si** es nuevo en el entorno de demostración.

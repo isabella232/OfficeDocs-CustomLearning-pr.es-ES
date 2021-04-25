@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 'Recursos de apoyo para sus recursos remotos '
 ms.date: 3/31/2020
 description: 'Recursos de apoyo para sus recursos remotos '
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163017"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999416"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>Recursos de apoyo para sus recursos remotos 
 En respuesta al brote de Covid-19, la actualización de contenido de abril de 2020 proporciona listas de reproducción de aprendizaje y recursos centrados en habilitar el trabajo remoto en su organización. Hemos agregado un nuevo conjunto de listas de reproducción de Trabajo remoto, hemos actualizado significativamente el contenido de Microsoft Teams, especialmente para reuniones de Teams, y hemos agregado un nuevo conjunto de listas de reproducción de Office para web. 

@@ -1,24 +1,24 @@
 ---
-title: 'Procedimientos recomendados para el programa campeón: Únase al programa de Office 365 Champions'
-description: Impulsar la adopción de Office 365 con los procedimientos recomendados del programa campeón
+title: 'Procedimientos recomendados del programa champion: unirse al programa Campeones de Office 365'
+description: Impulsar la adopción de Office 365 con nuestros procedimientos recomendados del Programa de campeones
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 70ecd8c6c080c90b6de12694a57de4360c91ab38
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 159d2ce3a5e34b69716696673e841add23e754f5
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233432"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999916"
 ---
-# <a name="office-365-champions-program"></a>Programa de Office 365 Champions 
+# <a name="office-365-champions-program"></a>Programa de campeones de Office 365 
 
-![hacer que la diferencia se convierta en un campeón](media/makeadifference.png)
+![hacer una diferencia convertirse en un campeón](media/makeadifference.png)
 
-Microsoft ofrece un programa gratuito de Office 365 Champions para apoyar el rol de experto en todo el mundo.  Este programa proporciona una comunidad en línea, llamadas mensuales a la comunidad y la adopción de contenido en una variedad de servicios en Office 365.
+Microsoft proporciona un programa gratuito de Office 365 Champions para admitir el rol De campeones en todo el mundo.  Este programa proporciona una comunidad en línea, llamadas mensuales a la comunidad y contenido que impulsa la adopción en una variedad de servicios en Office 365.
 
-Este programa está abierto para todos los usuarios.  Se recomienda que, como mínimo, un usuario que ejecute un programa de experto en su organización se convierta en un miembro para obtener acceso a los materiales de formación de los expertos que se puedan usar en su propio programa. 
+Este programa está abierto a todos los usuarios.  Se recomienda que, como mínimo, cualquier persona que ejecute un programa Champion en su organización se convierta en miembro para obtener acceso a los materiales de aprendizaje de Champion que se pueden usar en su propio programa. 
 
-Regístrese hoy para formar parte de la comunidad mundial en https://aka.ms/O365Champions  
+Regístrate hoy para formar parte de la comunidad mundial en https://aka.ms/O365Champions  

@@ -1,28 +1,28 @@
 ---
-title: 'Procedimientos recomendados para el programa campeón: Guía para la adopción de usuarios finales de Microsoft 365'
-description: Impulsar la adopción de Office 365 con los procedimientos recomendados del programa campeón
+title: 'Procedimientos recomendados del programa Champion: Guía de adopción de usuarios finales de Microsoft 365'
+description: Impulsar la adopción de Office 365 con nuestros procedimientos recomendados del Programa de campeones
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 96c8588f6600ed3cfb5e6a3945b5c04540797ad3
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: f158dece60fef9e91bf16e8594d8b3b3ed2af6e8
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233452"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999926"
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Guía de adopción de Microsoft para usuarios finales de 365
+# <a name="microsoft-365-end-user-adoption-guide"></a>Guía de adopción de usuarios finales de Microsoft 365
 
 ![Guía de adopción de Microsoft 365](media/m365euguide.png)
 
-Para obtener más información sobre este tema, use la [Guía de adopción del usuario final de Microsoft 365](https://aka.ms/adoptionguide). Esta guía presenta los pasos para impulsar la adopción por parte del usuario final en las siguientes áreas clave:
+Para obtener más información sobre este tema, use la Guía de adopción de [usuarios finales de Microsoft 365](https://aka.ms/adoptionguide). En esta guía se indican los pasos para impulsar la adopción de usuarios finales en las siguientes áreas clave:
 
-- Las partes interesadas
+- Partes interesadas
 - Escenarios
 - Reconocimiento
 - Aprendizaje 
-- Planeación, implementación y administración de cambios
+- Planear, implementar y administrar cambios
 - 
 - Actualizamos esta guía con frecuencia para incorporar nueva información.

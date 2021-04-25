@@ -3,23 +3,26 @@ author: pkrebs
 ms.author: pkrebs
 title: Búsqueda
 ms.date: 02/10/2019
-description: Búsqueda en caminos de aprendizaje de Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Buscar en caminos de aprendizaje de Microsoft 365
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 3322ee9a4a659d15fdfbd9f05b5bb0e2f85e430c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234032"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999326"
 ---
-# <a name="search-for-microsoft-365-learning-pathways-content"></a>Búsqueda de contenido de caminos de aprendizaje de Microsoft 365
+# <a name="search-for-microsoft-365-learning-pathways-content"></a>Buscar contenido de rutas de aprendizaje de Microsoft 365
 
-Los caminos de aprendizaje de Microsoft 365 permiten buscar contenido por subcategoría, lista de reproducción o activo. 
+Las rutas de aprendizaje de Microsoft 365 ofrecen la capacidad de buscar contenido por subcategoría, lista de reproducción o activo. 
 
 > [!TIP]
-> La búsqueda de caminos de aprendizaje de Microsoft 365 se limita al aprendizaje del contenido de rutas, incluido el contenido proporcionado por Microsoft y cualquier contenido agregado a listas de reproducción o subcategorías personalizadas. Las páginas de SharePoint que no están en una lista de reproducción de rutas de aprendizaje no se incluyen en los resultados de la búsqueda.     
+> Rutas de aprendizaje de Microsoft 365 La búsqueda está en el ámbito del contenido de las rutas de aprendizaje, incluido el contenido proporcionado por Microsoft y cualquier contenido agregado a listas de reproducción o subcategorías personalizadas. Las páginas de SharePoint que no están en una lista de reproducción de caminos de aprendizaje no se incluyen en los resultados de búsqueda.     
 
-- Haga clic en el icono de **búsqueda** y escriba una frase de búsqueda. 
+- Haga clic **en el icono** Buscar y escriba una frase de búsqueda. 
 
-![cg-search.png](media/cg-search.png)
+![Página web de búsqueda.](media/cg-search.png)
 

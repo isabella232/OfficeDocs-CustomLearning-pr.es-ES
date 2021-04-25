@@ -1,29 +1,29 @@
 ---
-title: Procedimientos recomendados para el programa Champion
-description: ¿Por qué Drive adopta?
+title: Procedimientos recomendados del programa Champion
+description: ¿Por qué impulsar la adopción?
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: fa20a40737159f97160526f61e73734923b5060d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 8ddc1d1992a539b10d24f1503901ae76beb6eb97
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233342"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999896"
 ---
-# <a name="why-put-effort-into-driving-adoption"></a>¿Por qué dedicar esfuerzos a conducir la adopción?  
+# <a name="why-put-effort-into-driving-adoption"></a>¿Por qué hacer un esfuerzo para impulsar la adopción?  
 
-Lo más interesante de su empresa y sus empleados es sacar el máximo partido de su inversión en Office 365.  Sus empleados pueden simplificar su productividad y los datos pueden ser seguros y seguros dentro de nuestros servicios.  Pero los días de "lo compilan y van a venir". han desaparecido durante mucho tiempo.  Es importante mostrar a los empleados para que requieran el modo en que pueden sacar el máximo partido de estos servicios.
+Es lo mejor para su empresa y sus empleados sacar el máximo partido de su inversión en Office 365.  Sus empleados pueden simplificar su productividad y sus datos pueden ser seguros y seguros dentro de nuestros servicios.  Pero los días de "Build it and they will come". han desaparecido hace mucho tiempo.  Es importante mostrar a los empleados de formas atractivas cómo pueden sacar el máximo partido a estos servicios.
 
-Los programas de adopción pueden aumentar la alfabetización digital de sus empleados, simplificar su experiencia de productividad y llevar a un mejor resultado empresarial. Al reforzar a los empleados, el objetivo es que su organización pueda alcanzar sus objetivos. 
+Los programas de adopción pueden aumentar la alfabetización digital de sus empleados, simplificar su experiencia de productividad y dar lugar a mejores resultados empresariales. La habilitación de los empleados en última instancia permitirá a la organización alcanzar sus objetivos. 
 
-## <a name="interview-adoption-best-practices"></a>Entrevista: procedimientos recomendados para la adopción
+## <a name="interview-adoption-best-practices"></a>Entrevista: Procedimientos recomendados de adopción
 
-Vea este vídeo para obtener información sobre por qué invertir en la adopción por parte del usuario.  
+Vea este vídeo para obtener información sobre por qué invertir en la adopción de usuarios.  
 
-**Adopte &** adoptar: debatiendo la adopción de Microsoft teams & Office 365 con [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), líder del [programa de Office 365 Champions](https://aka.ms/O365Champions) y [Darryl Webster](https://webster.net.nz/), MVP de Microsoft y experto en la materia de colaboración. 
+**Adopt & Embrace:** Discussing Adoption for Microsoft Teams & Office 365 with [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), leader of the [Office 365 Champions program](https://aka.ms/O365Champions) and [Darryl Webster](https://webster.net.nz/), Microsoft MVP and collaboration subject matter expert. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

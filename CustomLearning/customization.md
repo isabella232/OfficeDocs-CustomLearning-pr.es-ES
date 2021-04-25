@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Personalizar la experiencia de aprendizaje
 ms.date: 02/10/2019
 description: Obtenga información sobre la variedad de personalizaciones disponibles con Custom Learning para Office 365
+ms.service: o365-administration
 manager: alexb
 audience: itpro
 ms.topic: article
-ms.service: o365-administration
-ms.openlocfilehash: 5279c8afce9bc3c536b6af15bd4443b3a2e5594a
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: 1aabdd7ea27fb8df74ca8043e508a2d272000737
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749398"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000196"
 ---
 # <a name="customize-the-training-experience"></a>Personalizar la experiencia de aprendizaje
 
@@ -51,7 +51,7 @@ El mismo proceso se puede repetir para categorías de listas de reproducción de
 
 ![Seleccionar categoría](media/custom_cat.png)
 
-### <a name="next-steps"></a>Siguientes pasos
+### <a name="next-steps"></a>Pasos siguientes
 
 - [Personalizar y compartir listas de reproducción](customplaylist.md)
 - [Fomentar el uso](driveadoption.md) 

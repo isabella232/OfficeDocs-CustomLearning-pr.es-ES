@@ -1,70 +1,73 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
+title: Actualizar las rutas de aprendizaje para el soporte multilingüe
 ms.date: 05/20/2019
-description: Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
+description: Actualizar las rutas de aprendizaje para el soporte multilingüe
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 9344cd91e5b6718b1eb0e73e25fdc8311afed793
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233832"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000246"
 ---
-# <a name="update-learning-pathways-for-multilingual-support"></a>Actualización de las rutas de aprendizaje para la compatibilidad multilingüe
-Si tiene un sitio de caminos de aprendizaje existente, puede actualizarlo para la compatibilidad multilingüe. Para actualizar las rutas de aprendizaje a la versión multilingüe de 4,0, cargue el paquete de elementos Web, customlearning. sppkg, en el catálogo de aplicaciones del espacio empresarial de SharePoint. Al actualizar rutas de aprendizaje:  
+# <a name="update-learning-pathways-for-multilingual-support"></a>Actualizar las rutas de aprendizaje para el soporte multilingüe
+Si tiene un sitio de Learning Pathways existente, puede actualizarlo para soporte multilingüe. Para actualizar las rutas de aprendizaje a la versión multilingüe 4.0, cargue el paquete de elementos web, customlearning.sppkg, en el Catálogo de aplicaciones del espacio empresarial de SharePoint. Al actualizar las rutas de aprendizaje:  
 
-- Se mantienen todos los activos y listas de reproducción personalizados creados anteriormente
+- Se mantienen todas las listas de reproducción y activos personalizados creados anteriormente
 - Se mantiene la configuración para ocultar o mostrar contenido
-- La plantilla de SharePoint de rutas de aprendizaje permanece sin cambios
-- Las páginas del sitio de las rutas de aprendizaje no se traducen. Este trabajo debe realizarse manualmente
+- La plantilla de SharePoint caminos de aprendizaje no cambia
+- Las páginas del sitio de caminos de aprendizaje no se traducen. Este trabajo debe realizarse manualmente
 
-## <a name="read-the-learning-pathways-multilingual-overview"></a>Leer la introducción multilingüe de las rutas de aprendizaje
-Para obtener información sobre cómo funciona la compatibilidad multilingüe para las rutas de aprendizaje, lea la [Introducción multilingüe](custom_overview_ml.md)de las rutas de aprendizaje. 
+## <a name="read-the-learning-pathways-multilingual-overview"></a>Leer información general multilingüe sobre las rutas de aprendizaje
+Para obtener información sobre cómo funciona el soporte multilingüe para las rutas de aprendizaje, lea la introducción multilingüe Caminos [de aprendizaje](custom_overview_ml.md)). 
 
-## <a name="prerequisites-to-update"></a>Requisitos previos para la actualización
-Antes de actualizar las rutas de aprendizaje, es necesario cumplir los siguientes requisitos previos:
-- La persona que actualice las rutas de aprendizaje debe ser un propietario de la colección de sitios del catálogo de aplicaciones del espacio empresarial. Si la persona que aprovisiona las rutas de aprendizaje no es un propietario de la colección de sitios del catálogo de aplicaciones, [complete estas instrucciones](addappadmin.md) y continúe. 
+## <a name="prerequisites-to-update"></a>Requisitos previos para actualizar
+Antes de actualizar las rutas de aprendizaje, debe cumplirse el siguiente requisito previo:
+- La persona que actualiza las rutas de aprendizaje debe ser el propietario de una colección de sitios del catálogo de aplicaciones del inquilino. Si la persona que aprovisiona las rutas de aprendizaje no es el propietario de una colección de sitios del Catálogo de aplicaciones, [complete estas instrucciones](addappadmin.md) y continúe. 
 
 ## <a name="set-language-settings"></a>Establecer la configuración de idioma 
-Antes de actualizar las rutas de aprendizaje, establezca la configuración de idioma del sitio. Para habilitar la compatibilidad multilingüe con el sitio de caminos de aprendizaje, puede configurar las **páginas y noticias de habilitar para que se traduzcan en varios idiomas** y, a **continuación, agregar**los idiomas que desea que sean compatibles con el sitio.
-1.  Desde el sitio de caminos de aprendizaje, seleccione **configuración** de la parte superior derecha y, a continuación, seleccione **información del sitio**.
-2.  En la parte inferior del panel de información del sitio, seleccione **ver toda la configuración del sitio**.
-3.  En **Administración del sitio**, seleccione **configuración de idioma**.
-4.  En **Habilitar páginas y noticias para que se traduzcan a varios idiomas**, establezca el modificador para alternar. 
-- Para un sitio de multiligual, deslice el botón de alternancia a **activado**y, a continuación, vaya a la sección agregar idiomas. 
-- Para un sitio de solo inglés, deslice el botón de alternancia a **desactivado**.
+Antes de actualizar las rutas de aprendizaje, establezca la configuración del idioma del sitio. Para habilitar la compatibilidad multilingüe para el sitio de rutas de aprendizaje, puede establecer habilitar páginas y noticias para que se traduzcan a varios **idiomas** en **On** y, a continuación, agregar los idiomas que desea admitir para el sitio.
+1.  En el sitio Caminos de aprendizaje, seleccione **Configuración** en la parte superior derecha y, a continuación, seleccione **Información del sitio**.
+2.  En la parte inferior del panel de información del sitio, seleccione **Ver toda la configuración del sitio**.
+3.  En **Administración del sitio**, seleccione Configuración de **idioma**.
+4.  En **Habilitar que las páginas y las noticias se traduzcan a varios idiomas,** establece el modificador de alternancia. 
+- Para un sitio multiligual, deslice el botón de alternancia a **On** y, a continuación, vaya a la sección Agregar idiomas. 
+- Para un sitio solo en inglés, deslice el botón de alternancia a **Desactivado**.
 
 ### <a name="add-languages"></a>Agregar idiomas
-Las rutas de aprendizaje admiten nueve idiomas, solo debe agregar los idiomas que necesite. En los ejemplos que se usan en esta documentación, se agregará italiano. 
-- En **Agregar o quitar idiomas del sitio**, escriba el nombre de un idioma en **seleccionar o escriba un idioma**o seleccione un idioma de la lista desplegable. Puede repetir este paso para agregar varios idiomas. Puede Agregar o quitar idiomas de su sitio en cualquier momento volviendo a esta página.
+Las rutas de aprendizaje admiten nueve idiomas, solo debes agregar los idiomas que necesites. En los ejemplos usados en esta documentación, se agregará italiano. 
+- En **Agregar o quitar idiomas de sitio,** empiece a escribir un nombre de idioma en Seleccionar o **escribir** un idioma, o elija un idioma en la lista desplegable. Puede repetir este paso para agregar varios idiomas. Puede agregar o quitar idiomas de su sitio en cualquier momento si vuelve a esta página.
  
 ### <a name="assign-translators"></a>Asignar traductores
-Al definir la configuración de idioma para las rutas de aprendizaje, puede asignar traductores. Los traductores deben tener configurado un perfil de idioma extranjero. Para obtener más información acerca de los perfiles de idiomas externos, consulte [crear sitios de comunicación multilingües, páginas y noticias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).  
-- Para un idioma compatible, haga clic en **seleccionar o escriba un traductor** y, a continuación, seleccione un traductor. 
+Al definir la configuración de idioma para las rutas de aprendizaje, puede asignar traductores. Los traductores deben tener configurado un perfil de idioma extranjero. Para obtener más información acerca de los perfiles de idioma extranjero, vea [Crear sitios de comunicación multilingües, páginas y noticias.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)  
+- Para un idioma compatible, haga clic **en Seleccionar o escribir un traductor** y, a continuación, seleccione un traductor. 
 
-## <a name="update-the-learning-pathways-web-part-package"></a>Actualizar el paquete de elementos Web de rutas de aprendizaje
-En este paso, carga el elemento Web caminos de aprendizaje 4,0 en el catálogo de aplicaciones de SharePoint y, a continuación, navega a la página de administración de caminos de aprendizaje para iniciar el proceso de actualización.
+## <a name="update-the-learning-pathways-web-part-package"></a>Actualizar el paquete de elementos web caminos de aprendizaje
+En este paso, cargará el elemento web caminos de aprendizaje 4.0 en el Catálogo de aplicaciones de SharePoint y, a continuación, navegará a la página Administración de caminos de aprendizaje para iniciar el proceso de actualización.
 
-### <a name="upload-the-web-part-package"></a>Cargar el paquete de elementos Web
-1.  Vaya al [repositorio de aprendizaje personalizado de github](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), seleccione **customlearning. sppkg** y, a continuación, descárguelo en una unidad local de su PC. 
+### <a name="upload-the-web-part-package"></a>Cargar el paquete de elementos web
+1.  Vaya al repositorio de aprendizaje personalizado de [GitHub,](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)seleccione **customlearning.sppkg** y, a continuación, descárelo en una unidad local del equipo. 
 2.  Si aún no ha iniciado sesión, inicie sesión en su espacio empresarial con una cuenta de administrador de espacios empresariales o de administrador de la colección de sitios. 
-3.  Haga clic en **Administración**,  >  **Mostrar todas**  >  **SharePoint**  >  **las características más**de SharePoint. 
-4.  En **aplicaciones**, haga clic en **abrir**. 
-5.  Haga clic en **Catálogo**  >  **de aplicaciones distribuir aplicaciones para SharePoint**. 
-6.  Haga clic en **cargar**  >  **archivos de selección**. 
-7.  Seleccione el archivo **customlearning. sppkg** que ha descargado y haga clic en **Aceptar**  >  **implementar**. 
+3.  Haga **clic en Administrador** Mostrar  >  **todas** las características de  >  **SharePoint**  >  **Más**. 
+4.  En **Aplicaciones,** haga clic **en Abrir**. 
+5.  Haga **clic en Catálogo de aplicaciones** Distribuir aplicaciones para  >  **SharePoint**. 
+6.  Haga clic **en Cargar**  >  **Elegir archivos**. 
+7.  Seleccione el **archivo customlearning.sppkg** que descargó y haga clic **en Aceptar**  >  **implementar**. 
 
 ### <a name="complete-the-update"></a>Completar la actualización
-1.  Desde el sitio de caminos de aprendizaje, seleccione **aprendizaje de rutas de aprendizaje** en el menú de **Inicio** . 
-2.  Verá un mensaje en el que se le preguntará si desea actualizar. 
+1.  En el sitio Caminos de aprendizaje, seleccione Administración de caminos **de aprendizaje** en el **menú** Inicio. 
+2.  Verá un mensaje que le preguntará si desea actualizar. 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  Haga clic en **Inicio**. 
-4. Una vez finalizada la actualización, haga clic en **cerrar**. 
+3.  Haga clic en **Iniciar**. 
+4. Una vez completada la actualización, haga clic **en Cerrar**. 
 
 ### <a name="next-steps"></a>Siguientes pasos
-- Explore el [contenido predeterminado](custom_exploresite.md) proporcionado en el sitio y el elemento Web.
-- Para obtener más información acerca de la conversión de páginas del sitio, consulte [translate site pages](custom_translate_page_ml.md). 
+- Explore el [contenido predeterminado proporcionado](custom_exploresite.md) en el sitio y el elemento web.
+- Para obtener más información acerca de la traducción de páginas de sitio, vea [Translate site pages](custom_translate_page_ml.md). 
 

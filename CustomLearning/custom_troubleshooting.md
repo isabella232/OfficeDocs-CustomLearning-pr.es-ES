@@ -3,64 +3,64 @@ author: pkrebs
 ms.author: pkrebs
 title: Solución de problemas de las formas de aprendizaje de Microsoft 365
 ms.date: 02/10/2019
-description: Aprenda a solucionar problemas relacionados con los caminos de aprendizaje de Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 8d8b418c7a4b2c025391eb4527af86b02738c532
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Obtenga información sobre cómo solucionar problemas de las rutas de aprendizaje de Microsoft 365
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 7190688d574042c8a1b8dfb67c8b246dfbf8c927
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233872"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000306"
 ---
-# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Solución de problemas de caminos de aprendizaje de Microsoft 365
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Solucionar problemas de las rutas de aprendizaje de Microsoft 365
 
-A continuación, se indican sugerencias de solución de problemas para los problemas que pueden producirse con las rutas de aprendizaje de Microsoft 365 o el servicio de aprovisionamiento de SharePoint Online.
+Estas son sugerencias para solucionar problemas que pueden producirse con las rutas de aprendizaje de Microsoft 365 o el servicio de aprovisionamiento de SharePoint Online.
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>Cómo saber si tiene permisos de administrador de inquilinos
 
-Iniciar sesión en el servicio de aprovisionamiento de SharePoint Online y aprovisionar el aprendizaje personalizado requiere permisos de administrador de inquilinos. Si tiene problemas de inicio de sesión con el servicio de aprovisionamiento de SharePoint Online, asegúrese de que se le ha asignado el rol de administrador global. La solución de aprendizaje personalizada requiere permisos de administrador de inquilinos, que de lo contrario se conoce como rol de administrador global de Office 365. Siga estos pasos para determinar si se le ha asignado el rol de administrador global.
+Iniciar sesión en el servicio de aprovisionamiento de SharePoint Online y el aprovisionamiento de Aprendizaje personalizado requiere permisos de administrador de inquilinos. Si tiene problemas de inicio de sesión con el servicio de aprovisionamiento de SharePoint Online, asegúrese de que se le ha asignado el rol de administrador global. La solución de aprendizaje personalizado requiere permisos de administrador de inquilinos, también conocido como rol de administrador global de Office 365. Este es el modo de determinar si se le asignó el rol Administrador global.
 
 1.  Inicie sesión en Office.com.
-2.  Haga clic en **Administración**
-3.  En **usuarios**, seleccione **usuarios activos** .
+2.  Haga clic **en Administrador**
+3.  En **Usuarios**, seleccione **Usuarios activos**
 4.  Buscar su nombre
-5.  Haga clic en su nombre en los resultados de búsqueda. Debe ver el administrador global de su rol.
+5.  Haga clic en su nombre en Resultados de búsqueda. Debería ver El administrador global de su rol.
+![Página de ejemplo que enumera el rol junto con licencias, pertenencias a grupos y otra información.](media/cg-globaladminrole.png)
 
-![cg-globaladminrole.png](media/cg-globaladminrole.png)
+### <a name="if-you-dont-have-the-global-administrator-role"></a>Si no tiene el rol de administrador global
+- Busque un administrador global en su organización y haga que esa persona inicie sesión en el servicio o que le asigne el rol de administrador global.
 
-### <a name="if-you-dont-have-the-global-administrator-role"></a>Si no tiene la función de administrador global
-- Busque un administrador global de la organización y pídale que inicie sesión en el servicio o pídale que le asigne el rol de administrador global.
+## <a name="tenant-app-catalog-troubleshooting"></a>Solución de problemas del Catálogo de aplicaciones de inquilino
+El aprendizaje personalizado requiere que se aprovisione un Catálogo de aplicaciones en el inquilino de destino. La creación de un catálogo de aplicaciones requiere permisos de administrador global. Estos son los pasos para solucionar problemas comunes del Catálogo de aplicaciones:
 
-## <a name="tenant-app-catalog-troubleshooting"></a>Solución de problemas del catálogo de aplicaciones del espacio empresarial
-El aprendizaje personalizado requiere que se aprovisione un catálogo de aplicaciones en el inquilino de destino. La creación de un catálogo de aplicaciones requiere permisos de administrador global. A continuación, se describen los pasos para solucionar problemas de catálogo de aplicaciones comunes:
+### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>Cómo saber si tienes un catálogo de aplicaciones de inquilino 
+Para empezar, asegúrese de que tiene permisos de administrador global. Consulta los pasos para los permisos de administrador de inquilinos anteriores.
 
-### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>Cómo saber si tiene un catálogo de aplicaciones del espacio empresarial 
-Para empezar, asegúrese de que tiene permisos de administrador global. Vea los pasos para los permisos de administrador de inquilinos más arriba.
+1. En Office 365, haga clic en **Administrador**, haga clic en la flecha expandir >, haga clic **en Mostrar todos** los centros de  >  **administración**  >  **de SharePoint**.
+2. Haga **clic en Classic Admin SharePoint Center**  >  **apps** App  >  **Catalog**.
+3. En **Aplicaciones,** debería ver un icono titulado **Distribuir aplicaciones para SharePoint**. Si ve el icono, tiene un Catálogo de aplicaciones de inquilinos. Vea la **sección Cómo asegurarse de que es una intercalación** de sitios... a continuación. Si no ves el icono, deberás crear un catálogo de aplicaciones de inquilino para tu inquilino. Consulta la **sección Cómo crear un catálogo de aplicaciones de** inquilino a continuación.
 
-1. En Office 365, haga clic en **Administrador**, haga clic en la flecha de expansión >, haga clic en **Mostrar todos los**  >  **centros de administración**  >  **SharePoint**.
-2. Haga clic en catálogo de aplicaciones de aplicaciones de **centro de administración clásica de SharePoint**  >  **apps**  >  **App Catalog**.
-3. En **aplicaciones**, debería ver un icono titulado **distribuir aplicaciones para SharePoint**. Si ve el icono, tiene un catálogo de aplicaciones del espacio empresarial. Vea la sección **Cómo asegurarse de que es un sitio colllection...** a continuación. Si no ve el icono, tendrá que crear un catálogo de aplicaciones del espacio empresarial para el inquilino. Vea la sección **Cómo crear un catálogo de aplicaciones del espacio empresarial** a continuación.
+### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>Cómo asegurarse de que es propietario de una colección de sitios en el Catálogo de aplicaciones de inquilinos 
+Para aprovisionar las rutas de aprendizaje de Microsoft 365, deberás ser propietario de una colección de sitios en el Catálogo de aplicaciones de inquilinos. Este es el modo de determinar si es un propietario.
 
-### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>Cómo garantizar que es el propietario de una colección de sitios en el catálogo de aplicaciones del espacio empresarial 
-Para aprovisionar los caminos de aprendizaje de Microsoft 365, tendrá que ser un propietario de la colección de sitios en el catálogo de aplicaciones del espacio empresarial. Esta es la manera de determinar si es propietario.
+1. En Office 365, haga clic en **Administrador**, haga clic en la flecha expandir >, haga clic **en Mostrar todos** los centros de  >  **administración**  >  **de SharePoint**.
+2. Haga **clic en Centro de Administración clásica de SharePoint** y, a continuación, seleccione el catálogo de **aplicaciones**.
+3. Seleccione **Propietario** y, a continuación, asegúrese de que es un propietario de la colección de sitios. Debería tener un aspecto parecido a este.
+![Página Administrar administradores.](media/cg-sitecollectionowner.png)
 
-1. En Office 365, haga clic en **Administrador**, haga clic en la flecha de expansión >, haga clic en **Mostrar todos los**  >  **centros de administración**  >  **SharePoint**.
-2. Haga clic en **centro de administración clásico de SharePoint**y, a continuación, seleccione el **Catálogo de aplicaciones**.
-3. Seleccione **propietario**y, a continuación, asegúrese de que es el propietario de la colección de sitios. Debe tener un aspecto similar a este.
- 
-![cg-sitecollectionowner.png](media/cg-sitecollectionowner.png)
-
-### <a name="how-to-create-a-tenant-app-catalog-if-one-doesnt-exists"></a>Procedimiento para crear un catálogo de aplicaciones del espacio empresarial si no existe ninguno 
+### <a name="how-to-create-a-tenant-app-catalog-if-one-doesnt-exists"></a>Cómo crear un Catálogo de aplicaciones de inquilinos si no existe uno 
 1. Inicie sesión en Office 365 con su cuenta de administrador de SharePoint Online.
 2. Haga clic en **Administrador**.
-3. En **centros de administración**, haga clic en **SharePoint**. 
-4. Haga clic en catálogo de aplicaciones de **aplicaciones**  >  **App Catalog**.
-5. Haga clic en **crear un nuevo sitio de catálogo de aplicaciones**y, a continuación, haga clic en **Aceptar**. 
-6.  Escriba la información para el catálogo de aplicaciones. Es posible que quiera incluir más de un administrador. A continuación, se muestra un ejemplo.  
+3. En **Centros de administración,** haga clic **en SharePoint**. 
+4. Haga clic **en Catálogo de**  >  **aplicaciones**.
+5. Haga **clic en Crear un nuevo sitio de catálogo de** aplicaciones y, a continuación, haga clic en **Aceptar**. 
+6.  Escribe la información del Catálogo de aplicaciones. Es posible que desee incluir más de un administrador. A continuación se muestra un ejemplo.  
+![Formulario para escribir información para un nuevo catálogo de aplicaciones.](media/cg-appcatalogfinish.png)
 
-![cg-appcatalogfinish.png](media/cg-appcatalogfinish.png)
-
-7.  Eso es todo. Ya ha terminado. Pero antes de pasar a aprovisionar el aprendizaje personalizado, debe esperar al menos 30 minutos para asegurarse de que la creación del catálogo de aplicaciones se ha completado. 
+7.  Eso es todo. Ya ha terminado. Pero antes de pasar al aprovisionamiento de Aprendizaje personalizado, debes esperar al menos 30 minutos para asegurarte de que la creación del Catálogo de aplicaciones se haya completado. 
 
 > [!IMPORTANT]
-> Espere al menos 30 minutos después de crear el catálogo de aplicaciones del espacio empresarial antes de aprovisionar aprendizaje personalizado. Esto garantiza que el proceso de aprovisionamiento del catálogo de aplicaciones se haya completado dentro de SharePoint. 
+> Espere al menos 30 minutos después de crear el Catálogo de aplicaciones de inquilino antes de aprovisionar Aprendizaje personalizado. Esto garantiza que el proceso de aprovisionamiento del Catálogo de aplicaciones esté completo en SharePoint. 

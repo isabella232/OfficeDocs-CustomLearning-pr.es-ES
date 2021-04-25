@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: Actualizaciones de características de caminos de aprendizaje
-ms.date: 4/13/2021
-description: Actualizaciones de características de caminos de aprendizaje
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755286"
----
+author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 4/13/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>Actualizaciones de características de caminos de aprendizaje versión 4.0
 A continuación se incluyen actualizaciones de características para las rutas de aprendizaje, versión 4.0.  
 
@@ -63,7 +52,7 @@ Para obtener más información, vea [Ordenar subcategorías y listas de reproduc
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selector de imágenes para subcategorías personalizadas de caminos de aprendizaje 
 Las rutas de aprendizaje ahora proporcionan un selector de imágenes fácil de usar para listas de reproducción y subcategorías personalizadas.  En versiones anteriores, podrías cambiar la imagen de una lista de reproducción, pero no una subcategoría.  
 
-Para obtener más información, vea:
+Para más información vea:
 - [Crear una lista de reproducción personalizada.](custom_createnewplaylist.md) 
 - [Crear una subcategoría](custom_createnewcat.md)
 

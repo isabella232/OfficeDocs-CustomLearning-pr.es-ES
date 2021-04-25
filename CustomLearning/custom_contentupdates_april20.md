@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Rutas de aprendizaje Actualizaciones de contenido en abril
 ms.date: 3/30/2020
 description: Rutas de aprendizaje Actualizaciones de contenido de abril de 2020
-ms.service: sharepoint online
-ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163067"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999136"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Actualizaciones de contenido de Microsoft 365 Learning Pathways para abril
 Las rutas de aprendizaje se esfuerzan por cumplir un ciclo de actualización de contenido trimestral. La siguiente lista de las actualizaciones de contenido de abril de 2020.
@@ -187,7 +187,7 @@ La subcategoría de contenido Sway se ha agregado con las siguientes listas de r
 - Agregar contenido a Sway (11 activos)
 - Personalizar Sway (5 activos)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Acceso
 - Acceso inicio rápido (4 activos)
 - Introducción a Access (3 activos)
 - Crear una base de datos de Access (2 activos)

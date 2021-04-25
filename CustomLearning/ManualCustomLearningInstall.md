@@ -5,15 +5,13 @@ title: Instalación manual de caminos de aprendizaje
 ms.date: 02/18/2019
 manager: bpardi
 description: Instalación manual de caminos de aprendizaje
-audience: itpro
-ms.service: o365-administration
-ms.topic: article
-ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.service: sharepoint-online
+ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749318"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999216"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Instalación y configuración manual de Aprendizaje personalizado para Office 365
 

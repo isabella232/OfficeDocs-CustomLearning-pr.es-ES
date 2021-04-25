@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Aprovisionar una nueva solución de caminos de aprendizaje
 ms.date: 02/10/2019
 description: Aprovisionar el sitio de rutas de aprendizaje de Microsoft 365 con el servicio de libreta de apariencias de Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bf260f41ea149a2344d1f09ba67d3e3a1d6e6180
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162917"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999446"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Aprovisionar una nueva solución de caminos de aprendizaje 
 Las organizaciones que no tienen las rutas de aprendizaje aprovisionadas en su inquilino pueden usar el servicio de libro de apariencias de SharePoint para agregar la solución de caminos de aprendizaje multilingüe. Con esta opción, la plantilla de SharePoint caminos de aprendizaje se traduce a nueve idiomas y se puede usar con un mínimo de modificación. 
@@ -45,10 +48,10 @@ Antes de aprovisionar rutas de aprendizaje, asegúrese de que la cuenta de admin
 El servicio de libreta de apariencias requiere estos permisos para crear el catálogo de aplicaciones de inquilino, instalar la aplicación en el catálogo de aplicaciones de inquilino y aprovisionar la plantilla de sitio. No hay ningún impacto general en el espacio empresarial. Estos permisos se usan explícitamente para la instalación de la solución. Debe aceptar estos permisos para continuar con la instalación.
 
 4. Rellene los campos de la página de información de aprovisionamiento según corresponda para su instalación. Como mínimo, debe escribir la dirección de correo electrónico en la que desea recibir notificaciones sobre el proceso de aprovisionamiento y el prefijo de la dirección URL del sitio que se aprovisionará.  
-> [!NOTE]
-> Haga que los empleados puedan usar la dirección URL de destino de manera fácil con nombres como "/sites/MyTraining" o "/teams/LearnMicrosoft365".
+   > [!NOTE]
+   > Haga que los empleados puedan usar la dirección URL de destino de manera fácil con nombres como "/sites/MyTraining" o "/teams/LearnMicrosoft365".
 
-![inst_options.png](media/inst_options.png)
+   ![La pantalla le pide que escriba información básica para la instalación.](media/inst_options.png)
 
 6. Haga **clic en Aprovisionar** cuando esté listo para instalar rutas de aprendizaje en el entorno de inquilino.  El proceso de aprovisionamiento puede tardar hasta 15 minutos. Recibirá una notificación por correo electrónico cuando el sitio esté listo. 
 
@@ -61,7 +64,7 @@ Una vez completado el aprovisionamiento, el administrador de inquilinos que apro
 
 - Vaya a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página con este aspecto:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![Página CustomLearningAdmin.aspx inicial de ejemplo.](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
 Como administrador de inquilinos, es poco probable que seas la persona que personalización del sitio, por lo que tendrás que asignar algunos propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y cambiar el nombre del sitio. También tienen la capacidad de ocultar y mostrar contenido y crear subcategorías y listas de reproducción personalizadas.  
@@ -88,7 +91,7 @@ Para las organizaciones que deciden admitir solo un idioma, además del idioma i
 4. En **Habilitar que las páginas y las noticias se traduzcan a varios idiomas,** deslice el botón de alternancia a **On**. Debe ser On de forma predeterminada.
 5. En Agregar o quitar idiomas de sitio, haga clic en **Quitar** para quitar los idiomas que no necesita para el sitio. A continuación se muestra un ejemplo de la página Configuración de idioma para mostrar el italiano admitido para el sitio, además del idioma inglés predeterminado.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![Pantalla de ejemplo de idiomas de sitio.](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > Al quitar idiomas, no se puede quitar el idioma inglés predeterminado. 

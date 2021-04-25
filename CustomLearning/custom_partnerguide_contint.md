@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Modelos de integración de socios
 ms.date: 3/9/2019
 description: Modelos de integración de socios
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162937"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999526"
 ---
 # <a name="partner-integration-models"></a>Modelos de integración de socios
 Aunque no es posible complementar el contenido de las rutas de aprendizaje de Microsoft 365 directamente desde el servicio de aprovisionamiento de SharePoint Online, existen varios modelos de integración que los partners pueden aprovechar para crear ofertas de servicio de valor agregado alineadas. Los modelos de integración de partners anteriores se presentan en orden de complejidad ascendente y niveles de inversión. Por lo tanto, nuestra guía es desarrollar su experiencia y graduarse a niveles más avanzados en función de sus modelos de negocio.
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![El gráfico de flujo muestra el rol de habilitadores, integradores y redistibutors.](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>¿Cómo debería empezar? 
 Para empezar, estos son algunos procedimientos recomendados a seguir.     
@@ -89,7 +92,7 @@ playlists.js: el manifiesto de listas de reproducción es una matriz de objetos 
 |              Nombre        |                     Descripción                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID que representa la lista de reproducción                                                             |  
-|Título                         |Nombre para mostrar de la lista de reproducción                                                               |
+|Title                         |Nombre para mostrar de la lista de reproducción                                                               |
 |Imagen                         |Dirección URL relativa (de CDN) a una imagen para visualizar la lista de reproducción                              |                      
 |LevelId                       |Nivel asociado                                                                           |
 |AudienceId                   |Audiencia asociada                                                                        |
@@ -108,7 +111,7 @@ playlists.js: el manifiesto de listas de reproducción es una matriz de objetos 
 |              Nombre        |                     Descripción                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |GUID que representa la lista de reproducción                                                             |  
-|Título                         |Nombre para mostrar de la lista de reproducción                                                               |
+|Title                         |Nombre para mostrar de la lista de reproducción                                                               |
 |Descripción                   |---                                                                                           |                      
 |URL                           |La dirección URL de origen del activo, que se aplicará al iFrame                                  |
 |TechnologyId                  |Tecnología asociada                                                                      |
@@ -133,7 +136,7 @@ Microsoft usa las páginas de GitHub como origen de red de entrega de contenido 
 
 Es importante que mantenga la misma estructura de control de versiones que Microsoft si decide ampliar la solución de caminos de aprendizaje con su propio paquete de contenido. El extremo de la red CDN no debe incluir la carpeta de versión, ya que la versión del manifiesto que admite el elemento web se agrega automáticamente a la dirección URL de la red CDN. Obviamente, le proporcionaremos tiempo para crear nuevas instancias de los archivos de manifiesto cada vez que lo revisionemos.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![La captura de pantalla muestra la estructura de ejemplo.](media/cg-part-json-folder.png) 
 
 Para obtener más información sobre cómo usar las páginas de GitHub como origen de la red CDN, consulte la siguiente documentación de ayuda: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
@@ -158,11 +161,11 @@ Una vez que haya creado el JSON y definido la red CDN, puede agregar el Contact 
 2. En la **página Administración,** haga clic en **... Agregar Content Pack** en la esquina superior derecha de la página.
 3. Haga clic en Paquete de contenido personalizado y, a continuación, escriba un nombre del Paquete de contenido y, a continuación, especifique la red CDN donde se encuentran los archivos JSON.
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![Pantalla donde se escribe el nombre y las rutas de acceso.](media/cg-part-addconpack.png)
 
 4. Haga clic en **Guardar**. El contenido del paquete de contenido personalizado debería aparecer ahora en la página Administración. Aquí le mostramos un ejemplo. 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![Ejemplo de página administración.](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrar al paquete de contenido en el elemento web
 Con las rutas de aprendizaje, puede agregar el elemento web caminos de aprendizaje a una página, filtrar el elemento web para que apunte al origen del paquete de contenido personalizado y, a continuación, filtrar el elemento web a la categoría, subcategoría, lista de reproducción y activo que desee. 
@@ -175,4 +178,4 @@ Con las rutas de aprendizaje, puede agregar el elemento web caminos de aprendiza
 6. Haga clic en el elemento web y, a continuación, haga clic **en el icono** Editar.
 7. En el **cuadro Seleccionar el origen de** aprendizaje, seleccione el paquete de contenido personalizado y, a continuación, filtre el elemento web al contenido que desee. A continuación se proporciona un ejemplo del elemento web filtrado a una lista de reproducción de un paquete de contenido personalizado.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![Captura de pantalla de un elemento web de ejemplo filtrado a una lista de reproducción de un paquete de contenido personalizado.](media/cg-part-conpackfilter.png)

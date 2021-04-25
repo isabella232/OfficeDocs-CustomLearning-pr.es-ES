@@ -1,33 +1,31 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Agregar administrador a un catálogo de aplicaciones de SharePoint Online
+title: Agregar administrador al Catálogo de aplicaciones de SharePoint Online
 ms.date: 02/10/2019
-description: Agregar el administrador necesario a su catálogo de aplicaciones
-ms.service: sharepoint online
-ms.openlocfilehash: 24e22ddc74d6c7b9311e031eaef296bcdd4ffacf
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Agregar el administrador necesario al Catálogo de aplicaciones
+ms.service: sharepoint-online
+ms.openlocfilehash: fb23a6abd1d4a1cb5c66ca31cd7f823d79e8623e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233512"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000056"
 ---
-# <a name="view-or-add-an-administrator-to-your-sharepoint-online-app-catalog"></a>Ver o agregar un administrador a un catálogo de aplicaciones de SharePoint Online
+# <a name="view-or-add-an-administrator-to-your-sharepoint-online-app-catalog"></a>Ver o agregar un administrador al Catálogo de aplicaciones de SharePoint Online
 
-Para instalar CLO365 correctamente, es necesario que la persona que realiza el aprovisionamiento de la solución aparezca como administrador del catálogo de aplicaciones del espacio empresarial.
+Para instalar CORRECTAmente CLO365, la persona que realiza el aprovisionamiento de la solución debe aparecer como administrador del catálogo de aplicaciones de inquilino.
 
-1. Desde el portal de administración de Office 365, vaya al centro de administración de SharePoint Online
-1. **Seleccione** la dirección URL del catálogo de aplicaciones de la lista de colecciones de sitios ![appadmin_url.png](media/appadmin_url.png)
+1. Desde el portal de administración de Office 365 vaya al Centro de administración de SharePoint Online
+1. **Seleccione** la dirección URL del catálogo de aplicaciones de la lista de colecciones ![ de sitiosappadmin_url.png](media/appadmin_url.png)
 1. Confirme que el instalador de CLO365 aparece como uno de los administradores del catálogo de aplicaciones.
 ![appadmin_dialog.png](media/appadmin_dialog.png)
 
-Si aparece su nombre de usuario, puede volver a aprovisionar el sitio de aprendizaje personalizado.  Si no ha completado los pasos siguientes. 
+Si su nombre de usuario aparece, puede volver al aprovisionamiento del sitio de aprendizaje personalizado.  Si no se completan los pasos siguientes. 
 
 ## <a name="add-an-administrator"></a>Agregar un administrador
 
-1. En el centro de administración de SharePoint, active la casilla de verificación situada junto a la dirección URL del catálogo de aplicaciones y seleccione el cuadro desplegable propietarios.
+1. En el Centro de administración de SharePoint, active la casilla situada junto a la dirección URL del catálogo de aplicaciones y seleccione el cuadro desplegable Propietarios.
 ![appadmin_owner.png](media/appadmin_owner.png)
-1. Seleccione administrar administradores en el menú desplegable ![appadmin_owner.png](media/appadmin_manage.png)
+1. Seleccione Administrar administradores en el menú desplegable ![appadmin_owner.png](media/appadmin_manage.png)
 1. Agregue la persona correcta como administrador de la colección de sitios y haga clic en Aceptar para guardar los cambios.
-
-### <a name="next-steps---site-provisioning"></a>Pasos siguientes: [aprovisionamiento de sitios](installsitepackage.md)
