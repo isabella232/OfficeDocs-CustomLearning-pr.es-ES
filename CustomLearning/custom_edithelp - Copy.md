@@ -1,49 +1,51 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Personalizar el sitio de rutas de aprendizaje
+title: Cómo personalizar el sitio de caminos de aprendizaje
 ms.date: 02/15/2019
-description: Obtenga información sobre la variedad de personalizaciones disponibles con las rutas de aprendizaje de Microsoft 365
+description: Obtenga información sobre la variedad de personalizaciones disponibles con Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
-ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 60c0e907a85acd95c1b654f40633c5886b727c58
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000286"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310644"
 ---
-# <a name="customize-the-site"></a><span data-ttu-id="5e1d2-103">Personalizar el sitio</span><span class="sxs-lookup"><span data-stu-id="5e1d2-103">Customize the site</span></span>
+# <a name="how-to-customize-the-site"></a><span data-ttu-id="38f8c-103">Cómo personalizar el sitio</span><span class="sxs-lookup"><span data-stu-id="38f8c-103">How to customize the site</span></span>
 
-<span data-ttu-id="5e1d2-104">El sitio de rutas de aprendizaje de Microsoft 365 se basa en una plantilla de comunicación de SharePoint, por lo que es fácil modificar el sitio para satisfacer las necesidades de su organización.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-104">The Microsoft 365 learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization.</span></span> <span data-ttu-id="5e1d2-105">Puede cambiar el nombre del sitio, el logotipo, los elementos de menú y el contenido de las páginas.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-105">You can change the site name, logo, menu items, and the content on the pages.</span></span> 
+<span data-ttu-id="38f8c-104">El Microsoft 365 de rutas de aprendizaje se basa en una plantilla de comunicación SharePoint, por lo que es fácil modificar el sitio para satisfacer las necesidades de su organización.</span><span class="sxs-lookup"><span data-stu-id="38f8c-104">The Microsoft 365 learning pathways site is based on a SharePoint communication template, so it's easy to modify the site to meet the needs of your organization.</span></span> <span data-ttu-id="38f8c-105">Puede cambiar el nombre del sitio, el logotipo, los elementos de menú y el contenido de las páginas.</span><span class="sxs-lookup"><span data-stu-id="38f8c-105">You can change the site name, logo, menu items, and the content on the pages.</span></span> 
 
 > [!TIP]
-> <span data-ttu-id="5e1d2-106">Recopila los comentarios de sus empleados y actualice periódicamente el sitio.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-106">Gather feedback from your employees and periodically update the site.</span></span> <span data-ttu-id="5e1d2-107">Por ejemplo, puede actualizar el calendario de eventos de aprendizaje a medida que estén disponibles los nuevos eventos.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-107">For example, you can update the Training events calendar as new events become available.</span></span> <span data-ttu-id="5e1d2-108">Al iniciar nuevos servicios, puedes mostrar contenido y crear listas de reproducción de aprendizaje dirigidas diseñadas para el inicio de los nuevos servicios.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-108">When launching new services, you can unhide content and build targeted training playlists designed for the launch of the new services.</span></span> 
+> <span data-ttu-id="38f8c-106">Recopila los comentarios de sus empleados y actualice periódicamente el sitio.</span><span class="sxs-lookup"><span data-stu-id="38f8c-106">Gather feedback from your employees and periodically update the site.</span></span> <span data-ttu-id="38f8c-107">Por ejemplo, puede actualizar el calendario de eventos de aprendizaje a medida que estén disponibles los nuevos eventos.</span><span class="sxs-lookup"><span data-stu-id="38f8c-107">For example, you can update the Training events calendar as new events become available.</span></span> <span data-ttu-id="38f8c-108">Al iniciar nuevos servicios, puedes mostrar contenido y crear listas de reproducción de aprendizaje dirigidas diseñadas para el inicio de los nuevos servicios.</span><span class="sxs-lookup"><span data-stu-id="38f8c-108">When launching new services, you can unhide content and build targeted training playlists designed for the launch of the new services.</span></span> 
 
-## <a name="customize-the-site-and-web-pages"></a><span data-ttu-id="5e1d2-109">Personalizar el sitio y las páginas web</span><span class="sxs-lookup"><span data-stu-id="5e1d2-109">Customize the site and web pages</span></span>
+## <a name="customize-the-site-and-web-pages"></a><span data-ttu-id="38f8c-109">Personalizar el sitio y las páginas web</span><span class="sxs-lookup"><span data-stu-id="38f8c-109">Customize the site and web pages</span></span>
 
-<span data-ttu-id="5e1d2-110">El sitio de rutas de aprendizaje es totalmente personalizable.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-110">The learning pathways site is fully customizable.</span></span> <span data-ttu-id="5e1d2-111">Si no está familiarizado con cómo personalizar el sitio o las páginas web de SharePoint, le recomendamos que revise el artículo Personalizar el sitio de [SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) en support.office.com.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-111">If you are not familiar with how to customize your SharePoint site or web pages, we suggest you review the [Customize your SharePoint site](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com.</span></span> 
+<span data-ttu-id="38f8c-110">El sitio de rutas de aprendizaje es totalmente personalizable.</span><span class="sxs-lookup"><span data-stu-id="38f8c-110">The learning pathways site is fully customizable.</span></span> <span data-ttu-id="38f8c-111">Si no está familiarizado con cómo personalizar su sitio o páginas web [](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) de SharePoint, le recomendamos que revise el artículo Personalizar su sitio SharePoint en support.office.com.</span><span class="sxs-lookup"><span data-stu-id="38f8c-111">If you are not familiar with how to customize your SharePoint site or web pages, we suggest you review the [Customize your SharePoint site](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) article on support.office.com.</span></span> 
 
-### <a name="customize-ask-questions-and-get-help"></a><span data-ttu-id="5e1d2-112">Personalizar Hacer preguntas y obtener ayuda</span><span class="sxs-lookup"><span data-stu-id="5e1d2-112">Customize Ask questions and get help</span></span>
+### <a name="customize-ask-questions-and-get-help"></a><span data-ttu-id="38f8c-112">Personalizar Hacer preguntas y obtener ayuda</span><span class="sxs-lookup"><span data-stu-id="38f8c-112">Customize Ask questions and get help</span></span>
 
-<span data-ttu-id="5e1d2-113">Como administrador del sitio de rutas de aprendizaje, una de las cosas  que querrá hacer es cambiar los vínculos de la página Obtener ayuda y soporte técnico para que apunten a los recursos de la organización.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-113">As an administrator of the learning pathways site, one of the things you’ll want to do is change the links on the **Get Help and Support** page to point to resources in your organization.</span></span> 
+<span data-ttu-id="38f8c-113">Como administrador del sitio de rutas de aprendizaje, una de las cosas que querrá hacer es cambiar los vínculos de la página **Obtener ayuda** y soporte técnico para que apunten a los recursos de la organización.</span><span class="sxs-lookup"><span data-stu-id="38f8c-113">As an administrator of the learning pathways site, one of the things you’ll want to do is change the links on the **Get Help and Support** page to point to resources in your organization.</span></span> 
 
-1.  <span data-ttu-id="5e1d2-114">En la página principal de caminos de aprendizaje, haga clic en **el elemento de menú** Hacer preguntas y obtener ayuda.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-114">From the learning pathways Home page, click the **Ask questions and get help** menu item.</span></span>
-2.  <span data-ttu-id="5e1d2-115">Haga clic en el botón **Editar**.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-115">Click the **Edit** button.</span></span>
-3.  <span data-ttu-id="5e1d2-116">Mantenga el mouse sobre una imagen de opción de ayuda y, a continuación, haga clic **en Editar elemento web**.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-116">Hover over a Help option image, then click **Edit web part**.</span></span>
+1.  <span data-ttu-id="38f8c-114">En la página principal de caminos de aprendizaje, haga clic en **el elemento de menú** Hacer preguntas y obtener ayuda.</span><span class="sxs-lookup"><span data-stu-id="38f8c-114">From the learning pathways Home page, click the **Ask questions and get help** menu item.</span></span>
+2.  <span data-ttu-id="38f8c-115">Haga clic en el botón **Editar**.</span><span class="sxs-lookup"><span data-stu-id="38f8c-115">Click the **Edit** button.</span></span>
+3.  <span data-ttu-id="38f8c-116">Mantenga el mouse sobre una imagen de opción de ayuda y, a continuación, haga clic **en Editar elemento web**.</span><span class="sxs-lookup"><span data-stu-id="38f8c-116">Hover over a Help option image, then click **Edit web part**.</span></span>
 
 ![cg-edithelp.png](media/cg-edithelp.png)
 
-4.  <span data-ttu-id="5e1d2-118">En el **cuadro Vínculo,** escriba la dirección URL del recurso interno.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-118">In the **Link** box, enter the URL for the internal resource.</span></span> 
-5.  <span data-ttu-id="5e1d2-119">Repita los pasos 3 y 4 para las otras dos imágenes que no están vinculadas.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-119">Repeat steps 3 and 4 for the other two images that aren’t linked.</span></span>
+4.  <span data-ttu-id="38f8c-118">En el **cuadro Vínculo,** escriba la dirección URL del recurso interno.</span><span class="sxs-lookup"><span data-stu-id="38f8c-118">In the **Link** box, enter the URL for the internal resource.</span></span> 
+5.  <span data-ttu-id="38f8c-119">Repita los pasos 3 y 4 para las otras dos imágenes que no están vinculadas.</span><span class="sxs-lookup"><span data-stu-id="38f8c-119">Repeat steps 3 and 4 for the other two images that aren’t linked.</span></span>
 
-### <a name="change-the-text-on-the-page"></a><span data-ttu-id="5e1d2-120">Cambiar el texto de la página</span><span class="sxs-lookup"><span data-stu-id="5e1d2-120">Change the text on the page</span></span>
+### <a name="change-the-text-on-the-page"></a><span data-ttu-id="38f8c-120">Cambiar el texto de la página</span><span class="sxs-lookup"><span data-stu-id="38f8c-120">Change the text on the page</span></span>
 
-1. <span data-ttu-id="5e1d2-121">Mantenga el mouse sobre el área de texto y, a continuación, edite el texto de la página.</span><span class="sxs-lookup"><span data-stu-id="5e1d2-121">Hover over the text area, then edit the text for the page.</span></span> 
-2. <span data-ttu-id="5e1d2-122">Haga clic **en el botón** Publicar cuando haya terminado</span><span class="sxs-lookup"><span data-stu-id="5e1d2-122">Click the **Publish** button when you’re done</span></span>
+1. <span data-ttu-id="38f8c-121">Mantenga el mouse sobre el área de texto y, a continuación, edite el texto de la página.</span><span class="sxs-lookup"><span data-stu-id="38f8c-121">Hover over the text area, then edit the text for the page.</span></span> 
+2. <span data-ttu-id="38f8c-122">Haga clic **en el botón** Publicar cuando haya terminado</span><span class="sxs-lookup"><span data-stu-id="38f8c-122">Click the **Publish** button when you’re done</span></span>
 
-## <a name="other-customization-options"></a><span data-ttu-id="5e1d2-123">Otras opciones de personalización</span><span class="sxs-lookup"><span data-stu-id="5e1d2-123">Other customization options</span></span>
-<span data-ttu-id="5e1d2-124">Otras páginas que quizás quieras considerar la edición son:</span><span class="sxs-lookup"><span data-stu-id="5e1d2-124">Other pages you might want to consider editing are:</span></span>
+## <a name="other-customization-options"></a><span data-ttu-id="38f8c-123">Otras opciones de personalización</span><span class="sxs-lookup"><span data-stu-id="38f8c-123">Other customization options</span></span>
+<span data-ttu-id="38f8c-124">Otras páginas que quizás quieras considerar la edición son:</span><span class="sxs-lookup"><span data-stu-id="38f8c-124">Other pages you might want to consider editing are:</span></span>
 
-- <span data-ttu-id="5e1d2-125">Eventos de aprendizaje calendar.aspx</span><span class="sxs-lookup"><span data-stu-id="5e1d2-125">Training events calendar.aspx</span></span>
-- <span data-ttu-id="5e1d2-126">Elemento web Hero en Home.aspx</span><span class="sxs-lookup"><span data-stu-id="5e1d2-126">The Hero web part on Home.aspx</span></span>
+- <span data-ttu-id="38f8c-125">Eventos de aprendizaje calendar.aspx</span><span class="sxs-lookup"><span data-stu-id="38f8c-125">Training events calendar.aspx</span></span>
+- <span data-ttu-id="38f8c-126">Elemento web Hero en Home.aspx</span><span class="sxs-lookup"><span data-stu-id="38f8c-126">The Hero web part on Home.aspx</span></span>
 
