@@ -3,18 +3,20 @@ author: pkrebs
 ms.author: pkrebs
 title: Introducción a las páginas de aplicación de SharePoint
 ms.date: 02/15/2019
-description: Obtenga información sobre la funcionalidad de las páginas de aplicaciones de SharePoint en las rutas de aprendizaje de Microsoft 365
+description: Obtenga información sobre la funcionalidad de las SharePoint de aplicaciones en Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
-ms.openlocfilehash: 85e28c2f8c280cc1f6f612cc85aeab41d5bc9a84
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 45ec1edd0d59c21c3820e627a660e55a45b7838a
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999226"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310436"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Introducción a las páginas de aplicación de SharePoint
 
-Las rutas de aprendizaje proporcionan dos páginas de aplicación de SharePoint que debe conocer como administrador. Estas dos páginas no son editables y no deben eliminarse. 
+Las rutas de aprendizaje proporcionan dos SharePoint de aplicación que debe conocer como administrador. Estas dos páginas no son editables y no deben eliminarse. 
 
 - CustomLearningAdmin.aspx
 - CustomLearningViewer.aspx
@@ -25,7 +27,7 @@ La página CustomLearningAdmin.aspx proporciona características administrativas
 
 ### <a name="view-customlearningadminaspx"></a>Ver CustomLearningAdmin.aspx
 
-1. Haga clic en el icono Configuración **de** SharePoint y, a continuación, haga clic en **Páginas del** sitio contenido  >  **del sitio**. 
+1. Haga clic en SharePoint **Configuración** y, a continuación, haga clic en **Páginas del** sitio contenido  >  **del sitio**. 
 2. Haga **clic en CustomLearningAdmin.aspx**. 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
@@ -35,7 +37,7 @@ La página CustomLearningViewer.aspx proporciona un visor para mostrar el conten
 
 ### <a name="view-customlearningvieweraspx"></a>Ver CustomLearningViewer.aspx
 
-1. Haga clic en el icono Configuración **de** SharePoint y, a continuación, haga clic en **Páginas del** sitio contenido  >  **del sitio**. 
+1. Haga clic en SharePoint **Configuración** y, a continuación, haga clic en **Páginas del** sitio contenido  >  **del sitio**. 
 2. Haga **clic en CustomLearningViewer.aspx**. 
 
 ![cg-viewerapppage.png](media/cg-viewerapppage.png)

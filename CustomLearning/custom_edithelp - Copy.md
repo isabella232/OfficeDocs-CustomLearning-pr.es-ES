@@ -1,31 +1,33 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Personalizar el sitio de rutas de aprendizaje
+title: Cómo personalizar el sitio de caminos de aprendizaje
 ms.date: 02/15/2019
-description: Obtenga información sobre la variedad de personalizaciones disponibles con las rutas de aprendizaje de Microsoft 365
+description: Obtenga información sobre la variedad de personalizaciones disponibles con Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
-ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 60c0e907a85acd95c1b654f40633c5886b727c58
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000286"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310644"
 ---
-# <a name="customize-the-site"></a>Personalizar el sitio
+# <a name="how-to-customize-the-site"></a>Cómo personalizar el sitio
 
-El sitio de rutas de aprendizaje de Microsoft 365 se basa en una plantilla de comunicación de SharePoint, por lo que es fácil modificar el sitio para satisfacer las necesidades de su organización. Puede cambiar el nombre del sitio, el logotipo, los elementos de menú y el contenido de las páginas. 
+El Microsoft 365 de rutas de aprendizaje se basa en una plantilla de comunicación SharePoint, por lo que es fácil modificar el sitio para satisfacer las necesidades de su organización. Puede cambiar el nombre del sitio, el logotipo, los elementos de menú y el contenido de las páginas. 
 
 > [!TIP]
 > Recopila los comentarios de sus empleados y actualice periódicamente el sitio. Por ejemplo, puede actualizar el calendario de eventos de aprendizaje a medida que estén disponibles los nuevos eventos. Al iniciar nuevos servicios, puedes mostrar contenido y crear listas de reproducción de aprendizaje dirigidas diseñadas para el inicio de los nuevos servicios. 
 
 ## <a name="customize-the-site-and-web-pages"></a>Personalizar el sitio y las páginas web
 
-El sitio de rutas de aprendizaje es totalmente personalizable. Si no está familiarizado con cómo personalizar el sitio o las páginas web de SharePoint, le recomendamos que revise el artículo Personalizar el sitio de [SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) en support.office.com. 
+El sitio de rutas de aprendizaje es totalmente personalizable. Si no está familiarizado con cómo personalizar su sitio o páginas web [](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) de SharePoint, le recomendamos que revise el artículo Personalizar su sitio SharePoint en support.office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Personalizar Hacer preguntas y obtener ayuda
 
-Como administrador del sitio de rutas de aprendizaje, una de las cosas  que querrá hacer es cambiar los vínculos de la página Obtener ayuda y soporte técnico para que apunten a los recursos de la organización. 
+Como administrador del sitio de rutas de aprendizaje, una de las cosas que querrá hacer es cambiar los vínculos de la página **Obtener ayuda** y soporte técnico para que apunten a los recursos de la organización. 
 
 1.  En la página principal de caminos de aprendizaje, haga clic en **el elemento de menú** Hacer preguntas y obtener ayuda.
 2.  Haga clic en el botón **Editar**.
