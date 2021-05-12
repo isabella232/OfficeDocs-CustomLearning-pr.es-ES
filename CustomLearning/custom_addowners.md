@@ -5,12 +5,14 @@ title: Vaya al sitio Aprendizaje personalizado para Office 365
 ms.date: 02/18/2019
 description: Ir al sitio de aprendizaje personalizado
 ms.service: sharepoint-online
-ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: aec0f49e1745f10af7cb3de8cf572babce33fb97
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999126"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334514"
 ---
 # <a name="add-owners-custom-learning-site"></a>Agregar propietarios sitio de aprendizaje personalizado
 
@@ -23,7 +25,7 @@ El sitio aprendizaje personalizado para Office 365 se hospeda en el inquilino de
 3.  Vaya a la ubicación del sitio. Si no lo tiene disponible, puede encontrarlo en el correo que recibió del Servicio de aprovisionamiento pnP. Seleccione SharePoint en la página principal de Office 365 y, a continuación, seleccione el sitio Aprendizaje personalizado **para Office 365.** Es posible que lo haya denominado diferente. 
 5. Haga clic en el icono de aprendizaje de **Office 365** para ver el conjunto completo de listas de reproducción de aprendizaje disponibles con Aprendizaje personalizado y para comprobar que el aprendizaje personalizado funciona según lo esperado. 
 
-![cg-goto.png](media/cg-goto.png)
+   ![Colección de fotos que muestran rutas de aprendizaje en uso.](media/cg-goto.png)
 
 ## <a name="view-all-the-custom-learning-content"></a>Ver todo el contenido de aprendizaje personalizado
 La página de aprendizaje de Office 365 hospeda el elemento web de aprendizaje personalizado configurado para mostrar toda la formación disponible para el aprendizaje personalizado. 
@@ -31,7 +33,7 @@ La página de aprendizaje de Office 365 hospeda el elemento web de aprendizaje p
 1. Desplácese hacia abajo en la página para ver todas las categorías y subcategorías.
 2. Patea los neumáticos un poco. Haz clic en unas cuantas subcategorías y, a continuación, haz clic en algunas listas de reproducción para conocer cómo se organiza el contenido de Aprendizaje personalizado. 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![Ventana Puertas de enlace de ruta de aprendizaje.](media/cg-gotoall.png)
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
 Como administrador de inquilinos, es poco probable que seas la persona que personalización del sitio, por lo que tendrás que asignar algunos propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y cambiar el nombre del sitio. También tienen la capacidad de ocultar y mostrar el contenido entregado a través del elemento web aprendizaje personalizado. También tendrán la capacidad de crear listas de reproducción personalizadas y asignarlas a subcategorías personalizadas.  

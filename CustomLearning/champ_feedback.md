@@ -1,17 +1,18 @@
 ---
 title: 'Procedimientos recomendados del programa Champion: recopilar comentarios'
-description: Impulsar la adopción de Office 365 con nuestros procedimientos recomendados del Programa de campeones
+description: Procedimientos recomendados para impulsar la adopción de Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: afa2a593572af8fca059274e0bc36b1275870384
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: a4839b026037aa724aea9953d2a031558f01d30a
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000006"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334624"
 ---
 # <a name="collect-feedback-from-your-employees"></a>Recopilar comentarios de los empleados
 
@@ -30,4 +31,4 @@ Use [Microsoft Forms para](https://support.office.com/forms) realizar encuestas 
 ## <a name="highlight-the-wins-share-showcases"></a>Resaltar las ganancias: compartir escaparates
 A medida que continúe este viaje, encontrará escaparates de empleados cuya creatividad con Office 365 le sorprenderá y le encantará. Se recomienda compartir estas presentaciones de forma general. Esto animará a otros usuarios a ser innovadores, educará a los usuarios que pueden estar más temprano en la curva de adopción y recompensará a aquellos que se han tomado el tiempo para pensar en cómo usar mejor Office 365 en su entorno. Establecer un objetivo medible de identificar un número determinado de escaparates cada trimestre es útil para mantener el impulso de la adopción.
 
-Comparta estas presentaciones en sus comunidades púbicas para inspirar a otros empleados y ayudarles a aprender las ventajas de Office 365.
+Comparta estas presentaciones en sus comunidades públicas para inspirar a otros empleados y ayudarles a aprender las ventajas de Office 365.
