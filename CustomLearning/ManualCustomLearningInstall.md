@@ -6,42 +6,43 @@ ms.date: 02/18/2019
 manager: bpardi
 description: Instalación manual de caminos de aprendizaje
 ms.service: sharepoint-online
-ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.topic: article
+ms.openlocfilehash: 6f106b569602730f16fc2b6f8a09fa44667e32e1
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999216"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575975"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Instalación y configuración manual de Aprendizaje personalizado para Office 365
 
-El elemento web de aprendizaje personalizado de Microsoft se compila con la versión 1.7.1 de [SharePoint Framework.](/sharepoint/dev/spfx/sharepoint-framework-overview)
+El elemento web de aprendizaje personalizado de Microsoft se compila [con la SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) versión 1.7.1.
 
 Para instalar y configurar manualmente el elemento web y la colección de sitios, deberá completar los pasos siguientes:
 
 1. Valide que ha cumplido todos los requisitos previos.
-1. Instale el archivo customlearning.sppkg en el Catálogo de aplicaciones de inquilinos de Office 365.
-1. Aprovisionar e identificar un sitio de comunicación moderno para que actúe como su sitio principal de Aprendizaje personalizado para Office 365.
+1. Instale el archivo customlearning.sppkg en el catálogo de aplicaciones Office 365 inquilino.
+1. Aprovisionar e identificar un sitio de comunicación moderno para que actúe como su aprendizaje personalizado para Office 365 sitio principal.
 1. Ejecute un script de PowerShell que configurará el espacio empresarial con los artefactos adecuados de los que depende aprendizaje personalizado.
 1. Vaya a la página de sitio CustomLearningAdmin.aspx para cargar el elemento web de administración para inicializar la configuración de contenido personalizada.
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-Debe haber configurado y configurado el Catálogo de aplicaciones para todo el espacio empresarial. Consulte [Configurar el inquilino de Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) y siga la sección Crear sitio del catálogo de aplicaciones. Si el Catálogo de aplicaciones de todo el espacio empresarial ya se ha aprovisionado, necesitarás acceso a una cuenta que tenga derechos para cargar un paquete en él para completar este proceso de configuración. Por lo general, esta cuenta tiene el rol de administrador de SharePoint. Si una cuenta con ese rol no funciona, vaya al Centro de administración de SharePoint y busque los administradores de la colección de sitios para la colección de sitios del catálogo de aplicaciones e inicie sesión como uno de los administradores de la colección de sitios o agregue la cuenta de administrador de SharePoint que no pudo con los administradores de la colección de sitios. También necesitará acceso a una cuenta que sea administrador de inquilinos de SharePoint.
+Debe haber configurado y configurado el Catálogo de aplicaciones para todo el espacio empresarial. Consulta [Configurar el espacio empresarial Office 365 y](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) sigue la sección Crear sitio del catálogo de aplicaciones. Si el Catálogo de aplicaciones de todo el espacio empresarial ya se ha aprovisionado, necesitarás acceso a una cuenta que tenga derechos para cargar un paquete en él para completar este proceso de configuración. Por lo general, esta cuenta tiene el SharePoint de administrador. Si una cuenta con ese rol no funciona, vaya al Centro de administración de SharePoint y busque los administradores de la colección de sitios para la colección de sitios del catálogo de aplicaciones e inicie sesión como uno de los administradores de la colección de sitios o agregue la cuenta de administrador de SharePoint que no pudo con los administradores de la colección de sitios. También necesitarás acceso a una cuenta que sea un administrador SharePoint inquilino.
 
-## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Cargar el elemento web en el Catálogo de aplicaciones de inquilino
+## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Upload el elemento web al Catálogo de aplicaciones de inquilino
 
-Para configurar Custom Learning para Office 365, cargue el archivo customlearning.sppkg en el Catálogo de aplicaciones de todo el espacio empresarial e impleméntelo. Vea [Use the App Catalog to make custom business apps available for your SharePoint Online environment](/sharepoint/use-app-catalog) para obtener instrucciones detalladas sobre cómo agregar una aplicación al catálogo de aplicaciones.
+Para configurar El aprendizaje personalizado para Office 365, cargue el archivo customlearning.sppkg en el Catálogo de aplicaciones de todo el espacio empresarial e impleméntelo. Consulta [Usar el Catálogo de](/sharepoint/use-app-catalog) aplicaciones para que las aplicaciones empresariales personalizadas estén disponibles para tu entorno de SharePoint Online para obtener instrucciones detalladas sobre cómo agregar una aplicación al catálogo de aplicaciones.
 
 ## <a name="provisionidentify-modern-communication-site"></a>Aprovisionar e identificar sitio de comunicación moderna
 
-Identifique un sitio de comunicación de SharePoint existente o aprovisione uno nuevo en el espacio empresarial de SharePoint Online. Para obtener más información sobre cómo aprovisionar un sitio de comunicación, vea [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) y siga los pasos para crear un sitio de comunicación.
+Identifique un sitio de SharePoint de comunicación existente o aprovisione uno nuevo en su SharePoint en línea. Para obtener más información acerca de cómo aprovisionar un sitio de comunicación, vea Crear un sitio de comunicación en [SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) y siga los pasos para crear un sitio de comunicación.
 
 ## <a name="set-permissions-for-the-site"></a>Establecer permisos para el sitio
 
 Querrá agregar todos los usuarios que deberían poder ver contenido al grupo Visitantes y a todos los usuarios que deberían poder administrar listas de reproducción personalizadas al grupo Miembros. Para configurar el sitio para Aprendizaje personalizado la primera vez que el usuario debe ser un administrador de la colección de sitios o parte del grupo Propietarios.
 
-Agregue Aprendizaje personalizado para Office 365 App a la colección de sitios.
+Agregue Aprendizaje personalizado para Office 365 aplicación a la colección de sitios.
 
 ## <a name="execute-powershell-configuration-script"></a>Ejecutar script de configuración de PowerShell
 

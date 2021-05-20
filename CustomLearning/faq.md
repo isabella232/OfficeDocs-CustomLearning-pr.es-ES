@@ -1,45 +1,47 @@
 ---
-title: Preguntas más frecuentes sobre las rutas de aprendizaje de Microsoft 365
+title: Microsoft 365 preguntas más frecuentes sobre las rutas de aprendizaje
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/10/2019
-description: Información de preguntas más frecuentes para las rutas de aprendizaje de Microsoft 365
+description: Información de preguntas más frecuentes para Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
-ms.openlocfilehash: d91c2710315b393eb8be3645c4fa94b32d353aa7
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.topic: article
+ms.openlocfilehash: f24f16455ba41724d300d038a01dc04c2170dc4a
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000086"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575925"
 ---
-# <a name="frequently-asked-questions"></a>Preguntas frecuentes
+# <a name="frequently-asked-questions"></a>Preguntas más frecuentes
 
-### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Recientemente vi una entrada de blog en la que se cambia el nombre de Aprendizaje personalizado para Office 365 a Rutas de aprendizaje de Microsoft 365. ¿Hay otros cambios que se agregan a la solución como parte del esfuerzo de cambio de nombre? ¿Debo actualizar la solución en mi organización?
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Recientemente vi una entrada de blog en la que se cambia el nombre de Aprendizaje personalizado para Office 365 a Microsoft 365 de aprendizaje. ¿Hay otros cambios que se agregan a la solución como parte del esfuerzo de cambio de nombre? ¿Debo actualizar la solución en mi organización?
 
-La versión de caminos de aprendizaje de Microsoft 365 es un esfuerzo de cambio de marca dedicado a cambiar el nombre de la solución para alinearse con la personal de marca de Microsoft 365. Si actualmente tiene aprendizaje personalizado para Office 365 que se ejecuta correctamente en su organización, no es necesario actualizar la solución en este momento.  
+La Microsoft 365 caminos de aprendizaje es un esfuerzo de cambio de marca dedicado a cambiar el nombre de la solución para que se alinee con Microsoft 365 personal de marca. Si tiene aprendizaje personalizado para Office 365 se está ejecutando correctamente en su organización, no es necesario actualizar la solución en este momento.  
 
-### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>¿Cuáles son los requisitos para instalar las rutas de aprendizaje de Microsoft 365 en mi entorno de inquilino?
+### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>¿Cuáles son los requisitos para instalar Microsoft 365 de aprendizaje en mi entorno de inquilino?
 
 - Tener habilitados SharePoint Online y los sitios de comunicación.
 - La persona que aprovisionará CLO365 debe ser el administrador de inquilinos del inquilino de destino para su instalación.
-- Un inquilino "Catálogo de aplicaciones" debe estar disponible dentro de la opción "Aplicaciones" del Centro de administración de SharePoint.
-- Si se crea un nuevo Catálogo de aplicaciones, se requiere un tiempo de espera de 30 minutos o más para que el Catálogo de aplicaciones se aprovisione por completo. Al intentar aprovisionar rutas de aprendizaje de Microsoft 365 directamente después de crear el catálogo de aplicaciones de inquilino, se producirá un error de aprovisionamiento de la solución de caminos de aprendizaje. 
+- Un espacio empresarial "Catálogo de aplicaciones" debe estar disponible dentro de la opción "Aplicaciones" del Centro SharePoint administración.
+- Si se crea un nuevo Catálogo de aplicaciones, se requiere un tiempo de espera de 30 minutos o más para que el Catálogo de aplicaciones se aprovisione por completo. Si se intenta aprovisionar Microsoft 365 de aprendizaje directamente después de crear el catálogo de aplicaciones del espacio empresarial, se producirá un error de aprovisionamiento de la solución de caminos de aprendizaje. 
 - La persona que aprovisionará CLO365 debe ser administrador de la colección de sitios del catálogo de aplicaciones en el inquilino de destino para su instalación.
 
-### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Por qué Microsoft pide permisos de inquilino al instalar rutas de aprendizaje de Microsoft 365 
+### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Por qué Microsoft pide permisos de inquilino al instalar Microsoft 365 de aprendizaje 
 
-- El servicio de aprovisionamiento de SharePoint Online usa los permisos para aprovisionar el sitio de SharePoint Caminos de aprendizaje, crear las páginas del sitio e instalar la aplicación caminos de aprendizaje de Microsoft 365 en su inquilino. Ese es el único motivo por el que solicitamos los permisos. Sin los permisos solicitados, el Servicio de aprovisionamiento de SharePoint no puede ejecutar los comandos que instalan automáticamente la plantilla de sitio de caminos de aprendizaje y el elemento web. 
+- El servicio SharePoint aprovisionamiento en línea usa los permisos para aprovisionar el sitio SharePoint Caminos de aprendizaje, crear las páginas del sitio e instalar la aplicación de caminos de aprendizaje Microsoft 365 en su inquilino. Ese es el único motivo por el que solicitamos los permisos. Sin los permisos solicitados, el servicio SharePoint aprovisionar no puede ejecutar los comandos que instalan automáticamente la plantilla de sitio y el elemento web de caminos de aprendizaje. 
 
-### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>¿Cuáles son las implicaciones de que las rutas de aprendizaje de Microsoft 365 estén en una versión preliminar beta? 
+### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>¿Cuáles son las implicaciones de Microsoft 365 de aprendizaje en una versión preliminar beta? 
 
-Las rutas de aprendizaje de Microsoft 365 se encuentran actualmente en Beta Preview. Tenga en cuenta lo siguiente al evaluar, planear e implementar las rutas de aprendizaje de Microsoft 365:
+Microsoft 365 de aprendizaje está actualmente en Beta Preview. Tenga en cuenta lo siguiente al evaluar, planear e implementar las Microsoft 365 de aprendizaje:
 
 - Al igual que con cualquier solución Beta, nuestro equipo de administración de servicios se reserva el derecho de realizar cambios en el servicio y sus componentes. Como está resolviendo errores y problemas de experiencia de usuario activamente, es probable que deba actualizar WebPart.
-- Para actualizar el elemento web, deberá descargarlo desde nuestro repositorio de GitHub y cargarlo en el catálogo de aplicaciones de inquilino. Consulte la sección "Actualización de la solución" del archivo [Léame](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) de rutas de aprendizaje de Microsoft 365. 
+- Para actualizar el elemento web, deberá descargarlo desde nuestro repositorio de GitHub y cargarlo en el catálogo de aplicaciones de inquilino. Consulte la sección "Actualización de la solución" del archivo [Léame](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) Microsoft 365 rutas de aprendizaje. 
 
-### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>¿En qué idiomas están disponibles las rutas de aprendizaje de Microsoft 365?
+### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>¿En qué idiomas Microsoft 365 caminos de aprendizaje disponibles?
 
-Actualmente, las rutas de aprendizaje de Microsoft 365 solo están disponibles en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. Tenemos previsto implementar la compatibilidad multilingüe para los siguientes idiomas en el segundo trimestre de 2020. 
+Microsoft 365 caminos de aprendizaje está disponible actualmente solo en inglés. El aprovisionamiento automático de un extremo a otro solo funciona con inquilinos en inglés. Tenemos previsto implementar la compatibilidad multilingüe para los siguientes idiomas en el segundo trimestre de 2020. 
 
 - Chino (simplificado) 
 - Francés  
@@ -56,20 +58,20 @@ Actualmente, las rutas de aprendizaje de Microsoft 365 solo están disponibles e
 
 En función de nuestras pruebas de la instalación, debe tardar menos de 15 minutos. No se incluye el tiempo necesario para personalizar el sitio y adaptarlo a sus necesidades.
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>¿Las rutas de aprendizaje de Microsoft 365 son una solución de código abierto y cuáles son las implicaciones?
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>¿Microsoft 365 caminos de aprendizaje es una solución de código abierto y cuáles son las implicaciones?
 
-Las rutas de aprendizaje de Microsoft 365 son una solución de software de código abierto (OSS) y, como tal, conlleva un conjunto de ventajas y consideraciones para el sistema operativo:
+Microsoft 365 de aprendizaje es una solución de software de código abierto (OSS) y, como tal, conlleva un conjunto de ventajas y consideraciones para el sistema operativo:
 
 #### <a name="benefits"></a>Ventajas 
-- Las rutas de aprendizaje de **Microsoft 365 son una solución gratuita:** Los clientes pueden instalar la solución en su inquilino, personalizarla y ponerla a disposición de los usuarios finales
+- **Microsoft 365 de aprendizaje es una solución gratuita:** Los clientes pueden instalar la solución en su inquilino, personalizarla y ponerla a disposición de los usuarios finales
 - **El sistema operativo permite un desarrollo y colaboración rápidos:**  Todas las soluciones de código abierto están disponibles para una amplia comunidad de colaboradores.  Microsoft está comprometido con este método para impulsar la innovación.  Para garantizar que ofrecemos una experiencia que beneficia al conjunto más amplio de nuestros clientes, nuestro equipo principal de administración de servicios se reservará el derecho de determinar qué contribuciones se combinan en nuestra compilación oficial.  
-- **El sistema operativo habilita la colaboración con partners:** Microsoft está trabajando con varios partners de aprendizaje para apoyar sus esfuerzos para futuras extensiones y contribuciones a las rutas de aprendizaje de Microsoft 365. Proporcionaremos más información a medida que estos planes estén finalizados. 
+- **El sistema operativo habilita la colaboración con partners:** Microsoft está trabajando con varios partners de aprendizaje para apoyar sus esfuerzos en futuras extensiones y contribuciones a Microsoft 365 de aprendizaje. Proporcionaremos más información a medida que estos planes estén finalizados. 
     
 #### <a name="implications"></a>Implicaciones
-- **OSS no es un producto comercialmente disponible:** Los productos comerciales incluyen actualización y revisión y se incluyen en contratos de soporte técnico basados en tarifas. Aunque Actualmente Microsoft ofrece documentación, actualización y revisión para las rutas de aprendizaje de Microsoft 365, se basa en nuestro compromiso de mejorar este escenario empresarial en particular. Nuestros planes son seguir invirtiendo en caminos de aprendizaje, tener en cuenta que nuestro equipo de administración de servicios puede cambiar estrategias en el futuro. Los cambios futuros en las rutas de aprendizaje de Microsoft 365 se comunicarán antes de que entren en vigor. 
-- Como sistema operativo, las rutas de aprendizaje de **Microsoft 365** se admiten a través de una lista de problemas en línea en GitHub: las rutas de aprendizaje de Microsoft 365 no están cubiertas por ningún contrato de soporte técnico de Microsoft existente. Los problemas enviados son triaged por microsoft 365 caminos de aprendizaje propietarios de servicios y la comunidad. Los niveles de servicio de resolución de problemas NO están al mismo nivel que un contrato de soporte técnico de Microsoft de pago.  
+- **OSS no es un producto comercialmente disponible:** Los productos comerciales incluyen actualización y revisión y se incluyen en contratos de soporte técnico basados en tarifas. Aunque Actualmente Microsoft ofrece documentación, actualización y revisión para las rutas de aprendizaje Microsoft 365, se basa en nuestro compromiso de mejorar este escenario empresarial en particular. Nuestros planes son seguir invirtiendo en caminos de aprendizaje, tener en cuenta que nuestro equipo de administración de servicios puede cambiar estrategias en el futuro. Los cambios futuros en Microsoft 365 de aprendizaje se comunicarán antes de que entren en vigor. 
+- **Como sistema operativo, Microsoft 365** caminos de aprendizaje se admiten a través de una lista de problemas en línea en GitHub: Microsoft 365 caminos de aprendizaje no están cubiertos por ningún contrato de soporte técnico de Microsoft existente. Los problemas enviados se han Microsoft 365 los propietarios del servicio de caminos de aprendizaje y la comunidad. Los niveles de servicio de resolución de problemas NO están al mismo nivel que un contrato de soporte técnico de Microsoft de pago.  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>¿Podemos convertir las rutas de aprendizaje de Microsoft 365 en un subsitio de nuestra colección de sitios principal de SharePoint?
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>¿Podemos convertir las rutas Microsoft 365 aprendizaje en un subsitio de nuestra colección SharePoint de sitios?
 
 No. El sitio se basa en una plantilla de sitio de comunicación, que siempre está pensada para ser una colección de sitios raíz.
 
@@ -83,6 +85,6 @@ Siga las instrucciones de instalación [publicadas aquí](custom_provision.md).
 > [!NOTE]
 > Si ha deshabilitado la telemetría en la instalación anterior y desea continuar con la telemetría deshabilitada, deberá seguir las instrucciones para deshabilitar la telemetría aquí.
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Hemos realizado actualizaciones de nuestra implementación de las rutas de aprendizaje de Microsoft 365. ¿Perderemos estas actualizaciones (realizadas en plantillas de sitio, listas de reproducción) si reinstalamos el sitio?
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Hemos realizado actualizaciones de nuestra implementación de Microsoft 365 de aprendizaje. ¿Perderemos estas actualizaciones (realizadas en plantillas de sitio, listas de reproducción) si reinstalamos el sitio?
 
 Las personalizaciones de páginas individuales y listas de reproducción personalizadas se perderán si reinstala el sitio en la instalación actual.  
