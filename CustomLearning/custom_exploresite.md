@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Explorar el sitio y el contenido predeterminado
+title: Explorar el sitio y su contenido predeterminado
 ms.date: 02/10/2019
-description: Explorar el sitio de rutas de aprendizaje y el contenido predeterminado
+description: Explorar el sitio de rutas de aprendizaje y su contenido predeterminado
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 18f3c1e8d6f700423381973a29b910086bf6717a
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: ed322d6ae00ee9c93440a2e8188ce346b447b0d1
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310614"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461210"
 ---
-# <a name="explore-the-learning-pathways-site"></a>Explorar el sitio de rutas de aprendizaje
+# <a name="explore-learning-pathways-site"></a>Explorar el sitio de rutas de aprendizaje
 
 > Nota: Para explorar el sitio de caminos de aprendizaje y sus características administrativas, necesitará permisos de administrador, propietario o miembro de la colección de sitios para el sitio. Si no tiene los permisos necesarios, póngase en contacto con el administrador del sitio para el sitio. El sitio de rutas de aprendizaje se hospeda en el inquilino Office 365, por lo que deberá iniciar sesión en Office 365 para llegar al sitio. Si aún no ha iniciado sesión en Office 365, inicie sesión ahora. 
 
@@ -36,4 +36,4 @@ El Centro de éxito de administración proporciona instrucciones y recursos para
 
 - En la página principal Microsoft 365 de **aprendizaje,** haga clic en Introducción al Centro de éxito **de administración.**
 
-Las rutas de aprendizaje proporcionan instrucciones dentro del Centro de éxito de administración en la solución. La documentación del Centro de éxito de administración también está disponible en este conjunto de documentación. Consulte [Learning pathways Admin Success Center](custom_successcenter.md).
+Learning rutas de acceso proporciona instrucciones en el Centro de éxito de administración en la solución. La documentación del Centro de éxito de administración también está disponible en este conjunto de documentación. Vea [Learning rutas de acceso al Centro de éxito de administración](custom_successcenter.md).

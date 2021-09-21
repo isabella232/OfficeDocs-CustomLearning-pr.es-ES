@@ -8,22 +8,22 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: baa46deda7d7e10f3a7655fc6da076d37607e29f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 87130512dafe55ddd7dd0ac4f0667efb2108f360
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000296"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460928"
 ---
 # <a name="translate-site-pages"></a>Traducir páginas del sitio
 Antes de empezar a traducir el sitio de rutas de aprendizaje, es importante comprender algunos conceptos clave de cómo funciona la característica multilingüe con las rutas de aprendizaje. 
 - Información del sitio: la navegación, el logotipo y las traducciones de nombres de sitio requieren que el sitio se vea y traduzca en el perfil de idioma del usuario.  
 - El elemento web caminos de aprendizaje debe visualizarse con el perfil de idioma del usuario para que aparezca en un idioma que no sea inglés. El elemento web y el contenido proporcionado por Microsoft ya están traducidos por usted. Para obtener más información acerca de los perfiles de idiomas, vea [Cambiar el idioma personal y la configuración regional.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)
-- La forma en que configura las rutas de aprendizaje determina si tiene las páginas traducidas disponibles. Los nuevos sitios aprovisionados con el servicio de libreta de apariencias de Microsoft 365 tendrán páginas traducidas en nueve idiomas disponibles. Los sitios o sitios actualizados que cree necesitarán traducción manual. Consulte [Opciones de configuración para las rutas de aprendizaje multilingües.](custom_setupoptions_ml.md)
-- Las características multilingües de SharePoint Online habilitan la compatibilidad multilingüe para las rutas de aprendizaje para los sitios de comunicación. Para obtener información sobre las características multilingües de SharePoint Online, vea Crear sitios de comunicación [multilingües, páginas y noticias.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c) 
+- La forma en que configura las rutas de aprendizaje determina si tiene las páginas traducidas disponibles. Los nuevos sitios aprovisionados con el Microsoft 365 de búsqueda tendrán páginas traducidas en nueve idiomas disponibles. Los sitios o sitios actualizados que cree necesitarán traducción manual. Consulte [Opciones de configuración para las rutas de aprendizaje multilingües.](custom_setupoptions_ml.md)
+- La compatibilidad multilingüe con las rutas de aprendizaje está habilitada SharePoint las características multilingües en línea para los sitios de comunicación. Para obtener información sobre SharePoint multilingües en línea, vea Crear sitios de comunicación [multilingües, páginas y noticias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Trabajar con un sitio recién aprovisionado
-Si aprovisionó un nuevo sitio de rutas de aprendizaje desde el servicio de libreta de apariencias de Microsoft 365, las páginas traducidas ya están disponibles. De forma predeterminada, el sitio proporciona las páginas siguientes:
+Si aprovisionó un nuevo sitio de rutas de aprendizaje desde el servicio de Microsoft 365 de búsqueda, las páginas traducidas ya están disponibles. De forma predeterminada, el sitio proporciona las páginas siguientes:
 
 - Home.aspx
 - Start-with-Six-Simple-Steps.aspx
@@ -35,7 +35,7 @@ Si aprovisionó un nuevo sitio de rutas de aprendizaje desde el servicio de libr
 - Eventos de aprendizaje calendar.aspx
 - Become-a-Champion.aspx
 - Recommended-Playlists.aspx
-- Centro de éxito de administración de caminos de aprendizaje
+- Learning de administración de rutas de acceso
 
 ## <a name="view-translated-pages-from-the-newly-provisioned-site"></a>Ver páginas traducidas desde el sitio recién aprovisionado
 Para familiarizarse con el sitio de caminos de aprendizaje traducido, echemos un vistazo a algunas páginas traducidas.
@@ -43,18 +43,18 @@ Para familiarizarse con el sitio de caminos de aprendizaje traducido, echemos un
 ### <a name="view-the-translated-home-page"></a>Ver la página principal traducida
 En la página principal de caminos de aprendizaje, seleccione un idioma en el desplegable de idioma como se muestra en el ejemplo siguiente. En el ejemplo, verá el italiano seleccionado en la esquina superior derecha y se traducen todos los elementos de página.
 
-![Fotos rutas de aprendizaje en uso](media/custom_ml_pages_home.png)
+![custom_ml página principal](media/custom_ml_pages_home.png)
 
-### <a name="view-the-translated-microsoft-365-training-page"></a>Ver la página de aprendizaje traducida de Microsoft 365
-Ahora echemos un vistazo a la página de aprendizaje de Microsoft 365. 
+### <a name="view-the-translated-microsoft-365-training-page"></a>Ver la página de aprendizaje Microsoft 365 traducción
+Ahora echemos un vistazo a la página de Microsoft 365 aprendizaje. 
 
-1. En la página principal del sitio de caminos de **aprendizaje,** haga clic en **Aprendizaje de Microsoft 365**.
+1. En la página principal del sitio de caminos de **aprendizaje,** **haga clic Microsoft 365 aprendizaje.**
 2. En la esquina superior derecha de la página, seleccione un idioma. En este ejemplo, se selecciona italiano.
 
-![Página de rutas de aprendizaje de ejemplo para italiano.](media/custom_ml_pages_training.png)
+![custom_ml_ de aprendizaje](media/custom_ml_pages_training.png)
 
 ¿Qué traducciones son visibles cuando se selecciona el idioma?
-- La página de SharePoint se traduce como se muestra en el gráfico anterior. Observe que el texto del banner de página está ahora en italiano.
+- La SharePoint se traduce como se muestra en el gráfico anterior. Observe que el texto del banner de página está ahora en italiano.
 
 ¿Qué son las traducciones no visibles?
 - El nombre del sitio está en inglés
@@ -65,7 +65,7 @@ Ahora echemos un vistazo a la página de aprendizaje de Microsoft 365.
 Para ver un sitio completamente traducido en un idioma específico, incluidas las páginas del sitio, la navegación y el elemento web, el idioma personal y la configuración regional del usuario deben establecerse para ese idioma. Para obtener más información sobre cómo establecer el idioma y la configuración regional, vea [Cambiar el idioma personal y la configuración regional.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7) Se recomienda usar una cuenta independiente o que otro usuario con la configuración de idioma diferente vea las páginas traducidas.  
 
 ## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>Trabajar con un sitio de rutas de aprendizaje actualizado o instalado manualmente
-Si ha actualizado un sitio de Learning Pathways existente o ha instalado manualmente el elemento web en un sitio existente, deberá traducir manualmente las páginas del sitio. El elemento web y el contenido de las rutas de aprendizaje ya están traducidos y aparecerán en el idioma preferido del usuario. Para traducir páginas, consulta las siguientes instrucciones "Crear páginas para los idiomas que quieras". 
+Si actualizó un sitio Learning Pathways o instaló manualmente el elemento web en un sitio existente, deberá traducir manualmente las páginas del sitio. El elemento web y el contenido de las rutas de aprendizaje ya están traducidos y aparecerán en el idioma preferido del usuario. Para traducir páginas, consulta las siguientes instrucciones "Crear páginas para los idiomas que quieras". 
 
 ## <a name="create-pages-for-the-languages-you-want"></a>Crear páginas para los idiomas que desee
 Una vez que hayas habilitado el sitio para características multilingües y hayas elegido los idiomas que quieres que estén disponibles, puedes crear las páginas de traducción que quieras. 
@@ -114,5 +114,5 @@ Después de que el sitio se configura en inglés, un usuario con el español com
 Para ver un sitio completamente traducido en un idioma específico, incluidas las páginas del sitio, la navegación y el elemento web, el idioma personal y la configuración regional del usuario deben establecerse para ese idioma. Para obtener más información sobre cómo establecer el idioma y la configuración regional, vea [Cambiar el idioma personal y la configuración regional.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7) Se recomienda usar una cuenta independiente o que otro usuario con la configuración de idioma diferente vea las páginas traducidas.
 
 ## <a name="for-more-information"></a>Más información
-- Para obtener más información acerca de la traducción de páginas de sitios de comunicación de SharePoint, vea [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
-- Para obtener más información sobre cómo personalizar las rutas de aprendizaje, vea [Personalizar caminos de aprendizaje.](custom_overview.md)  
+- Para obtener más información acerca de cómo traducir SharePoint de sitio de comunicación, vea Crear sitios de comunicación multilingües, [páginas y noticias](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+- Para obtener más información acerca de cómo personalizar las rutas de aprendizaje, [vea Personalizar Learning caminos](custom_overview.md).  

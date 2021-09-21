@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Configuración manual de caminos de aprendizaje
+title: Learning manual de rutas de acceso
 ms.date: 07/06/2020
 description: Microsoft 365 manual de rutas de aprendizaje
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 05df35787399cfb2445fa3ea4193e7f7f64848c5
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 7c6fc47336d354304164cebd95768a4bf97ee60f
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310444"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460968"
 ---
-# <a name="learning-pathways-manual-setup"></a>Configuración manual de caminos de aprendizaje
+# <a name="learning-pathways-manual-setup"></a>Learning manual de rutas de acceso
 
 Microsoft 365 de aprendizaje ofrece una configuración manual para organizaciones que necesitan soporte técnico para uno de los siguientes escenarios: 
 
@@ -30,7 +30,7 @@ Microsoft 365 de aprendizaje ofrece una configuración manual para organizacione
 - Japonés (Japón)
 - Portugués (Brasil)
 - Ruso (ruso)
-- Español
+- Spanish
 
 La configuración manual de las rutas de aprendizaje requiere experiencia trabajando con Windows PowerShell y el Shell SharePoint administración en línea. Este es un resumen de los pasos para la configuración manual de las rutas de aprendizaje: 
 
@@ -114,9 +114,9 @@ Parte de esta solución incluye la opción de seguimiento de telemetría anonimi
 
 Después de ejecutar correctamente el script de PowerShell, navegue al sitio, inicialice el elemento de lista **CustomConfig** que configura las rutas de aprendizaje para su primer uso y valide que el sitio funciona.
 
-- Vaya a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página con este aspecto:
+- Ve a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página con este aspecto:
 
-![Página de configuración de ejemplo.](media/cg-adminapppage.png)
+![Página de la aplicación de administración](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
 Como administrador de inquilinos, es poco probable que seas la persona que personalización del sitio, por lo que tendrás que asignar algunos propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y cambiar el nombre del sitio. También tienen la capacidad de ocultar y mostrar el contenido entregado a través del elemento web caminos de aprendizaje. Además, tendrán la capacidad de crear listas de reproducción personalizadas y asignarlas a subcategorías personalizadas.  

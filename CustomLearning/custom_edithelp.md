@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Personalizar el sitio de rutas de aprendizaje
+title: Personalizar el sitio de las rutas de aprendizaje
 ms.date: 02/15/2019
-description: Obtenga información sobre la variedad de personalizaciones disponibles con Microsoft 365 de aprendizaje
+description: Obtenga información sobre las distintas personalizaciones disponibles con Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: a9d95faa6eb0cd3f7bf002d707aba1e83b9a7656
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310634"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461098"
 ---
-# <a name="customize-the-site"></a>Personalizar el sitio
+# <a name="customize-the-learning-pathways-site"></a>Personalizar el sitio de rutas de aprendizaje
 
 El Microsoft 365 de rutas de aprendizaje se basa en una plantilla de comunicación SharePoint, por lo que es fácil modificar el sitio para satisfacer las necesidades de su organización. Puede cambiar el nombre del sitio, el logotipo, los elementos de menú y el contenido de las páginas. 
 
@@ -33,7 +33,7 @@ Como administrador del sitio de rutas de aprendizaje, una de las cosas que querr
 2.  Haga clic en el botón **Editar**.
 3.  Mantenga el mouse sobre una imagen de opción de ayuda y, a continuación, haga clic **en Editar elemento web**.
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![Editar contenido de ayuda](media/cg-edithelp.png)
 
 4.  En el **cuadro Vínculo,** escriba la dirección URL del recurso interno. 
 5.  Repita los pasos 3 y 4 para las otras dos imágenes que no están vinculadas.

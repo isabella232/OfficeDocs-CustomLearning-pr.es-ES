@@ -1,18 +1,18 @@
 ---
 title: 'Procedimientos recomendados del programa Champion: Microsoft 365 de adopción de usuarios finales'
-description: Impulsar la adopción de Office 365 con nuestros procedimientos recomendados del Programa de campeones y la guía Microsoft 365 de adopción de usuarios finales.
+description: Impulsar la adopción de Office 365 con procedimientos recomendados en el Programa de campeones
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 8553c5c97c42d8709f8da87efed8bb4ec2fc418a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334604"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460918"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365 Guía de adopción de usuarios finales
 
@@ -22,7 +22,7 @@ Para obtener más información sobre este tema, use Microsoft 365 Guía de adopc
 
 - Partes interesadas
 - Escenarios
-- Reconocimiento
+- Conciencia
 - Aprendizaje 
 - Planear, implementar y administrar cambios
 - 

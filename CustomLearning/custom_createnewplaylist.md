@@ -7,12 +7,12 @@ description: Cómo crear nuevas listas de reproducción
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4d2576cb5ea39ea2251b78481451ac098cda2c23
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 98eb03ee2f71f390881b4497d9d2e3567dfca88a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310654"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461119"
 ---
 # <a name="create-a-custom-playlist"></a>Crear una lista de reproducción personalizada
 
@@ -24,22 +24,22 @@ Con Microsoft 365 de aprendizaje, puede crear listas de reproducción personaliz
 2. Seleccione la **subcategoría Administrar**" icono. En este ejemplo, seleccione **First Days**.  
 3. Haga clic en el icono +.  
 
-![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
+![Botón para crear una lista de reproducción](media/cg-newplaylistbtn.png)
 
 4.  Rellene los campos de la lista de reproducción como se muestra en el ejemplo siguiente. Puede dejar el icono predeterminado para este ejemplo. 
 
-![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
+![Detalles que se rellenarán para la lista de reproducción](media/cg-newplaylistdetails.png)
 
 5.  Cuando haya terminado, seleccione **Guardar detalle**. 
 
 ## <a name="edit-a-playlist"></a>Editar una lista de reproducción
 
-- En la **página Administración de aprendizaje personalizado,** haga clic en la lista de reproducción y, a continuación, haga clic en Editar **detalle**.  
+- En la **página Administración Learning,** haga clic en la lista de reproducción y, a continuación, haga clic **en Editar detalle**.  
 
-![cg-editplaylist.png](media/cg-editplaylist.png)
+![Editar lista de reproducción](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>Eliminar una lista de reproducción
 
-- En la página Administración de aprendizaje personalizado, haga clic en **el icono Eliminar** de la lista de reproducción.  
+- En la página Administración Learning, haga clic en **el icono Eliminar** de la lista de reproducción.  
 
-![cg-deleteplaylist.png](media/cg-deleteplaylist.png)
+![Eliminar lista de reproducción](media/cg-deleteplaylist.png)

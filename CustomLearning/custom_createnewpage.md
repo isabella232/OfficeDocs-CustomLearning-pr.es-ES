@@ -7,12 +7,12 @@ description: Crear SharePoint para listas de reproducción
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: ce4a204b3072469840b6f3fa8f93d9e78833b181
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: e29fca92fd4102f89f08a90a8a1be11776f35995
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310664"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461129"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Crear SharePoint para listas de reproducción personalizadas
 
@@ -25,7 +25,7 @@ Una de las características únicas de las rutas de aprendizaje es la capacidad 
 3. En la columna izquierda, haga clic en + y, a continuación, haga clic en el elemento web **Insertar.** 
 4. En la columna derecha, haga clic en +y, a continuación, haga clic en el **elemento** web Texto. La página debe tener este aspecto.
 
-![cg-pagenewstart.png](media/cg-pagenewstart.png)
+![crear una página de sharepoint](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Agregar un vídeo y texto de YouTube
 
@@ -38,7 +38,7 @@ Una de las características únicas de las rutas de aprendizaje es la capacidad 
 7. Seleccione el **icono Editar elemento web** en el área Título de la página SharePoint y, a continuación, asigne a la página el nombre "Introducción a la lista de reproducción personalizada". 
 8. En **Diseño**, seleccione **Sin formato** y, a continuación, cierre el panel de propiedades de la **región** de título. La página ahora debería tener un aspecto parecido al siguiente. 
 
-![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
+![Finalizar la página](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Publicar la página
 

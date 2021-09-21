@@ -1,25 +1,25 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Centro de éxito de administración de caminos de aprendizaje
+title: Learning de administración de rutas de acceso
 ms.date: 10/24/2019
-description: Centro de éxito de administración de caminos de aprendizaje
+description: Learning de administración de rutas de acceso
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: 321602a71691f2297eab21dcedf16998fc6aef2a
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 7f1ec0d07046903b37980c3d7f8b93e897348aa9
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000276"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460948"
 ---
-# <a name="learning-pathways-admin-success-center"></a>Centro de éxito de administración de caminos de aprendizaje
+# <a name="learning-pathways-admin-success-center"></a>Learning de administración de rutas de acceso
 
-Bienvenido al Centro de éxito de administración de caminos de aprendizaje de Microsoft 365. El Centro de éxito de administración proporciona instrucciones y recursos para ayudarle a planear, personalizar, impulsar la adopción y medir el impacto de la implementación de las rutas de aprendizaje.
+Bienvenido al Centro de éxito Microsoft 365 aprendizaje de rutas de aprendizaje. El Centro de éxito de administración proporciona instrucciones y recursos para ayudarle a planear, personalizar, impulsar la adopción y medir el impacto de la implementación de las rutas de aprendizaje.
 
-![Página principal del Centro de administración de caminos de aprendizaje.](media/cg-successcenter.png)
+![Centro de éxito](media/cg-successcenter.png)
 
 ## <a name="sign-in-to-office-365"></a>Iniciar sesión en Office 365 
 
@@ -31,9 +31,9 @@ Bienvenido al Centro de éxito de administración de caminos de aprendizaje de M
 
 El Centro de éxito de administración proporciona instrucciones y recursos para ayudarle a planear, personalizar, impulsar la adopción y medir el impacto de la implementación de las rutas de aprendizaje. 
 
-- En la página Inicio de las **rutas** de aprendizaje de Microsoft 365, haga clic en Introducción al Centro de éxito **de administración.**
+- En la página principal Microsoft 365 de **aprendizaje,** haga clic en Introducción al Centro de éxito **de administración.**
 
-Las rutas de aprendizaje proporcionan instrucciones dentro del Centro de éxito de administración en la solución. La documentación del Centro de éxito de administración también está disponible en este conjunto de documentación: 
+Learning rutas de acceso proporciona instrucciones en el Centro de éxito de administración en la solución. La documentación del Centro de éxito de administración también está disponible en este conjunto de documentación: 
 
 - [Planificar el contenido del aprendizaje](custom_plancontent.md)
 - [Personalizar las formas de aprendizaje](custom_overview.md)
