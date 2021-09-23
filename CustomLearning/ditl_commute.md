@@ -1,6 +1,6 @@
 ---
 title: 'Día en la vida con Office 365: en su viaje diario'
-description: Pasos para estar listo para el día a mano con Office 365.
+description: Pasos rápidos para prepararse para el día a mano con Office 365
 author: karuanag
 ms.author: karuanag
 manager: alexb
@@ -8,12 +8,12 @@ ms.date: 02/01/2019
 audience: itpro
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 65495b941f4c39c45d5e7818d0f1e54c6c10a217
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: 3c7bdd224d69f049ca191fdb84d09088b44e0dcc
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749348"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485551"
 ---
 # <a name="during-your-commute"></a>Durante su desplazamiento
 

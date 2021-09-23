@@ -7,12 +7,12 @@ description: Crear una nueva subcategoría con rutas de aprendizaje
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 5f42f3b347a0ca20d44d03c397be71defb00a30e
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310424"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485461"
 ---
 # <a name="create-a-subcategory"></a>Crear una subcategoría 
 En algunos casos, querrá crear una nueva subcategoría. Por ejemplo, si la subcategoría First Days no funciona para su organización, puede crear una subcategoría nueva y, a continuación, agregarle listas de reproducción para satisfacer las necesidades de su organización. 
@@ -22,7 +22,7 @@ En algunos casos, querrá crear una nueva subcategoría. Por ejemplo, si la subc
 3. Desplácese hacia abajo en la página, 
 3. Haga clic en **el icono Agregar nueva subcategoría +** .  
 
-![cg-newsubcategory.png](media/cg-newsubcategory.png)
+![Nueva subcategoría](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Las subcategorías proporcionadas por Microsoft pueden ocultarse, pero no editarse ni eliminarse. 

@@ -7,12 +7,12 @@ description: Cómo ocultar, mostrar, editar y eliminar subcategorías
 ms.service: sharepoint-online
 ms.topic: article
 manager: bpardi
-ms.openlocfilehash: aa75ddb020a5921a164575f56fd735b4cd97a29b
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 2b2f819b4a25bb97bfcd655c96f47f53f13a95e1
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310564"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485151"
 ---
 # <a name="hide-and-show-subcategories"></a>Ocultar y mostrar subcategorías
 
@@ -24,12 +24,12 @@ Con la página de administración de caminos de aprendizaje, puede ocultar y mos
 2. En el elemento Microsoft 365 web caminos de aprendizaje, haga clic en el icono Administración. 
 3. En el panel izquierdo de la página, seleccione una subcategoría y, a continuación, seleccione el globo ocular de la subcategoría para ocultarla. En este ejemplo, oculte **la subcategoría Yammer.**  
 
-![La ventana de ejemplo muestra el icono para ocultar una subcategoría.](media/cg-hidesubcat.png)
+![Ocultar subcategoría](media/cg-hidesubcat.png)
 
 ### <a name="verify-the-subcategory-is-hidden"></a>Comprobar que la subcategoría está oculta
 - Para comprobar que la subcategoría está oculta, seleccione la pestaña del explorador con Introducción con Microsoft 365 página cargada y, **a** continuación, actualice la página. Ahora debería ver la subcategoría Yammer en la categoría Productos. 
 
-![La ventana de ejemplo muestra que el subcatorio oculto ya no se retrasa.](media/cg-hidesubcatrefresh.png)
+![Ocultar actualización de subcategoría](media/cg-hidesubcatrefresh.png)
 
 ## <a name="unhide-a-subcategory"></a>Mostrar una subcategoría 
 

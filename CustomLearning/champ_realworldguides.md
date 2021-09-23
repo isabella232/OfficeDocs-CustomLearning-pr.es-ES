@@ -1,18 +1,18 @@
 ---
 title: 'Procedimientos recomendados del programa de campeones: guía del mundo real'
-description: Guía del mundo real para el Programa de campeones de Microsoft 365.
+description: Impulsar la adopción de Office 365 con los procedimientos recomendados del Programa de campeones
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 manager: alexb
 ms.service: sharepoint-online
-ms.openlocfilehash: c96d9d875ace3f8da147a44a8562556d8557bede
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 566530ab1dda0791a2adf7af1169e69b512a38b7
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334584"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485501"
 ---
 # <a name="real-world-guidance-for-your-champions-program"></a>Guía del mundo real para su programa de campeones
 

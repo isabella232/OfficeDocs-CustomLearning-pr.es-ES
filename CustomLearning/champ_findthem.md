@@ -1,18 +1,18 @@
 ---
 title: 'Procedimientos recomendados del programa de campeones: Buscar campeones'
-description: Impulsar la adopción de Office 365 mediante los procedimientos recomendados del Programa de campeones.
+description: Impulsar la adopción de Office 365 con los procedimientos recomendados de nuestros programas de campeones
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 34870108b82bf79793a014129dbd45f145f214be
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: c950f00218aa4f6dbd24b410e261ad86a5e44412
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334614"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485511"
 ---
 # <a name="finding-your-champions"></a>Encontrar a los campeones 
 

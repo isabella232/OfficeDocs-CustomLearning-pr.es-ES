@@ -1,21 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Configuración manual de caminos de aprendizaje para ml
+title: Learning manual de rutas de acceso para ml
 ms.date: 02/10/2019
-description: Configuración manual de caminos de aprendizaje
+description: Learning manual de rutas de acceso
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 386b98a49755a7dd89964446eff9d1c6cd752949
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 89693e3020baa46f86b51b97c54240f12fec2d3a
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310384"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485171"
 ---
-# <a name="learning-pathways-manual-setup-for-multilingual"></a>Configuración manual de caminos de aprendizaje para multilingües
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Learning de rutas de acceso manual para multilingües
 
 Microsoft 365 de aprendizaje ofrece una configuración manual para organizaciones que necesitan soporte técnico para uno de los siguientes escenarios:
 
@@ -31,7 +31,7 @@ Microsoft 365 de aprendizaje ofrece una configuración manual para organizacione
 - Japonés (Japón)
 - Portugués (Brasil)
 - Ruso (ruso)
-- Español
+- Spanish
 
 La configuración manual de las rutas de aprendizaje requiere experiencia trabajando con Windows PowerShell y el Shell SharePoint administración en línea. Este es un resumen de los pasos para la configuración manual de las rutas de aprendizaje: 
 
@@ -104,7 +104,7 @@ Asegúrese de que se han establecido los siguientes permisos para el sitio:
 ## <a name="step-6--execute-powershell-configuration-script"></a>Paso 6: Ejecutar script de configuración de PowerShell
 Se incluye un script de PowerShell que deberá ejecutar para crear tres `CustomLearningConfiguration.ps1` propiedades [de inquilino](/sharepoint/dev/spfx/tenant-properties) que usa la solución. Además, el script crea dos [páginas](/sharepoint/dev/spfx/web-parts/single-part-app-pages) de aplicación de un solo elemento en la biblioteca de páginas del sitio para hospedar los elementos web de administrador y usuario en una ubicación conocida.
 
-1. Si aún no has descargado el Shell de administración SharePoint online, descárbalo ahora. Consulte [SharePoint Descarga del Shell de administración en línea](https://go.microsoft.com/fwlink/p/).
+1. Si aún no has descargado el Shell de administración SharePoint online, descárbalo ahora. Consulte [SharePoint Descarga del Shell de administración en línea](https://go.microsoft.com/fwlink/p/?LinkId=255251).
 2. Es posible que deba establecer una directiva de ejecución de PowerShell para ejecutar el script. Para obtener más información, vea [About Execution Policies](/powershell/module/microsoft.powershell.core/about/about_execution_policies).
 3. Ejecute el `CustomLearningConfiguration.ps1` script. Además de las credenciales de administrador de inquilinos, el script le pedirá el nombre del inquilino y el nombre del sitio. Teniendo en cuenta el siguiente ejemplo para la dirección URL del sitio, , es el nombre `https://contoso.sharepoint.com/sites/O365CL` del inquilino y es el nombre del `contoso` `O365CL` sitio. 
 
@@ -115,9 +115,9 @@ Parte de esta solución incluye la opción de seguimiento de telemetría anonimi
 
 Después de ejecutar correctamente el script de PowerShell, navegue al sitio, inicialice el elemento de lista **CustomConfig** que configura las rutas de aprendizaje para su primer uso y valide que el sitio funciona.
 
-- Vaya a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página con este aspecto:
+- Ve a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Al abrir **CustomLearningAdmin. aspx** se inicializa el elemento de lista de **CustomConfig** que configura las rutas de aprendizaje para el primer uso. Debería ver una página con este aspecto:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Aplicación de administración page.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Agregar propietarios al sitio
 Como administrador de inquilinos, es poco probable que seas la persona que personalización del sitio, por lo que tendrás que asignar algunos propietarios al sitio. Los propietarios tienen privilegios administrativos en el sitio para que puedan modificar las páginas del sitio y cambiar el nombre del sitio. También tienen la capacidad de ocultar y mostrar el contenido entregado a través del elemento web caminos de aprendizaje. Además, tendrán la capacidad de crear listas de reproducción personalizadas y asignarlas a subcategorías personalizadas.  
