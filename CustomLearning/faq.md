@@ -7,14 +7,14 @@ ms.date: 02/10/2019
 description: Información de preguntas más frecuentes para Microsoft 365 de aprendizaje
 ms.service: sharepoint-online
 ms.topic: article
-ms.openlocfilehash: 30d626416992ef5930563b9001ef1c8b773b949c
-ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
+ms.openlocfilehash: 82a7e777490e13fde6fef5add40beee417050027
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59485531"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048727"
 ---
-# <a name="frequently-asked-questions"></a>Preguntas más frecuentes
+# <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 ## <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>¿Cuáles son los requisitos para instalar Microsoft 365 de aprendizaje en mi entorno de inquilino?
 
@@ -27,8 +27,7 @@ ms.locfileid: "59485531"
 ## <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>¿Por qué Microsoft pide permisos de inquilino al instalar Microsoft 365 de aprendizaje?
 
 El servicio SharePoint Online Provisioning usa los permisos para aprovisionar el sitio de Learning Pathways SharePoint, crear las páginas del sitio e instalar la aplicación de caminos de aprendizaje de Microsoft 365 en su inquilino. Ese es el único motivo por el que solicitamos los permisos. Sin los permisos solicitados, el servicio SharePoint aprovisionar no puede ejecutar los comandos que instalan automáticamente la plantilla de sitio y el elemento web de caminos de aprendizaje.
-
-Si aún tiene dudas sobre este nivel de acceso, puede conceder los permisos e implementar las plantillas de sitio que le interesen y, a continuación, quitar inmediatamente los permisos concedidos a la aplicación en la Tienda de aplicaciones de [Azure](https://myapps.microsoft.com).
+![Captura de pantalla de la solicitud de permisos](media/faqs-permissions-request-screenshot.png "Solicitud de permisos") Si aún tiene dudas sobre este nivel de acceso, puede conceder los permisos e implementar las plantillas de sitio que le interesen y, a continuación, quitar inmediatamente los permisos concedidos a la aplicación en la Tienda de aplicaciones de [Azure](https://myapps.microsoft.com).
 
 ## <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>¿Cuánto tiempo se necesita para instalar el sitio en nuestro entorno de inquilino?
 
